@@ -1,3 +1,5 @@
 transformers
 bertopic
 shap
+pandas
+sentence_transformers
