@@ -4,7 +4,19 @@ from typing import List
 import pandas as pd
 from sklearn.datasets import fetch_20newsgroups
 import os
+import numpy as np
+import json
 
+class NpEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        if isinstance(obj, np.ndarray):
+            return obj.tolist()
+        return super(NpEncoder, self).default(obj)
+    
 def convert_ctfidf(ctfidf_json:dict):
     ctf_idf_converted = {}
     for key in ctfidf_json.keys():
