@@ -1,0 +1,8138 @@
+{
+  "Topic_0": {
+    "25": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 1,
+      "all_to_noise": 2050,
+      "topic_change": 1,
+      "topic_same": 1825
+    },
+    "players": {
+      "total_changes": 2806,
+      "total_same": 16040,
+      "topic_to_noise": 3,
+      "all_to_noise": 2047,
+      "topic_change": 3,
+      "topic_same": 1823
+    },
+    "games": {
+      "total_changes": 2886,
+      "total_same": 15960,
+      "topic_to_noise": 0,
+      "all_to_noise": 2059,
+      "topic_change": 1,
+      "topic_same": 1825
+    },
+    "season": {
+      "total_changes": 2773,
+      "total_same": 16073,
+      "topic_to_noise": 3,
+      "all_to_noise": 1999,
+      "topic_change": 3,
+      "topic_same": 1823
+    },
+    "play": {
+      "total_changes": 2861,
+      "total_same": 15985,
+      "topic_to_noise": 6,
+      "all_to_noise": 2074,
+      "topic_change": 9,
+      "topic_same": 1817
+    },
+    "team": {
+      "total_changes": 2840,
+      "total_same": 16006,
+      "topic_to_noise": 1,
+      "all_to_noise": 2069,
+      "topic_change": 1,
+      "topic_same": 1825
+    },
+    "year": {
+      "total_changes": 2850,
+      "total_same": 15996,
+      "topic_to_noise": 1,
+      "all_to_noise": 2091,
+      "topic_change": 1,
+      "topic_same": 1825
+    },
+    "game": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 2,
+      "all_to_noise": 2063,
+      "topic_change": 4,
+      "topic_same": 1822
+    },
+    "hockey": {
+      "total_changes": 2788,
+      "total_same": 16058,
+      "topic_to_noise": 6,
+      "all_to_noise": 2064,
+      "topic_change": 6,
+      "topic_same": 1820
+    },
+    "he": {
+      "total_changes": 3285,
+      "total_same": 15561,
+      "topic_to_noise": 17,
+      "all_to_noise": 2381,
+      "topic_change": 19,
+      "topic_same": 1807
+    }
+  },
+  "Topic_1": {
+    "chip": {
+      "total_changes": 2874,
+      "total_same": 15972,
+      "topic_to_noise": 46,
+      "all_to_noise": 2092,
+      "topic_change": 46,
+      "topic_same": 550
+    },
+    "key": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 73,
+      "all_to_noise": 2089,
+      "topic_change": 75,
+      "topic_same": 521
+    },
+    "encryption": {
+      "total_changes": 2818,
+      "total_same": 16028,
+      "topic_to_noise": 72,
+      "all_to_noise": 2036,
+      "topic_change": 73,
+      "topic_same": 523
+    },
+    "nsa": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 53,
+      "all_to_noise": 2067,
+      "topic_change": 53,
+      "topic_same": 543
+    },
+    "keys": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 65,
+      "all_to_noise": 2082,
+      "topic_change": 66,
+      "topic_same": 530
+    },
+    "escrow": {
+      "total_changes": 2801,
+      "total_same": 16045,
+      "topic_to_noise": 54,
+      "all_to_noise": 2035,
+      "topic_change": 56,
+      "topic_same": 540
+    },
+    "government": {
+      "total_changes": 2922,
+      "total_same": 15924,
+      "topic_to_noise": 63,
+      "all_to_noise": 2081,
+      "topic_change": 63,
+      "topic_same": 533
+    },
+    "algorithm": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 53,
+      "all_to_noise": 2075,
+      "topic_change": 54,
+      "topic_same": 542
+    },
+    "clipper": {
+      "total_changes": 2816,
+      "total_same": 16030,
+      "topic_to_noise": 49,
+      "all_to_noise": 2026,
+      "topic_change": 49,
+      "topic_same": 547
+    },
+    "be": {
+      "total_changes": 2887,
+      "total_same": 15959,
+      "topic_to_noise": 55,
+      "all_to_noise": 2078,
+      "topic_change": 56,
+      "topic_same": 540
+    }
+  },
+  "Topic_2": {
+    "scsi": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 42,
+      "all_to_noise": 2104,
+      "topic_change": 43,
+      "topic_same": 384
+    },
+    "bus": {
+      "total_changes": 2920,
+      "total_same": 15926,
+      "topic_to_noise": 43,
+      "all_to_noise": 2128,
+      "topic_change": 43,
+      "topic_same": 384
+    },
+    "disk": {
+      "total_changes": 2904,
+      "total_same": 15942,
+      "topic_to_noise": 55,
+      "all_to_noise": 2091,
+      "topic_change": 58,
+      "topic_same": 369
+    },
+    "hard": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 41,
+      "all_to_noise": 2081,
+      "topic_change": 41,
+      "topic_same": 386
+    },
+    "bios": {
+      "total_changes": 2796,
+      "total_same": 16050,
+      "topic_to_noise": 45,
+      "all_to_noise": 2044,
+      "topic_change": 45,
+      "topic_same": 382
+    },
+    "ide": {
+      "total_changes": 2957,
+      "total_same": 15889,
+      "topic_to_noise": 53,
+      "all_to_noise": 2142,
+      "topic_change": 53,
+      "topic_same": 374
+    },
+    "drive": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 58,
+      "all_to_noise": 2101,
+      "topic_change": 58,
+      "topic_same": 369
+    },
+    "scsi2": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 427
+    },
+    "drives": {
+      "total_changes": 2830,
+      "total_same": 16016,
+      "topic_to_noise": 43,
+      "all_to_noise": 2054,
+      "topic_change": 43,
+      "topic_same": 384
+    },
+    "controller": {
+      "total_changes": 2866,
+      "total_same": 15980,
+      "topic_to_noise": 35,
+      "all_to_noise": 2106,
+      "topic_change": 35,
+      "topic_same": 392
+    }
+  },
+  "Topic_3": {
+    ".csv": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 380
+    },
+    "nan": {
+      "total_changes": 3224,
+      "total_same": 15622,
+      "topic_to_noise": 0,
+      "all_to_noise": 2046,
+      "topic_change": 380,
+      "topic_same": 0
+    }
+  },
+  "Topic_4": {
+    "gaza": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 316
+    },
+    "jews": {
+      "total_changes": 2902,
+      "total_same": 15944,
+      "topic_to_noise": 75,
+      "all_to_noise": 2089,
+      "topic_change": 76,
+      "topic_same": 240
+    },
+    "arabs": {
+      "total_changes": 2894,
+      "total_same": 15952,
+      "topic_to_noise": 78,
+      "all_to_noise": 2110,
+      "topic_change": 78,
+      "topic_same": 238
+    },
+    "israelis": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 67,
+      "all_to_noise": 2058,
+      "topic_change": 68,
+      "topic_same": 248
+    },
+    "arab": {
+      "total_changes": 2900,
+      "total_same": 15946,
+      "topic_to_noise": 82,
+      "all_to_noise": 2080,
+      "topic_change": 82,
+      "topic_same": 234
+    },
+    "israeli": {
+      "total_changes": 2806,
+      "total_same": 16040,
+      "topic_to_noise": 69,
+      "all_to_noise": 2024,
+      "topic_change": 70,
+      "topic_same": 246
+    },
+    "palestinian": {
+      "total_changes": 2873,
+      "total_same": 15973,
+      "topic_to_noise": 87,
+      "all_to_noise": 2081,
+      "topic_change": 87,
+      "topic_same": 229
+    },
+    "israel": {
+      "total_changes": 2802,
+      "total_same": 16044,
+      "topic_to_noise": 61,
+      "all_to_noise": 2028,
+      "topic_change": 61,
+      "topic_same": 255
+    },
+    "jewish": {
+      "total_changes": 2808,
+      "total_same": 16038,
+      "topic_to_noise": 69,
+      "all_to_noise": 2048,
+      "topic_change": 70,
+      "topic_same": 246
+    },
+    "palestinians": {
+      "total_changes": 2849,
+      "total_same": 15997,
+      "topic_to_noise": 72,
+      "all_to_noise": 2067,
+      "topic_change": 73,
+      "topic_same": 243
+    }
+  },
+  "Topic_5": {
+    "road": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 59,
+      "all_to_noise": 2075,
+      "topic_change": 60,
+      "topic_same": 235
+    },
+    "your": {
+      "total_changes": 2824,
+      "total_same": 16022,
+      "topic_to_noise": 58,
+      "all_to_noise": 2049,
+      "topic_change": 58,
+      "topic_same": 237
+    },
+    "you": {
+      "total_changes": 2877,
+      "total_same": 15969,
+      "topic_to_noise": 56,
+      "all_to_noise": 2075,
+      "topic_change": 56,
+      "topic_same": 239
+    },
+    "bike": {
+      "total_changes": 2908,
+      "total_same": 15938,
+      "topic_to_noise": 64,
+      "all_to_noise": 2072,
+      "topic_change": 65,
+      "topic_same": 230
+    },
+    "car": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 57,
+      "all_to_noise": 2090,
+      "topic_change": 58,
+      "topic_same": 237
+    },
+    "dod": {
+      "total_changes": 2823,
+      "total_same": 16023,
+      "topic_to_noise": 61,
+      "all_to_noise": 2043,
+      "topic_change": 61,
+      "topic_same": 234
+    },
+    "my": {
+      "total_changes": 2913,
+      "total_same": 15933,
+      "topic_to_noise": 59,
+      "all_to_noise": 2136,
+      "topic_change": 59,
+      "topic_same": 236
+    },
+    "lane": {
+      "total_changes": 2880,
+      "total_same": 15966,
+      "topic_to_noise": 59,
+      "all_to_noise": 2063,
+      "topic_change": 59,
+      "topic_same": 236
+    },
+    "riding": {
+      "total_changes": 2838,
+      "total_same": 16008,
+      "topic_to_noise": 65,
+      "all_to_noise": 2059,
+      "topic_change": 65,
+      "topic_same": 230
+    },
+    "ride": {
+      "total_changes": 2861,
+      "total_same": 15985,
+      "topic_to_noise": 46,
+      "all_to_noise": 2068,
+      "topic_change": 47,
+      "topic_same": 248
+    }
+  },
+  "Topic_6": {
+    "monitor": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 58,
+      "all_to_noise": 2123,
+      "topic_change": 58,
+      "topic_same": 150
+    },
+    "system": {
+      "total_changes": 2834,
+      "total_same": 16012,
+      "topic_to_noise": 49,
+      "all_to_noise": 2069,
+      "topic_change": 49,
+      "topic_same": 159
+    },
+    "pc": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 49,
+      "all_to_noise": 2068,
+      "topic_change": 49,
+      "topic_same": 159
+    },
+    "price": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 53,
+      "all_to_noise": 2063,
+      "topic_change": 53,
+      "topic_same": 155
+    },
+    "sale": {
+      "total_changes": 2861,
+      "total_same": 15985,
+      "topic_to_noise": 50,
+      "all_to_noise": 2056,
+      "topic_change": 50,
+      "topic_same": 158
+    },
+    "drive": {
+      "total_changes": 2881,
+      "total_same": 15965,
+      "topic_to_noise": 58,
+      "all_to_noise": 2118,
+      "topic_change": 58,
+      "topic_same": 150
+    },
+    "ram": {
+      "total_changes": 2852,
+      "total_same": 15994,
+      "topic_to_noise": 54,
+      "all_to_noise": 2043,
+      "topic_change": 54,
+      "topic_same": 154
+    },
+    "os": {
+      "total_changes": 2919,
+      "total_same": 15927,
+      "topic_to_noise": 57,
+      "all_to_noise": 2091,
+      "topic_change": 57,
+      "topic_same": 151
+    },
+    "ibm": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 60,
+      "all_to_noise": 2043,
+      "topic_change": 60,
+      "topic_same": 148
+    },
+    "card": {
+      "total_changes": 2841,
+      "total_same": 16005,
+      "topic_to_noise": 55,
+      "all_to_noise": 2037,
+      "topic_change": 55,
+      "topic_same": 153
+    }
+  },
+  "Topic_7": {
+    "gif": {
+      "total_changes": 2880,
+      "total_same": 15966,
+      "topic_to_noise": 56,
+      "all_to_noise": 2091,
+      "topic_change": 56,
+      "topic_same": 102
+    },
+    "format": {
+      "total_changes": 2872,
+      "total_same": 15974,
+      "topic_to_noise": 45,
+      "all_to_noise": 2108,
+      "topic_change": 45,
+      "topic_same": 113
+    },
+    "images": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 46,
+      "all_to_noise": 2018,
+      "topic_change": 46,
+      "topic_same": 112
+    },
+    "files": {
+      "total_changes": 2831,
+      "total_same": 16015,
+      "topic_to_noise": 42,
+      "all_to_noise": 2071,
+      "topic_change": 42,
+      "topic_same": 116
+    },
+    "color": {
+      "total_changes": 2947,
+      "total_same": 15899,
+      "topic_to_noise": 50,
+      "all_to_noise": 2141,
+      "topic_change": 51,
+      "topic_same": 107
+    },
+    "jfif": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 158
+    },
+    "file": {
+      "total_changes": 2886,
+      "total_same": 15960,
+      "topic_to_noise": 53,
+      "all_to_noise": 2088,
+      "topic_change": 54,
+      "topic_same": 104
+    },
+    "jpeg": {
+      "total_changes": 2879,
+      "total_same": 15967,
+      "topic_to_noise": 51,
+      "all_to_noise": 2055,
+      "topic_change": 51,
+      "topic_same": 107
+    },
+    "image": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 52,
+      "all_to_noise": 2060,
+      "topic_change": 53,
+      "topic_same": 105
+    },
+    "quality": {
+      "total_changes": 2823,
+      "total_same": 16023,
+      "topic_to_noise": 41,
+      "all_to_noise": 2034,
+      "topic_change": 41,
+      "topic_same": 117
+    }
+  },
+  "Topic_8": {
+    "mustang": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 90,
+      "all_to_noise": 2089,
+      "topic_change": 91,
+      "topic_same": 66
+    },
+    "cars": {
+      "total_changes": 2866,
+      "total_same": 15980,
+      "topic_to_noise": 93,
+      "all_to_noise": 2068,
+      "topic_change": 96,
+      "topic_same": 61
+    },
+    "v6": {
+      "total_changes": 2921,
+      "total_same": 15925,
+      "topic_to_noise": 89,
+      "all_to_noise": 2120,
+      "topic_change": 90,
+      "topic_same": 67
+    },
+    "v8": {
+      "total_changes": 2817,
+      "total_same": 16029,
+      "topic_to_noise": 99,
+      "all_to_noise": 2057,
+      "topic_change": 100,
+      "topic_same": 57
+    },
+    "engine": {
+      "total_changes": 2794,
+      "total_same": 16052,
+      "topic_to_noise": 82,
+      "all_to_noise": 1994,
+      "topic_change": 83,
+      "topic_same": 74
+    },
+    "suspension": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 82,
+      "all_to_noise": 2078,
+      "topic_change": 83,
+      "topic_same": 74
+    },
+    "ford": {
+      "total_changes": 2792,
+      "total_same": 16054,
+      "topic_to_noise": 86,
+      "all_to_noise": 2029,
+      "topic_change": 87,
+      "topic_same": 70
+    },
+    "audi": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 95,
+      "all_to_noise": 2048,
+      "topic_change": 95,
+      "topic_same": 62
+    },
+    "car": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 98,
+      "all_to_noise": 2059,
+      "topic_change": 100,
+      "topic_same": 57
+    },
+    "camaro": {
+      "total_changes": 2768,
+      "total_same": 16078,
+      "topic_to_noise": 89,
+      "all_to_noise": 2012,
+      "topic_change": 90,
+      "topic_same": 67
+    }
+  },
+  "Topic_9": {
+    "amplifier": {
+      "total_changes": 2820,
+      "total_same": 16026,
+      "topic_to_noise": 37,
+      "all_to_noise": 2057,
+      "topic_change": 37,
+      "topic_same": 118
+    },
+    "asking": {
+      "total_changes": 2886,
+      "total_same": 15960,
+      "topic_to_noise": 36,
+      "all_to_noise": 2081,
+      "topic_change": 37,
+      "topic_same": 118
+    },
+    "condition": {
+      "total_changes": 2898,
+      "total_same": 15948,
+      "topic_to_noise": 37,
+      "all_to_noise": 2103,
+      "topic_change": 37,
+      "topic_same": 118
+    },
+    "sale": {
+      "total_changes": 2801,
+      "total_same": 16045,
+      "topic_to_noise": 38,
+      "all_to_noise": 2023,
+      "topic_change": 38,
+      "topic_same": 117
+    },
+    "offer": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 37,
+      "all_to_noise": 2084,
+      "topic_change": 38,
+      "topic_same": 117
+    },
+    "sony": {
+      "total_changes": 2882,
+      "total_same": 15964,
+      "topic_to_noise": 36,
+      "all_to_noise": 2099,
+      "topic_change": 36,
+      "topic_same": 119
+    },
+    "stereo": {
+      "total_changes": 2887,
+      "total_same": 15959,
+      "topic_to_noise": 33,
+      "all_to_noise": 2089,
+      "topic_change": 33,
+      "topic_same": 122
+    },
+    "audio": {
+      "total_changes": 2880,
+      "total_same": 15966,
+      "topic_to_noise": 37,
+      "all_to_noise": 2054,
+      "topic_change": 37,
+      "topic_same": 118
+    },
+    "speakers": {
+      "total_changes": 2808,
+      "total_same": 16038,
+      "topic_to_noise": 43,
+      "all_to_noise": 2064,
+      "topic_change": 44,
+      "topic_same": 111
+    },
+    "amp": {
+      "total_changes": 2946,
+      "total_same": 15900,
+      "topic_to_noise": 43,
+      "all_to_noise": 2158,
+      "topic_change": 43,
+      "topic_same": 112
+    }
+  },
+  "Topic_10": {
+    "ink": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 7,
+      "all_to_noise": 2053,
+      "topic_change": 7,
+      "topic_same": 146
+    },
+    "hp": {
+      "total_changes": 2782,
+      "total_same": 16064,
+      "topic_to_noise": 10,
+      "all_to_noise": 2055,
+      "topic_change": 11,
+      "topic_same": 142
+    },
+    "deskjet": {
+      "total_changes": 2848,
+      "total_same": 15998,
+      "topic_to_noise": 8,
+      "all_to_noise": 2094,
+      "topic_change": 8,
+      "topic_same": 145
+    },
+    "printing": {
+      "total_changes": 2793,
+      "total_same": 16053,
+      "topic_to_noise": 18,
+      "all_to_noise": 2024,
+      "topic_change": 18,
+      "topic_same": 135
+    },
+    "paper": {
+      "total_changes": 2867,
+      "total_same": 15979,
+      "topic_to_noise": 8,
+      "all_to_noise": 2074,
+      "topic_change": 8,
+      "topic_same": 145
+    },
+    "printer": {
+      "total_changes": 2928,
+      "total_same": 15918,
+      "topic_to_noise": 30,
+      "all_to_noise": 2133,
+      "topic_change": 31,
+      "topic_same": 122
+    },
+    "laser": {
+      "total_changes": 2877,
+      "total_same": 15969,
+      "topic_to_noise": 15,
+      "all_to_noise": 2095,
+      "topic_change": 15,
+      "topic_same": 138
+    },
+    "postscript": {
+      "total_changes": 2866,
+      "total_same": 15980,
+      "topic_to_noise": 9,
+      "all_to_noise": 2063,
+      "topic_change": 9,
+      "topic_same": 144
+    },
+    "print": {
+      "total_changes": 2923,
+      "total_same": 15923,
+      "topic_to_noise": 48,
+      "all_to_noise": 2136,
+      "topic_change": 55,
+      "topic_same": 98
+    },
+    "printers": {
+      "total_changes": 2798,
+      "total_same": 16048,
+      "topic_to_noise": 11,
+      "all_to_noise": 2024,
+      "topic_change": 12,
+      "topic_same": 141
+    }
+  },
+  "Topic_11": {
+    "why": {
+      "total_changes": 2877,
+      "total_same": 15969,
+      "topic_to_noise": 0,
+      "all_to_noise": 2082,
+      "topic_change": 0,
+      "topic_same": 149
+    },
+    "yep": {
+      "total_changes": 2807,
+      "total_same": 16039,
+      "topic_to_noise": 0,
+      "all_to_noise": 2045,
+      "topic_change": 0,
+      "topic_same": 149
+    },
+    "huh": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 0,
+      "all_to_noise": 2078,
+      "topic_change": 0,
+      "topic_same": 149
+    },
+    "hello": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 0,
+      "all_to_noise": 2067,
+      "topic_change": 0,
+      "topic_same": 149
+    },
+    "hi": {
+      "total_changes": 3105,
+      "total_same": 15741,
+      "topic_to_noise": 0,
+      "all_to_noise": 2284,
+      "topic_change": 0,
+      "topic_same": 149
+    },
+    "cheek": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 0,
+      "all_to_noise": 2072,
+      "topic_change": 0,
+      "topic_same": 149
+    },
+    "ites": {
+      "total_changes": 2810,
+      "total_same": 16036,
+      "topic_to_noise": 0,
+      "all_to_noise": 2039,
+      "topic_change": 0,
+      "topic_same": 149
+    },
+    "each": {
+      "total_changes": 2848,
+      "total_same": 15998,
+      "topic_to_noise": 0,
+      "all_to_noise": 2030,
+      "topic_change": 0,
+      "topic_same": 149
+    },
+    "very": {
+      "total_changes": 2805,
+      "total_same": 16041,
+      "topic_to_noise": 0,
+      "all_to_noise": 2012,
+      "topic_change": 0,
+      "topic_same": 149
+    },
+    "ken": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 0,
+      "all_to_noise": 2080,
+      "topic_change": 0,
+      "topic_same": 149
+    }
+  },
+  "Topic_12": {
+    "crime": {
+      "total_changes": 2875,
+      "total_same": 15971,
+      "topic_to_noise": 42,
+      "all_to_noise": 2075,
+      "topic_change": 43,
+      "topic_same": 98
+    },
+    "firearms": {
+      "total_changes": 2773,
+      "total_same": 16073,
+      "topic_to_noise": 46,
+      "all_to_noise": 2005,
+      "topic_change": 47,
+      "topic_same": 94
+    },
+    "weapon": {
+      "total_changes": 2923,
+      "total_same": 15923,
+      "topic_to_noise": 43,
+      "all_to_noise": 2094,
+      "topic_change": 45,
+      "topic_same": 96
+    },
+    "carry": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 52,
+      "all_to_noise": 2051,
+      "topic_change": 54,
+      "topic_same": 87
+    },
+    "concealed": {
+      "total_changes": 2823,
+      "total_same": 16023,
+      "topic_to_noise": 51,
+      "all_to_noise": 2042,
+      "topic_change": 52,
+      "topic_same": 89
+    },
+    "deaths": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 45,
+      "all_to_noise": 2076,
+      "topic_change": 46,
+      "topic_same": 95
+    },
+    "guns": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 49,
+      "all_to_noise": 2061,
+      "topic_change": 49,
+      "topic_same": 92
+    },
+    "criminals": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 52,
+      "all_to_noise": 2036,
+      "topic_change": 53,
+      "topic_same": 88
+    },
+    "gun": {
+      "total_changes": 2872,
+      "total_same": 15974,
+      "topic_to_noise": 68,
+      "all_to_noise": 2068,
+      "topic_change": 69,
+      "topic_same": 72
+    },
+    "weapons": {
+      "total_changes": 2794,
+      "total_same": 16052,
+      "topic_to_noise": 52,
+      "all_to_noise": 2035,
+      "topic_change": 53,
+      "topic_same": 88
+    }
+  },
+  "Topic_13": {
+    "honda": {
+      "total_changes": 2844,
+      "total_same": 16002,
+      "topic_to_noise": 40,
+      "all_to_noise": 2060,
+      "topic_change": 40,
+      "topic_same": 101
+    },
+    "shims": {
+      "total_changes": 2879,
+      "total_same": 15967,
+      "topic_to_noise": 44,
+      "all_to_noise": 2091,
+      "topic_change": 44,
+      "topic_same": 97
+    },
+    "miles": {
+      "total_changes": 2795,
+      "total_same": 16051,
+      "topic_to_noise": 42,
+      "all_to_noise": 2024,
+      "topic_change": 42,
+      "topic_same": 99
+    },
+    "engine": {
+      "total_changes": 2806,
+      "total_same": 16040,
+      "topic_to_noise": 36,
+      "all_to_noise": 2041,
+      "topic_change": 36,
+      "topic_same": 105
+    },
+    "bike": {
+      "total_changes": 2862,
+      "total_same": 15984,
+      "topic_to_noise": 57,
+      "all_to_noise": 2080,
+      "topic_change": 61,
+      "topic_same": 80
+    },
+    "motorcycle": {
+      "total_changes": 2778,
+      "total_same": 16068,
+      "topic_to_noise": 41,
+      "all_to_noise": 2024,
+      "topic_change": 41,
+      "topic_same": 100
+    },
+    "cbr": {
+      "total_changes": 2836,
+      "total_same": 16010,
+      "topic_to_noise": 37,
+      "all_to_noise": 2073,
+      "topic_change": 37,
+      "topic_same": 104
+    },
+    "bikes": {
+      "total_changes": 2867,
+      "total_same": 15979,
+      "topic_to_noise": 39,
+      "all_to_noise": 2076,
+      "topic_change": 39,
+      "topic_same": 102
+    },
+    "rear": {
+      "total_changes": 2807,
+      "total_same": 16039,
+      "topic_to_noise": 38,
+      "all_to_noise": 2036,
+      "topic_change": 38,
+      "topic_same": 103
+    },
+    "seat": {
+      "total_changes": 2864,
+      "total_same": 15982,
+      "topic_to_noise": 46,
+      "all_to_noise": 2058,
+      "topic_change": 46,
+      "topic_same": 95
+    }
+  },
+  "Topic_14": {
+    "belief": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 55,
+      "all_to_noise": 2059,
+      "topic_change": 55,
+      "topic_same": 71
+    },
+    "believe": {
+      "total_changes": 2893,
+      "total_same": 15953,
+      "topic_to_noise": 59,
+      "all_to_noise": 2109,
+      "topic_change": 59,
+      "topic_same": 67
+    },
+    "atheism": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 57,
+      "all_to_noise": 2070,
+      "topic_change": 58,
+      "topic_same": 68
+    },
+    "atheist": {
+      "total_changes": 2830,
+      "total_same": 16016,
+      "topic_to_noise": 58,
+      "all_to_noise": 2059,
+      "topic_change": 60,
+      "topic_same": 66
+    },
+    "religion": {
+      "total_changes": 2927,
+      "total_same": 15919,
+      "topic_to_noise": 50,
+      "all_to_noise": 2127,
+      "topic_change": 50,
+      "topic_same": 76
+    },
+    "theism": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 61,
+      "all_to_noise": 2080,
+      "topic_change": 64,
+      "topic_same": 62
+    },
+    "god": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 56,
+      "all_to_noise": 2058,
+      "topic_change": 56,
+      "topic_same": 70
+    },
+    "atheists": {
+      "total_changes": 2783,
+      "total_same": 16063,
+      "topic_to_noise": 48,
+      "all_to_noise": 2022,
+      "topic_change": 50,
+      "topic_same": 76
+    },
+    "beliefs": {
+      "total_changes": 2843,
+      "total_same": 16003,
+      "topic_to_noise": 52,
+      "all_to_noise": 2037,
+      "topic_change": 52,
+      "topic_same": 74
+    },
+    "religious": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 44,
+      "all_to_noise": 2048,
+      "topic_change": 44,
+      "topic_same": 82
+    }
+  },
+  "Topic_15": {
+    "his": {
+      "total_changes": 2950,
+      "total_same": 15896,
+      "topic_to_noise": 45,
+      "all_to_noise": 2144,
+      "topic_change": 45,
+      "topic_same": 78
+    },
+    "jesus": {
+      "total_changes": 2892,
+      "total_same": 15954,
+      "topic_to_noise": 54,
+      "all_to_noise": 2127,
+      "topic_change": 55,
+      "topic_same": 68
+    },
+    "christ": {
+      "total_changes": 2832,
+      "total_same": 16014,
+      "topic_to_noise": 48,
+      "all_to_noise": 2043,
+      "topic_change": 48,
+      "topic_same": 75
+    },
+    "eternal": {
+      "total_changes": 2860,
+      "total_same": 15986,
+      "topic_to_noise": 46,
+      "all_to_noise": 2091,
+      "topic_change": 46,
+      "topic_same": 77
+    },
+    "god": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 43,
+      "all_to_noise": 2060,
+      "topic_change": 43,
+      "topic_same": 80
+    },
+    "hell": {
+      "total_changes": 2897,
+      "total_same": 15949,
+      "topic_to_noise": 58,
+      "all_to_noise": 2093,
+      "topic_change": 59,
+      "topic_same": 64
+    },
+    "he": {
+      "total_changes": 3339,
+      "total_same": 15507,
+      "topic_to_noise": 51,
+      "all_to_noise": 2393,
+      "topic_change": 53,
+      "topic_same": 70
+    },
+    "heaven": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 43,
+      "all_to_noise": 2059,
+      "topic_change": 44,
+      "topic_same": 79
+    },
+    "life": {
+      "total_changes": 2834,
+      "total_same": 16012,
+      "topic_to_noise": 45,
+      "all_to_noise": 2057,
+      "topic_change": 46,
+      "topic_same": 77
+    },
+    "faith": {
+      "total_changes": 2862,
+      "total_same": 15984,
+      "topic_to_noise": 45,
+      "all_to_noise": 2058,
+      "topic_change": 45,
+      "topic_same": 78
+    }
+  },
+  "Topic_16": {
+    "1993": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 31,
+      "all_to_noise": 2080,
+      "topic_change": 32,
+      "topic_same": 85
+    },
+    "cesarean": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 117
+    },
+    "health": {
+      "total_changes": 2848,
+      "total_same": 15998,
+      "topic_to_noise": 28,
+      "all_to_noise": 2062,
+      "topic_change": 29,
+      "topic_same": 88
+    },
+    "malaria": {
+      "total_changes": 2824,
+      "total_same": 16022,
+      "topic_to_noise": 29,
+      "all_to_noise": 2065,
+      "topic_change": 30,
+      "topic_same": 87
+    },
+    "newsletter": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 31,
+      "all_to_noise": 2048,
+      "topic_change": 32,
+      "topic_same": 85
+    },
+    "cancer": {
+      "total_changes": 2854,
+      "total_same": 15992,
+      "topic_to_noise": 37,
+      "all_to_noise": 2071,
+      "topic_change": 37,
+      "topic_same": 80
+    },
+    "medical": {
+      "total_changes": 2799,
+      "total_same": 16047,
+      "topic_to_noise": 32,
+      "all_to_noise": 2002,
+      "topic_change": 33,
+      "topic_same": 84
+    },
+    "tobacco": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 38,
+      "all_to_noise": 2028,
+      "topic_change": 39,
+      "topic_same": 78
+    },
+    "hiv": {
+      "total_changes": 2817,
+      "total_same": 16029,
+      "topic_to_noise": 29,
+      "all_to_noise": 2042,
+      "topic_change": 30,
+      "topic_same": 87
+    },
+    "smokeless": {
+      "total_changes": 2808,
+      "total_same": 16038,
+      "topic_to_noise": 29,
+      "all_to_noise": 2045,
+      "topic_change": 30,
+      "topic_same": 87
+    }
+  },
+  "Topic_17": {
+    "turks": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 115
+    },
+    "armenia": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 24,
+      "all_to_noise": 2061,
+      "topic_change": 29,
+      "topic_same": 86
+    },
+    "turkey": {
+      "total_changes": 2810,
+      "total_same": 16036,
+      "topic_to_noise": 30,
+      "all_to_noise": 2038,
+      "topic_change": 32,
+      "topic_same": 83
+    },
+    "armenians": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 115
+    },
+    "istanbul": {
+      "total_changes": 2886,
+      "total_same": 15960,
+      "topic_to_noise": 31,
+      "all_to_noise": 2110,
+      "topic_change": 34,
+      "topic_same": 81
+    },
+    "genocide": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 14,
+      "all_to_noise": 2051,
+      "topic_change": 19,
+      "topic_same": 96
+    },
+    "turkish": {
+      "total_changes": 2815,
+      "total_same": 16031,
+      "topic_to_noise": 20,
+      "all_to_noise": 2045,
+      "topic_change": 23,
+      "topic_same": 92
+    },
+    "armenian": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 115
+    },
+    "russian": {
+      "total_changes": 2841,
+      "total_same": 16005,
+      "topic_to_noise": 30,
+      "all_to_noise": 2077,
+      "topic_change": 33,
+      "topic_same": 82
+    },
+    "were": {
+      "total_changes": 2836,
+      "total_same": 16010,
+      "topic_to_noise": 21,
+      "all_to_noise": 2056,
+      "topic_change": 22,
+      "topic_same": 93
+    }
+  },
+  "Topic_18": {
+    "cs": {
+      "total_changes": 2890,
+      "total_same": 15956,
+      "topic_to_noise": 37,
+      "all_to_noise": 2065,
+      "topic_change": 37,
+      "topic_same": 78
+    },
+    "started": {
+      "total_changes": 2880,
+      "total_same": 15966,
+      "topic_to_noise": 40,
+      "all_to_noise": 2079,
+      "topic_change": 40,
+      "topic_same": 75
+    },
+    "fire": {
+      "total_changes": 2831,
+      "total_same": 16015,
+      "topic_to_noise": 44,
+      "all_to_noise": 2071,
+      "topic_change": 46,
+      "topic_same": 69
+    },
+    "fires": {
+      "total_changes": 2878,
+      "total_same": 15968,
+      "topic_to_noise": 37,
+      "all_to_noise": 2057,
+      "topic_change": 37,
+      "topic_same": 78
+    },
+    "bds": {
+      "total_changes": 2876,
+      "total_same": 15970,
+      "topic_to_noise": 34,
+      "all_to_noise": 2075,
+      "topic_change": 35,
+      "topic_same": 80
+    },
+    "building": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 39,
+      "all_to_noise": 2057,
+      "topic_change": 39,
+      "topic_same": 76
+    },
+    "gas": {
+      "total_changes": 2918,
+      "total_same": 15928,
+      "topic_to_noise": 30,
+      "all_to_noise": 2054,
+      "topic_change": 30,
+      "topic_same": 85
+    },
+    "compound": {
+      "total_changes": 2794,
+      "total_same": 16052,
+      "topic_to_noise": 33,
+      "all_to_noise": 2038,
+      "topic_change": 33,
+      "topic_same": 82
+    },
+    "tear": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 38,
+      "all_to_noise": 2104,
+      "topic_change": 38,
+      "topic_same": 77
+    },
+    "fbi": {
+      "total_changes": 2826,
+      "total_same": 16020,
+      "topic_to_noise": 35,
+      "all_to_noise": 2018,
+      "topic_change": 35,
+      "topic_same": 80
+    }
+  },
+  "Topic_19": {
+    "widgets": {
+      "total_changes": 2853,
+      "total_same": 15993,
+      "topic_to_noise": 36,
+      "all_to_noise": 2062,
+      "topic_change": 36,
+      "topic_same": 73
+    },
+    "application": {
+      "total_changes": 2845,
+      "total_same": 16001,
+      "topic_to_noise": 36,
+      "all_to_noise": 2047,
+      "topic_change": 36,
+      "topic_same": 73
+    },
+    "button": {
+      "total_changes": 2874,
+      "total_same": 15972,
+      "topic_to_noise": 48,
+      "all_to_noise": 2099,
+      "topic_change": 48,
+      "topic_same": 61
+    },
+    "widget": {
+      "total_changes": 2885,
+      "total_same": 15961,
+      "topic_to_noise": 51,
+      "all_to_noise": 2088,
+      "topic_change": 52,
+      "topic_same": 57
+    },
+    "dialog": {
+      "total_changes": 2805,
+      "total_same": 16041,
+      "topic_to_noise": 41,
+      "all_to_noise": 2056,
+      "topic_change": 41,
+      "topic_same": 68
+    },
+    "events": {
+      "total_changes": 2852,
+      "total_same": 15994,
+      "topic_to_noise": 32,
+      "all_to_noise": 2086,
+      "topic_change": 32,
+      "topic_same": 77
+    },
+    "window": {
+      "total_changes": 2894,
+      "total_same": 15952,
+      "topic_to_noise": 52,
+      "all_to_noise": 2081,
+      "topic_change": 55,
+      "topic_same": 54
+    },
+    "event": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 33,
+      "all_to_noise": 2048,
+      "topic_change": 33,
+      "topic_same": 76
+    },
+    "null": {
+      "total_changes": 2865,
+      "total_same": 15981,
+      "topic_to_noise": 39,
+      "all_to_noise": 2097,
+      "topic_change": 39,
+      "topic_same": 70
+    },
+    "expose": {
+      "total_changes": 2835,
+      "total_same": 16011,
+      "topic_to_noise": 37,
+      "all_to_noise": 2056,
+      "topic_change": 37,
+      "topic_same": 72
+    }
+  },
+  "Topic_20": {
+    "morals": {
+      "total_changes": 2852,
+      "total_same": 15994,
+      "topic_to_noise": 9,
+      "all_to_noise": 2083,
+      "topic_change": 9,
+      "topic_same": 97
+    },
+    "is": {
+      "total_changes": 3104,
+      "total_same": 15742,
+      "topic_to_noise": 9,
+      "all_to_noise": 2239,
+      "topic_change": 9,
+      "topic_same": 97
+    },
+    "immoral": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 5,
+      "all_to_noise": 2070,
+      "topic_change": 5,
+      "topic_same": 101
+    },
+    "what": {
+      "total_changes": 2894,
+      "total_same": 15952,
+      "topic_to_noise": 7,
+      "all_to_noise": 2111,
+      "topic_change": 7,
+      "topic_same": 99
+    },
+    "society": {
+      "total_changes": 2889,
+      "total_same": 15957,
+      "topic_to_noise": 3,
+      "all_to_noise": 2105,
+      "topic_change": 3,
+      "topic_same": 103
+    },
+    "objective": {
+      "total_changes": 2898,
+      "total_same": 15948,
+      "topic_to_noise": 14,
+      "all_to_noise": 2110,
+      "topic_change": 14,
+      "topic_same": 92
+    },
+    "hudson": {
+      "total_changes": 2843,
+      "total_same": 16003,
+      "topic_to_noise": 6,
+      "all_to_noise": 2044,
+      "topic_change": 6,
+      "topic_same": 100
+    },
+    "moral": {
+      "total_changes": 2808,
+      "total_same": 16038,
+      "topic_to_noise": 14,
+      "all_to_noise": 2024,
+      "topic_change": 16,
+      "topic_same": 90
+    },
+    "morality": {
+      "total_changes": 2784,
+      "total_same": 16062,
+      "topic_to_noise": 10,
+      "all_to_noise": 2019,
+      "topic_change": 10,
+      "topic_same": 96
+    },
+    "subjective": {
+      "total_changes": 2752,
+      "total_same": 16094,
+      "topic_to_noise": 2,
+      "all_to_noise": 1994,
+      "topic_change": 3,
+      "topic_same": 103
+    }
+  },
+  "Topic_21": {
+    "17": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 29,
+      "all_to_noise": 2110,
+      "topic_change": 29,
+      "topic_same": 73
+    },
+    "monitor": {
+      "total_changes": 2885,
+      "total_same": 15961,
+      "topic_to_noise": 46,
+      "all_to_noise": 2103,
+      "topic_change": 48,
+      "topic_same": 54
+    },
+    "nec": {
+      "total_changes": 2791,
+      "total_same": 16055,
+      "topic_to_noise": 27,
+      "all_to_noise": 2022,
+      "topic_change": 27,
+      "topic_same": 75
+    },
+    "video": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 33,
+      "all_to_noise": 2059,
+      "topic_change": 33,
+      "topic_same": 69
+    },
+    "nanao": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 102
+    },
+    "sony": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 28,
+      "all_to_noise": 2090,
+      "topic_change": 28,
+      "topic_same": 74
+    },
+    "vga": {
+      "total_changes": 2845,
+      "total_same": 16001,
+      "topic_to_noise": 27,
+      "all_to_noise": 2079,
+      "topic_change": 27,
+      "topic_same": 75
+    },
+    "monitors": {
+      "total_changes": 2891,
+      "total_same": 15955,
+      "topic_to_noise": 35,
+      "all_to_noise": 2076,
+      "topic_change": 36,
+      "topic_same": 66
+    },
+    "trinitron": {
+      "total_changes": 2783,
+      "total_same": 16063,
+      "topic_to_noise": 22,
+      "all_to_noise": 2037,
+      "topic_change": 22,
+      "topic_same": 80
+    },
+    "sync": {
+      "total_changes": 2875,
+      "total_same": 15971,
+      "topic_to_noise": 28,
+      "all_to_noise": 2070,
+      "topic_change": 28,
+      "topic_same": 74
+    }
+  },
+  "Topic_22": {
+    "polygons": {
+      "total_changes": 2903,
+      "total_same": 15943,
+      "topic_to_noise": 13,
+      "all_to_noise": 2067,
+      "topic_change": 13,
+      "topic_same": 83
+    },
+    "points": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 15,
+      "all_to_noise": 2071,
+      "topic_change": 16,
+      "topic_same": 80
+    },
+    "sphere": {
+      "total_changes": 2915,
+      "total_same": 15931,
+      "topic_to_noise": 13,
+      "all_to_noise": 2114,
+      "topic_change": 14,
+      "topic_same": 82
+    },
+    "edge": {
+      "total_changes": 2813,
+      "total_same": 16033,
+      "topic_to_noise": 7,
+      "all_to_noise": 2037,
+      "topic_change": 7,
+      "topic_same": 89
+    },
+    "algorithm": {
+      "total_changes": 2848,
+      "total_same": 15998,
+      "topic_to_noise": 12,
+      "all_to_noise": 2041,
+      "topic_change": 14,
+      "topic_same": 82
+    },
+    "den": {
+      "total_changes": 2886,
+      "total_same": 15960,
+      "topic_to_noise": 12,
+      "all_to_noise": 2085,
+      "topic_change": 12,
+      "topic_same": 84
+    },
+    "polygon": {
+      "total_changes": 2824,
+      "total_same": 16022,
+      "topic_to_noise": 9,
+      "all_to_noise": 2031,
+      "topic_change": 11,
+      "topic_same": 85
+    },
+    "xxxx": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 10,
+      "all_to_noise": 2041,
+      "topic_change": 10,
+      "topic_same": 86
+    },
+    "radius": {
+      "total_changes": 2844,
+      "total_same": 16002,
+      "topic_to_noise": 14,
+      "all_to_noise": 2048,
+      "topic_change": 14,
+      "topic_same": 82
+    },
+    "plane": {
+      "total_changes": 2875,
+      "total_same": 15971,
+      "topic_to_noise": 12,
+      "all_to_noise": 2121,
+      "topic_change": 13,
+      "topic_same": 83
+    }
+  },
+  "Topic_23": {
+    "950": {
+      "total_changes": 2905,
+      "total_same": 15941,
+      "topic_to_noise": 12,
+      "all_to_noise": 2109,
+      "topic_change": 12,
+      "topic_same": 72
+    },
+    "dram": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 10,
+      "all_to_noise": 2085,
+      "topic_change": 11,
+      "topic_same": 73
+    },
+    "simms": {
+      "total_changes": 2824,
+      "total_same": 16022,
+      "topic_to_noise": 13,
+      "all_to_noise": 2048,
+      "topic_change": 13,
+      "topic_same": 71
+    },
+    "ram": {
+      "total_changes": 2826,
+      "total_same": 16020,
+      "topic_to_noise": 10,
+      "all_to_noise": 2067,
+      "topic_change": 10,
+      "topic_same": 74
+    },
+    "meg": {
+      "total_changes": 2819,
+      "total_same": 16027,
+      "topic_to_noise": 9,
+      "all_to_noise": 2047,
+      "topic_change": 10,
+      "topic_same": 74
+    },
+    "256k": {
+      "total_changes": 2845,
+      "total_same": 16001,
+      "topic_to_noise": 14,
+      "all_to_noise": 2068,
+      "topic_change": 14,
+      "topic_same": 70
+    },
+    "memory": {
+      "total_changes": 2855,
+      "total_same": 15991,
+      "topic_to_noise": 10,
+      "all_to_noise": 2087,
+      "topic_change": 11,
+      "topic_same": 73
+    },
+    "vram": {
+      "total_changes": 2908,
+      "total_same": 15938,
+      "topic_to_noise": 5,
+      "all_to_noise": 2112,
+      "topic_change": 5,
+      "topic_same": 79
+    },
+    "simm": {
+      "total_changes": 2750,
+      "total_same": 16096,
+      "topic_to_noise": 12,
+      "all_to_noise": 1970,
+      "topic_change": 12,
+      "topic_same": 72
+    },
+    "quadra": {
+      "total_changes": 2731,
+      "total_same": 16115,
+      "topic_to_noise": 13,
+      "all_to_noise": 2007,
+      "topic_change": 13,
+      "topic_same": 71
+    }
+  },
+  "Topic_24": {
+    "book": {
+      "total_changes": 2817,
+      "total_same": 16029,
+      "topic_to_noise": 4,
+      "all_to_noise": 2037,
+      "topic_change": 4,
+      "topic_same": 80
+    },
+    "allah": {
+      "total_changes": 2812,
+      "total_same": 16034,
+      "topic_to_noise": 5,
+      "all_to_noise": 2023,
+      "topic_change": 8,
+      "topic_same": 76
+    },
+    "muhammad": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 84
+    },
+    "muslim": {
+      "total_changes": 2830,
+      "total_same": 16016,
+      "topic_to_noise": 5,
+      "all_to_noise": 2038,
+      "topic_change": 7,
+      "topic_same": 77
+    },
+    "quran": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 84
+    },
+    "islam": {
+      "total_changes": 2892,
+      "total_same": 15954,
+      "topic_to_noise": 5,
+      "all_to_noise": 2107,
+      "topic_change": 8,
+      "topic_same": 76
+    },
+    "rushdie": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 84
+    },
+    "islamic": {
+      "total_changes": 2803,
+      "total_same": 16043,
+      "topic_to_noise": 3,
+      "all_to_noise": 2014,
+      "topic_change": 5,
+      "topic_same": 79
+    },
+    "muslims": {
+      "total_changes": 2819,
+      "total_same": 16027,
+      "topic_to_noise": 5,
+      "all_to_noise": 2044,
+      "topic_change": 6,
+      "topic_same": 78
+    },
+    "prophethood": {
+      "total_changes": 2813,
+      "total_same": 16033,
+      "topic_to_noise": 4,
+      "all_to_noise": 2031,
+      "topic_change": 6,
+      "topic_same": 78
+    }
+  },
+  "Topic_25": {
+    "disease": {
+      "total_changes": 2757,
+      "total_same": 16089,
+      "topic_to_noise": 41,
+      "all_to_noise": 2007,
+      "topic_change": 41,
+      "topic_same": 42
+    },
+    "cancer": {
+      "total_changes": 2840,
+      "total_same": 16006,
+      "topic_to_noise": 41,
+      "all_to_noise": 2054,
+      "topic_change": 42,
+      "topic_same": 41
+    },
+    "jb": {
+      "total_changes": 2812,
+      "total_same": 16034,
+      "topic_to_noise": 40,
+      "all_to_noise": 2047,
+      "topic_change": 40,
+      "topic_same": 43
+    },
+    "medical": {
+      "total_changes": 2849,
+      "total_same": 15997,
+      "topic_to_noise": 49,
+      "all_to_noise": 2070,
+      "topic_change": 49,
+      "topic_same": 34
+    },
+    "patients": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 47,
+      "all_to_noise": 2039,
+      "topic_change": 48,
+      "topic_same": 35
+    },
+    "treatment": {
+      "total_changes": 2882,
+      "total_same": 15964,
+      "topic_to_noise": 42,
+      "all_to_noise": 2076,
+      "topic_change": 42,
+      "topic_same": 41
+    },
+    "medicine": {
+      "total_changes": 2831,
+      "total_same": 16015,
+      "topic_to_noise": 39,
+      "all_to_noise": 2046,
+      "topic_change": 39,
+      "topic_same": 44
+    },
+    "candida": {
+      "total_changes": 2800,
+      "total_same": 16046,
+      "topic_to_noise": 46,
+      "all_to_noise": 2019,
+      "topic_change": 46,
+      "topic_same": 37
+    },
+    "doctors": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 45,
+      "all_to_noise": 2062,
+      "topic_change": 45,
+      "topic_same": 38
+    },
+    "doctor": {
+      "total_changes": 2861,
+      "total_same": 15985,
+      "topic_to_noise": 40,
+      "all_to_noise": 2084,
+      "topic_change": 41,
+      "topic_same": 42
+    }
+  },
+  "Topic_26": {
+    "serbian": {
+      "total_changes": 2868,
+      "total_same": 15978,
+      "topic_to_noise": 2,
+      "all_to_noise": 2061,
+      "topic_change": 2,
+      "topic_same": 80
+    },
+    "bosnia": {
+      "total_changes": 2814,
+      "total_same": 16032,
+      "topic_to_noise": 4,
+      "all_to_noise": 2028,
+      "topic_change": 4,
+      "topic_same": 78
+    },
+    "mr": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 1,
+      "all_to_noise": 2052,
+      "topic_change": 2,
+      "topic_same": 80
+    },
+    "muslim": {
+      "total_changes": 2817,
+      "total_same": 16029,
+      "topic_to_noise": 3,
+      "all_to_noise": 2047,
+      "topic_change": 4,
+      "topic_same": 78
+    },
+    "stephanopoulos": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 82
+    },
+    "croats": {
+      "total_changes": 2867,
+      "total_same": 15979,
+      "topic_to_noise": 2,
+      "all_to_noise": 2074,
+      "topic_change": 3,
+      "topic_same": 79
+    },
+    "president": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 3,
+      "all_to_noise": 2073,
+      "topic_change": 5,
+      "topic_same": 77
+    },
+    "muslims": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 2,
+      "all_to_noise": 2073,
+      "topic_change": 3,
+      "topic_same": 79
+    },
+    "serbs": {
+      "total_changes": 2880,
+      "total_same": 15966,
+      "topic_to_noise": 3,
+      "all_to_noise": 2091,
+      "topic_change": 3,
+      "topic_same": 79
+    },
+    "bosnian": {
+      "total_changes": 2900,
+      "total_same": 15946,
+      "topic_to_noise": 3,
+      "all_to_noise": 2086,
+      "topic_change": 3,
+      "topic_same": 79
+    }
+  },
+  "Topic_27": {
+    "nazis": {
+      "total_changes": 2826,
+      "total_same": 16020,
+      "topic_to_noise": 22,
+      "all_to_noise": 2044,
+      "topic_change": 25,
+      "topic_same": 56
+    },
+    "jews": {
+      "total_changes": 2864,
+      "total_same": 15982,
+      "topic_to_noise": 24,
+      "all_to_noise": 2059,
+      "topic_change": 26,
+      "topic_same": 55
+    },
+    "judaism": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 19,
+      "all_to_noise": 2072,
+      "topic_change": 21,
+      "topic_same": 60
+    },
+    "germany": {
+      "total_changes": 2861,
+      "total_same": 15985,
+      "topic_to_noise": 21,
+      "all_to_noise": 2056,
+      "topic_change": 25,
+      "topic_same": 56
+    },
+    "holocaust": {
+      "total_changes": 2832,
+      "total_same": 16014,
+      "topic_to_noise": 18,
+      "all_to_noise": 2046,
+      "topic_change": 19,
+      "topic_same": 62
+    },
+    "german": {
+      "total_changes": 2855,
+      "total_same": 15991,
+      "topic_to_noise": 18,
+      "all_to_noise": 2091,
+      "topic_change": 22,
+      "topic_same": 59
+    },
+    "jewish": {
+      "total_changes": 2860,
+      "total_same": 15986,
+      "topic_to_noise": 24,
+      "all_to_noise": 2082,
+      "topic_change": 26,
+      "topic_same": 55
+    },
+    "were": {
+      "total_changes": 2877,
+      "total_same": 15969,
+      "topic_to_noise": 26,
+      "all_to_noise": 2094,
+      "topic_change": 26,
+      "topic_same": 55
+    },
+    "hitler": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 81
+    },
+    "nazi": {
+      "total_changes": 2864,
+      "total_same": 15982,
+      "topic_to_noise": 19,
+      "all_to_noise": 2087,
+      "topic_change": 23,
+      "topic_same": 58
+    }
+  },
+  "Topic_28": {
+    "525": {
+      "total_changes": 2813,
+      "total_same": 16033,
+      "topic_to_noise": 3,
+      "all_to_noise": 2012,
+      "topic_change": 3,
+      "topic_same": 76
+    },
+    "games": {
+      "total_changes": 2814,
+      "total_same": 16032,
+      "topic_to_noise": 7,
+      "all_to_noise": 2022,
+      "topic_change": 8,
+      "topic_same": 71
+    },
+    "snes": {
+      "total_changes": 2801,
+      "total_same": 16045,
+      "topic_to_noise": 3,
+      "all_to_noise": 2032,
+      "topic_change": 3,
+      "topic_same": 76
+    },
+    "joystick": {
+      "total_changes": 2903,
+      "total_same": 15943,
+      "topic_to_noise": 10,
+      "all_to_noise": 2115,
+      "topic_change": 11,
+      "topic_same": 68
+    },
+    "super": {
+      "total_changes": 2883,
+      "total_same": 15963,
+      "topic_to_noise": 4,
+      "all_to_noise": 2089,
+      "topic_change": 4,
+      "topic_same": 75
+    },
+    "genesis": {
+      "total_changes": 2795,
+      "total_same": 16051,
+      "topic_to_noise": 1,
+      "all_to_noise": 2003,
+      "topic_change": 1,
+      "topic_same": 78
+    },
+    "arcade": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 4,
+      "all_to_noise": 2032,
+      "topic_change": 4,
+      "topic_same": 75
+    },
+    "sega": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 79
+    },
+    "game": {
+      "total_changes": 2848,
+      "total_same": 15998,
+      "topic_to_noise": 15,
+      "all_to_noise": 2028,
+      "topic_change": 16,
+      "topic_same": 63
+    },
+    "offer": {
+      "total_changes": 2849,
+      "total_same": 15997,
+      "topic_to_noise": 0,
+      "all_to_noise": 2095,
+      "topic_change": 0,
+      "topic_same": 79
+    }
+  },
+  "Topic_29": {
+    "system": {
+      "total_changes": 2814,
+      "total_same": 16032,
+      "topic_to_noise": 26,
+      "all_to_noise": 2033,
+      "topic_change": 26,
+      "topic_same": 52
+    },
+    "windows": {
+      "total_changes": 2760,
+      "total_same": 16086,
+      "topic_to_noise": 21,
+      "all_to_noise": 2012,
+      "topic_change": 22,
+      "topic_same": 56
+    },
+    "software": {
+      "total_changes": 2855,
+      "total_same": 15991,
+      "topic_to_noise": 28,
+      "all_to_noise": 2092,
+      "topic_change": 29,
+      "topic_same": 49
+    },
+    "disk": {
+      "total_changes": 2832,
+      "total_same": 16014,
+      "topic_to_noise": 31,
+      "all_to_noise": 2027,
+      "topic_change": 31,
+      "topic_same": 47
+    },
+    "files": {
+      "total_changes": 2862,
+      "total_same": 15984,
+      "topic_to_noise": 25,
+      "all_to_noise": 2114,
+      "topic_change": 25,
+      "topic_same": 53
+    },
+    "ftp": {
+      "total_changes": 2874,
+      "total_same": 15972,
+      "topic_to_noise": 35,
+      "all_to_noise": 2084,
+      "topic_change": 37,
+      "topic_same": 41
+    },
+    "paradox": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 33,
+      "all_to_noise": 2035,
+      "topic_change": 33,
+      "topic_same": 45
+    },
+    "stuffit": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 78
+    },
+    "file": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 24,
+      "all_to_noise": 2072,
+      "topic_change": 24,
+      "topic_same": 54
+    },
+    "borland": {
+      "total_changes": 2795,
+      "total_same": 16051,
+      "topic_to_noise": 19,
+      "all_to_noise": 2007,
+      "topic_change": 20,
+      "topic_same": 58
+    }
+  },
+  "Topic_30": {
+    "libxmulibxmua": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 74
+    },
+    "parse": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 19,
+      "all_to_noise": 2083,
+      "topic_change": 19,
+      "topic_same": 55
+    },
+    "error": {
+      "total_changes": 2881,
+      "total_same": 15965,
+      "topic_to_noise": 24,
+      "all_to_noise": 2094,
+      "topic_change": 24,
+      "topic_same": 50
+    },
+    "undeclared": {
+      "total_changes": 2822,
+      "total_same": 16024,
+      "topic_to_noise": 17,
+      "all_to_noise": 2055,
+      "topic_change": 17,
+      "topic_same": 57
+    },
+    "libxmulibxmuso": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 74
+    },
+    "symbol": {
+      "total_changes": 2879,
+      "total_same": 15967,
+      "topic_to_noise": 25,
+      "all_to_noise": 2093,
+      "topic_change": 25,
+      "topic_same": 49
+    },
+    "undefined": {
+      "total_changes": 2881,
+      "total_same": 15965,
+      "topic_to_noise": 24,
+      "all_to_noise": 2088,
+      "topic_change": 25,
+      "topic_same": 49
+    },
+    "liblibx11so": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 74
+    },
+    "gcc": {
+      "total_changes": 2845,
+      "total_same": 16001,
+      "topic_to_noise": 20,
+      "all_to_noise": 2053,
+      "topic_change": 20,
+      "topic_same": 54
+    },
+    "doug": {
+      "total_changes": 2903,
+      "total_same": 15943,
+      "topic_to_noise": 23,
+      "all_to_noise": 2103,
+      "topic_change": 23,
+      "topic_same": 51
+    }
+  },
+  "Topic_31": {
+    "operating": {
+      "total_changes": 2872,
+      "total_same": 15974,
+      "topic_to_noise": 20,
+      "all_to_noise": 2069,
+      "topic_change": 21,
+      "topic_same": 53
+    },
+    "mouse": {
+      "total_changes": 2911,
+      "total_same": 15935,
+      "topic_to_noise": 29,
+      "all_to_noise": 2148,
+      "topic_change": 29,
+      "topic_same": 45
+    },
+    "windows": {
+      "total_changes": 2878,
+      "total_same": 15968,
+      "topic_to_noise": 24,
+      "all_to_noise": 2110,
+      "topic_change": 25,
+      "topic_same": 49
+    },
+    "higher": {
+      "total_changes": 2891,
+      "total_same": 15955,
+      "topic_to_noise": 27,
+      "all_to_noise": 2106,
+      "topic_change": 28,
+      "topic_same": 46
+    },
+    "vendor": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 23,
+      "all_to_noise": 2075,
+      "topic_change": 23,
+      "topic_same": 51
+    },
+    "ms": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 18,
+      "all_to_noise": 2070,
+      "topic_change": 19,
+      "topic_same": 55
+    },
+    "dosdosdosdosdosdosdosdosdosdosdosdosdos": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 74
+    },
+    "mbytes": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 74
+    },
+    "dos": {
+      "total_changes": 2908,
+      "total_same": 15938,
+      "topic_to_noise": 26,
+      "all_to_noise": 2120,
+      "topic_change": 27,
+      "topic_same": 47
+    },
+    "tcpip": {
+      "total_changes": 2896,
+      "total_same": 15950,
+      "topic_to_noise": 23,
+      "all_to_noise": 2095,
+      "topic_change": 24,
+      "topic_same": 50
+    }
+  },
+  "Topic_32": {
+    "login": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 36,
+      "all_to_noise": 2033,
+      "topic_change": 36,
+      "topic_same": 37
+    },
+    "rx": {
+      "total_changes": 2826,
+      "total_same": 16020,
+      "topic_to_noise": 28,
+      "all_to_noise": 2048,
+      "topic_change": 28,
+      "topic_same": 45
+    },
+    "echo": {
+      "total_changes": 2872,
+      "total_same": 15974,
+      "topic_to_noise": 28,
+      "all_to_noise": 2050,
+      "topic_change": 28,
+      "topic_same": 45
+    },
+    "server": {
+      "total_changes": 2932,
+      "total_same": 15914,
+      "topic_to_noise": 31,
+      "all_to_noise": 2116,
+      "topic_change": 31,
+      "topic_same": 42
+    },
+    "xterm": {
+      "total_changes": 2807,
+      "total_same": 16039,
+      "topic_to_noise": 38,
+      "all_to_noise": 2022,
+      "topic_change": 39,
+      "topic_same": 34
+    },
+    "display": {
+      "total_changes": 2866,
+      "total_same": 15980,
+      "topic_to_noise": 30,
+      "all_to_noise": 2073,
+      "topic_change": 30,
+      "topic_same": 43
+    },
+    "xb": {
+      "total_changes": 2843,
+      "total_same": 16003,
+      "topic_to_noise": 29,
+      "all_to_noise": 2076,
+      "topic_change": 29,
+      "topic_same": 44
+    },
+    "remote": {
+      "total_changes": 2823,
+      "total_same": 16023,
+      "topic_to_noise": 33,
+      "all_to_noise": 2039,
+      "topic_change": 33,
+      "topic_same": 40
+    },
+    "shell": {
+      "total_changes": 2808,
+      "total_same": 16038,
+      "topic_to_noise": 32,
+      "all_to_noise": 2026,
+      "topic_change": 32,
+      "topic_same": 41
+    },
+    "xdm": {
+      "total_changes": 2822,
+      "total_same": 16024,
+      "topic_to_noise": 40,
+      "all_to_noise": 2030,
+      "topic_change": 40,
+      "topic_same": 33
+    }
+  },
+  "Topic_33": {
+    "disease": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 18,
+      "all_to_noise": 2053,
+      "topic_change": 18,
+      "topic_same": 55
+    },
+    "health": {
+      "total_changes": 2831,
+      "total_same": 16015,
+      "topic_to_noise": 25,
+      "all_to_noise": 2026,
+      "topic_change": 25,
+      "topic_same": 48
+    },
+    "drug": {
+      "total_changes": 2789,
+      "total_same": 16057,
+      "topic_to_noise": 18,
+      "all_to_noise": 2011,
+      "topic_change": 18,
+      "topic_same": 55
+    },
+    "cancer": {
+      "total_changes": 2850,
+      "total_same": 15996,
+      "topic_to_noise": 25,
+      "all_to_noise": 2066,
+      "topic_change": 25,
+      "topic_same": 48
+    },
+    "migraines": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 18,
+      "all_to_noise": 2072,
+      "topic_change": 19,
+      "topic_same": 54
+    },
+    "fat": {
+      "total_changes": 2898,
+      "total_same": 15948,
+      "topic_to_noise": 21,
+      "all_to_noise": 2094,
+      "topic_change": 21,
+      "topic_same": 52
+    },
+    "pain": {
+      "total_changes": 2868,
+      "total_same": 15978,
+      "topic_to_noise": 23,
+      "all_to_noise": 2093,
+      "topic_change": 23,
+      "topic_same": 50
+    },
+    "cholesterol": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 26,
+      "all_to_noise": 2057,
+      "topic_change": 26,
+      "topic_same": 47
+    },
+    "migraine": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 18,
+      "all_to_noise": 2051,
+      "topic_change": 18,
+      "topic_same": 55
+    },
+    "diet": {
+      "total_changes": 2802,
+      "total_same": 16044,
+      "topic_to_noise": 22,
+      "all_to_noise": 1984,
+      "topic_change": 22,
+      "topic_same": 51
+    }
+  },
+  "Topic_34": {
+    "graphics": {
+      "total_changes": 2860,
+      "total_same": 15986,
+      "topic_to_noise": 30,
+      "all_to_noise": 2089,
+      "topic_change": 31,
+      "topic_same": 40
+    },
+    "grafsys": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 22,
+      "all_to_noise": 2076,
+      "topic_change": 22,
+      "topic_same": 49
+    },
+    "3ds": {
+      "total_changes": 2849,
+      "total_same": 15997,
+      "topic_to_noise": 19,
+      "all_to_noise": 2057,
+      "topic_change": 19,
+      "topic_same": 52
+    },
+    "avs": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 21,
+      "all_to_noise": 2101,
+      "topic_change": 21,
+      "topic_same": 50
+    },
+    "prj": {
+      "total_changes": 2894,
+      "total_same": 15952,
+      "topic_to_noise": 24,
+      "all_to_noise": 2072,
+      "topic_change": 24,
+      "topic_same": 47
+    },
+    "library": {
+      "total_changes": 2893,
+      "total_same": 15953,
+      "topic_to_noise": 22,
+      "all_to_noise": 2085,
+      "topic_change": 23,
+      "topic_same": 48
+    },
+    "package": {
+      "total_changes": 2799,
+      "total_same": 16047,
+      "topic_to_noise": 24,
+      "all_to_noise": 2036,
+      "topic_change": 24,
+      "topic_same": 47
+    },
+    "3d": {
+      "total_changes": 2824,
+      "total_same": 16022,
+      "topic_to_noise": 35,
+      "all_to_noise": 2040,
+      "topic_change": 35,
+      "topic_same": 36
+    },
+    "shading": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 23,
+      "all_to_noise": 2018,
+      "topic_change": 23,
+      "topic_same": 48
+    },
+    "animation": {
+      "total_changes": 2791,
+      "total_same": 16055,
+      "topic_to_noise": 22,
+      "all_to_noise": 2033,
+      "topic_change": 22,
+      "topic_same": 49
+    }
+  },
+  "Topic_35": {
+    "chinese": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 9,
+      "all_to_noise": 2093,
+      "topic_change": 9,
+      "topic_same": 60
+    },
+    "seizure": {
+      "total_changes": 2840,
+      "total_same": 16006,
+      "topic_to_noise": 8,
+      "all_to_noise": 2068,
+      "topic_change": 9,
+      "topic_same": 60
+    },
+    "taste": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 9,
+      "all_to_noise": 2029,
+      "topic_change": 9,
+      "topic_same": 60
+    },
+    "food": {
+      "total_changes": 2828,
+      "total_same": 16018,
+      "topic_to_noise": 9,
+      "all_to_noise": 2075,
+      "topic_change": 9,
+      "topic_same": 60
+    },
+    "eat": {
+      "total_changes": 2891,
+      "total_same": 15955,
+      "topic_to_noise": 15,
+      "all_to_noise": 2090,
+      "topic_change": 15,
+      "topic_same": 54
+    },
+    "corn": {
+      "total_changes": 2877,
+      "total_same": 15969,
+      "topic_to_noise": 12,
+      "all_to_noise": 2046,
+      "topic_change": 12,
+      "topic_same": 57
+    },
+    "sick": {
+      "total_changes": 2832,
+      "total_same": 16014,
+      "topic_to_noise": 13,
+      "all_to_noise": 2048,
+      "topic_change": 13,
+      "topic_same": 56
+    },
+    "foods": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 17,
+      "all_to_noise": 2085,
+      "topic_change": 17,
+      "topic_same": 52
+    },
+    "msg": {
+      "total_changes": 2848,
+      "total_same": 15998,
+      "topic_to_noise": 14,
+      "all_to_noise": 2053,
+      "topic_change": 14,
+      "topic_same": 55
+    },
+    "glutamate": {
+      "total_changes": 2882,
+      "total_same": 15964,
+      "topic_to_noise": 7,
+      "all_to_noise": 2116,
+      "topic_change": 7,
+      "topic_same": 62
+    }
+  },
+  "Topic_36": {
+    "bps": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 9,
+      "all_to_noise": 2063,
+      "topic_change": 9,
+      "topic_same": 60
+    },
+    "courier": {
+      "total_changes": 2774,
+      "total_same": 16072,
+      "topic_to_noise": 7,
+      "all_to_noise": 2021,
+      "topic_change": 7,
+      "topic_same": 62
+    },
+    "fax": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 8,
+      "all_to_noise": 2077,
+      "topic_change": 9,
+      "topic_same": 60
+    },
+    "modems": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 8,
+      "all_to_noise": 2079,
+      "topic_change": 8,
+      "topic_same": 61
+    },
+    "baud": {
+      "total_changes": 2908,
+      "total_same": 15938,
+      "topic_to_noise": 8,
+      "all_to_noise": 2104,
+      "topic_change": 8,
+      "topic_same": 61
+    },
+    "v32bis": {
+      "total_changes": 2805,
+      "total_same": 16041,
+      "topic_to_noise": 8,
+      "all_to_noise": 2022,
+      "topic_change": 8,
+      "topic_same": 61
+    },
+    "v42bis": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 5,
+      "all_to_noise": 2059,
+      "topic_change": 5,
+      "topic_same": 64
+    },
+    "modem": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 25,
+      "all_to_noise": 2122,
+      "topic_change": 25,
+      "topic_same": 44
+    },
+    "hst": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 6,
+      "all_to_noise": 2031,
+      "topic_change": 6,
+      "topic_same": 63
+    },
+    "ccitt": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 69
+    }
+  },
+  "Topic_37": {
+    "promopicture": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 65
+    },
+    "cd": {
+      "total_changes": 2800,
+      "total_same": 16046,
+      "topic_to_noise": 18,
+      "all_to_noise": 2046,
+      "topic_change": 18,
+      "topic_same": 47
+    },
+    "pom": {
+      "total_changes": 2891,
+      "total_same": 15955,
+      "topic_to_noise": 14,
+      "all_to_noise": 2075,
+      "topic_change": 15,
+      "topic_same": 50
+    },
+    "album": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 13,
+      "all_to_noise": 2033,
+      "topic_change": 14,
+      "topic_same": 51
+    },
+    "picture": {
+      "total_changes": 2852,
+      "total_same": 15994,
+      "topic_to_noise": 15,
+      "all_to_noise": 2062,
+      "topic_change": 16,
+      "topic_same": 49
+    },
+    "sale": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 16,
+      "all_to_noise": 2057,
+      "topic_change": 16,
+      "topic_same": 49
+    },
+    "shipping": {
+      "total_changes": 2854,
+      "total_same": 15992,
+      "topic_to_noise": 10,
+      "all_to_noise": 2047,
+      "topic_change": 11,
+      "topic_same": 54
+    },
+    "cds": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 15,
+      "all_to_noise": 2028,
+      "topic_change": 15,
+      "topic_same": 50
+    },
+    "dos": {
+      "total_changes": 2815,
+      "total_same": 16031,
+      "topic_to_noise": 16,
+      "all_to_noise": 2057,
+      "topic_change": 17,
+      "topic_same": 48
+    },
+    "sleeve1045": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 65
+    }
+  },
+  "Topic_38": {
+    "homosexuality": {
+      "total_changes": 2822,
+      "total_same": 16024,
+      "topic_to_noise": 10,
+      "all_to_noise": 2051,
+      "topic_change": 12,
+      "topic_same": 50
+    },
+    "that": {
+      "total_changes": 2887,
+      "total_same": 15959,
+      "topic_to_noise": 14,
+      "all_to_noise": 2059,
+      "topic_change": 14,
+      "topic_same": 48
+    },
+    "sin": {
+      "total_changes": 2912,
+      "total_same": 15934,
+      "topic_to_noise": 9,
+      "all_to_noise": 2130,
+      "topic_change": 9,
+      "topic_same": 53
+    },
+    "sex": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 16,
+      "all_to_noise": 2079,
+      "topic_change": 16,
+      "topic_same": 46
+    },
+    "homosexual": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 21,
+      "all_to_noise": 2039,
+      "topic_change": 24,
+      "topic_same": 38
+    },
+    "homosexuals": {
+      "total_changes": 2799,
+      "total_same": 16047,
+      "topic_to_noise": 11,
+      "all_to_noise": 2021,
+      "topic_change": 11,
+      "topic_same": 51
+    },
+    "christians": {
+      "total_changes": 2890,
+      "total_same": 15956,
+      "topic_to_noise": 11,
+      "all_to_noise": 2096,
+      "topic_change": 11,
+      "topic_same": 51
+    },
+    "gay": {
+      "total_changes": 2826,
+      "total_same": 16020,
+      "topic_to_noise": 15,
+      "all_to_noise": 2037,
+      "topic_change": 15,
+      "topic_same": 47
+    },
+    "god": {
+      "total_changes": 2893,
+      "total_same": 15953,
+      "topic_to_noise": 7,
+      "all_to_noise": 2084,
+      "topic_change": 7,
+      "topic_same": 55
+    },
+    "paul": {
+      "total_changes": 2841,
+      "total_same": 16005,
+      "topic_to_noise": 8,
+      "all_to_noise": 2052,
+      "topic_change": 8,
+      "topic_same": 54
+    }
+  },
+  "Topic_39": {
+    "koreshs": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 61
+    },
+    "batf": {
+      "total_changes": 2822,
+      "total_same": 16024,
+      "topic_to_noise": 22,
+      "all_to_noise": 2033,
+      "topic_change": 22,
+      "topic_same": 39
+    },
+    "followers": {
+      "total_changes": 2768,
+      "total_same": 16078,
+      "topic_to_noise": 20,
+      "all_to_noise": 2030,
+      "topic_change": 21,
+      "topic_same": 40
+    },
+    "agents": {
+      "total_changes": 2876,
+      "total_same": 15970,
+      "topic_to_noise": 18,
+      "all_to_noise": 2079,
+      "topic_change": 19,
+      "topic_same": 42
+    },
+    "children": {
+      "total_changes": 2791,
+      "total_same": 16055,
+      "topic_to_noise": 25,
+      "all_to_noise": 2038,
+      "topic_change": 27,
+      "topic_same": 34
+    },
+    "they": {
+      "total_changes": 2830,
+      "total_same": 16016,
+      "topic_to_noise": 26,
+      "all_to_noise": 2056,
+      "topic_change": 28,
+      "topic_same": 33
+    },
+    "bd": {
+      "total_changes": 2780,
+      "total_same": 16066,
+      "topic_to_noise": 23,
+      "all_to_noise": 2007,
+      "topic_change": 23,
+      "topic_same": 38
+    },
+    "compound": {
+      "total_changes": 2776,
+      "total_same": 16070,
+      "topic_to_noise": 19,
+      "all_to_noise": 2012,
+      "topic_change": 20,
+      "topic_same": 41
+    },
+    "koresh": {
+      "total_changes": 2838,
+      "total_same": 16008,
+      "topic_to_noise": 22,
+      "all_to_noise": 2056,
+      "topic_change": 23,
+      "topic_same": 38
+    },
+    "fbi": {
+      "total_changes": 2849,
+      "total_same": 15997,
+      "topic_to_noise": 24,
+      "all_to_noise": 2087,
+      "topic_change": 24,
+      "topic_same": 37
+    }
+  },
+  "Topic_40": {
+    "pollution": {
+      "total_changes": 2832,
+      "total_same": 16014,
+      "topic_to_noise": 10,
+      "all_to_noise": 2045,
+      "topic_change": 10,
+      "topic_same": 49
+    },
+    "advertising": {
+      "total_changes": 2813,
+      "total_same": 16033,
+      "topic_to_noise": 10,
+      "all_to_noise": 2026,
+      "topic_change": 10,
+      "topic_same": 49
+    },
+    "sky": {
+      "total_changes": 2824,
+      "total_same": 16022,
+      "topic_to_noise": 11,
+      "all_to_noise": 2060,
+      "topic_change": 11,
+      "topic_same": 48
+    },
+    "space": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 7,
+      "all_to_noise": 2034,
+      "topic_change": 7,
+      "topic_same": 52
+    },
+    "billboard": {
+      "total_changes": 2772,
+      "total_same": 16074,
+      "topic_to_noise": 13,
+      "all_to_noise": 2012,
+      "topic_change": 13,
+      "topic_same": 46
+    },
+    "light": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 16,
+      "all_to_noise": 2041,
+      "topic_change": 16,
+      "topic_same": 43
+    },
+    "night": {
+      "total_changes": 2797,
+      "total_same": 16049,
+      "topic_to_noise": 9,
+      "all_to_noise": 2019,
+      "topic_change": 9,
+      "topic_same": 50
+    },
+    "billboards": {
+      "total_changes": 2849,
+      "total_same": 15997,
+      "topic_to_noise": 10,
+      "all_to_noise": 2038,
+      "topic_change": 10,
+      "topic_same": 49
+    },
+    "orbit": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 12,
+      "all_to_noise": 2043,
+      "topic_change": 12,
+      "topic_same": 47
+    },
+    "moon": {
+      "total_changes": 2819,
+      "total_same": 16027,
+      "topic_to_noise": 7,
+      "all_to_noise": 2045,
+      "topic_change": 7,
+      "topic_same": 52
+    }
+  },
+  "Topic_41": {
+    "gre": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 12,
+      "all_to_noise": 2067,
+      "topic_change": 12,
+      "topic_same": 45
+    },
+    "explanations": {
+      "total_changes": 2902,
+      "total_same": 15944,
+      "topic_to_noise": 13,
+      "all_to_noise": 2079,
+      "topic_change": 13,
+      "topic_same": 44
+    },
+    "test": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 9,
+      "all_to_noise": 2068,
+      "topic_change": 12,
+      "topic_same": 45
+    },
+    "tests": {
+      "total_changes": 2820,
+      "total_same": 16026,
+      "topic_to_noise": 12,
+      "all_to_noise": 2057,
+      "topic_change": 12,
+      "topic_same": 45
+    },
+    "includes": {
+      "total_changes": 2891,
+      "total_same": 15955,
+      "topic_to_noise": 6,
+      "all_to_noise": 2085,
+      "topic_change": 6,
+      "topic_same": 51
+    },
+    "economics": {
+      "total_changes": 2841,
+      "total_same": 16005,
+      "topic_to_noise": 11,
+      "all_to_noise": 2044,
+      "topic_change": 11,
+      "topic_same": 46
+    },
+    "ets": {
+      "total_changes": 2849,
+      "total_same": 15997,
+      "topic_to_noise": 13,
+      "all_to_noise": 2089,
+      "topic_change": 13,
+      "topic_same": 44
+    },
+    "ditto": {
+      "total_changes": 2787,
+      "total_same": 16059,
+      "topic_to_noise": 11,
+      "all_to_noise": 2040,
+      "topic_change": 11,
+      "topic_same": 46
+    },
+    "woof": {
+      "total_changes": 2810,
+      "total_same": 16036,
+      "topic_to_noise": 12,
+      "all_to_noise": 2018,
+      "topic_change": 13,
+      "topic_same": 44
+    },
+    "cliffs": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 57
+    }
+  },
+  "Topic_42": {
+    "we": {
+      "total_changes": 2904,
+      "total_same": 15942,
+      "topic_to_noise": 8,
+      "all_to_noise": 2080,
+      "topic_change": 9,
+      "topic_same": 48
+    },
+    "official": {
+      "total_changes": 2860,
+      "total_same": 15986,
+      "topic_to_noise": 8,
+      "all_to_noise": 2110,
+      "topic_change": 8,
+      "topic_same": 49
+    },
+    "administration": {
+      "total_changes": 2847,
+      "total_same": 15999,
+      "topic_to_noise": 11,
+      "all_to_noise": 2070,
+      "topic_change": 11,
+      "topic_same": 46
+    },
+    "funds": {
+      "total_changes": 2828,
+      "total_same": 16018,
+      "topic_to_noise": 11,
+      "all_to_noise": 2048,
+      "topic_change": 11,
+      "topic_same": 46
+    },
+    "russia": {
+      "total_changes": 2867,
+      "total_same": 15979,
+      "topic_to_noise": 10,
+      "all_to_noise": 2088,
+      "topic_change": 10,
+      "topic_same": 47
+    },
+    "russian": {
+      "total_changes": 2793,
+      "total_same": 16053,
+      "topic_to_noise": 11,
+      "all_to_noise": 2053,
+      "topic_change": 11,
+      "topic_same": 46
+    },
+    "taxes": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 15,
+      "all_to_noise": 2099,
+      "topic_change": 16,
+      "topic_same": 41
+    },
+    "income": {
+      "total_changes": 2802,
+      "total_same": 16044,
+      "topic_to_noise": 10,
+      "all_to_noise": 2020,
+      "topic_change": 11,
+      "topic_same": 46
+    },
+    "tax": {
+      "total_changes": 2900,
+      "total_same": 15946,
+      "topic_to_noise": 15,
+      "all_to_noise": 2092,
+      "topic_change": 17,
+      "topic_same": 40
+    },
+    "senior": {
+      "total_changes": 2901,
+      "total_same": 15945,
+      "topic_to_noise": 10,
+      "all_to_noise": 2087,
+      "topic_change": 10,
+      "topic_same": 47
+    }
+  },
+  "Topic_43": {
+    "hausmann": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 56
+    },
+    "smileys": {
+      "total_changes": 2853,
+      "total_same": 15993,
+      "topic_to_noise": 29,
+      "all_to_noise": 2060,
+      "topic_change": 29,
+      "topic_same": 27
+    },
+    "bolick": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 56
+    },
+    "nickname": {
+      "total_changes": 2895,
+      "total_same": 15951,
+      "topic_to_noise": 31,
+      "all_to_noise": 2108,
+      "topic_change": 33,
+      "topic_same": 23
+    },
+    "maddi": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 56
+    },
+    "frank": {
+      "total_changes": 2840,
+      "total_same": 16006,
+      "topic_to_noise": 25,
+      "all_to_noise": 2054,
+      "topic_change": 25,
+      "topic_same": 31
+    },
+    "smiley": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 32,
+      "all_to_noise": 2095,
+      "topic_change": 32,
+      "topic_same": 24
+    },
+    "joke": {
+      "total_changes": 2783,
+      "total_same": 16063,
+      "topic_to_noise": 26,
+      "all_to_noise": 2026,
+      "topic_change": 27,
+      "topic_same": 29
+    },
+    "nicknames": {
+      "total_changes": 2794,
+      "total_same": 16052,
+      "topic_to_noise": 32,
+      "all_to_noise": 2067,
+      "topic_change": 32,
+      "topic_same": 24
+    },
+    "tammy": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 56
+    }
+  },
+  "Topic_44": {
+    "batf": {
+      "total_changes": 2783,
+      "total_same": 16063,
+      "topic_to_noise": 14,
+      "all_to_noise": 2013,
+      "topic_change": 15,
+      "topic_same": 41
+    },
+    "warrant": {
+      "total_changes": 2889,
+      "total_same": 15957,
+      "topic_to_noise": 15,
+      "all_to_noise": 2107,
+      "topic_change": 16,
+      "topic_same": 40
+    },
+    "raid": {
+      "total_changes": 2819,
+      "total_same": 16027,
+      "topic_to_noise": 19,
+      "all_to_noise": 2027,
+      "topic_change": 20,
+      "topic_same": 36
+    },
+    "agents": {
+      "total_changes": 2774,
+      "total_same": 16072,
+      "topic_to_noise": 14,
+      "all_to_noise": 2022,
+      "topic_change": 14,
+      "topic_same": 42
+    },
+    "they": {
+      "total_changes": 2891,
+      "total_same": 15955,
+      "topic_to_noise": 17,
+      "all_to_noise": 2097,
+      "topic_change": 18,
+      "topic_same": 38
+    },
+    "serve": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 16,
+      "all_to_noise": 2049,
+      "topic_change": 16,
+      "topic_same": 40
+    },
+    "assault": {
+      "total_changes": 2874,
+      "total_same": 15972,
+      "topic_to_noise": 16,
+      "all_to_noise": 2100,
+      "topic_change": 16,
+      "topic_same": 40
+    },
+    "davidians": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 56
+    },
+    "compound": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 20,
+      "all_to_noise": 2054,
+      "topic_change": 20,
+      "topic_same": 36
+    },
+    "fbi": {
+      "total_changes": 2838,
+      "total_same": 16008,
+      "topic_to_noise": 17,
+      "all_to_noise": 2056,
+      "topic_change": 17,
+      "topic_same": 39
+    }
+  },
+  "Topic_45": {
+    "men": {
+      "total_changes": 2938,
+      "total_same": 15908,
+      "topic_to_noise": 12,
+      "all_to_noise": 2109,
+      "topic_change": 12,
+      "topic_same": 44
+    },
+    "partners": {
+      "total_changes": 2773,
+      "total_same": 16073,
+      "topic_to_noise": 15,
+      "all_to_noise": 2032,
+      "topic_change": 15,
+      "topic_same": 41
+    },
+    "sex": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 16,
+      "all_to_noise": 2011,
+      "topic_change": 16,
+      "topic_same": 40
+    },
+    "homosexual": {
+      "total_changes": 2971,
+      "total_same": 15875,
+      "topic_to_noise": 15,
+      "all_to_noise": 2118,
+      "topic_change": 16,
+      "topic_same": 40
+    },
+    "kinsey": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 56
+    },
+    "reisman": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 56
+    },
+    "gay": {
+      "total_changes": 2826,
+      "total_same": 16020,
+      "topic_to_noise": 12,
+      "all_to_noise": 2042,
+      "topic_change": 12,
+      "topic_same": 44
+    },
+    "kinseys": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 56
+    },
+    "male": {
+      "total_changes": 2841,
+      "total_same": 16005,
+      "topic_to_noise": 14,
+      "all_to_noise": 2063,
+      "topic_change": 14,
+      "topic_same": 42
+    },
+    "sexual": {
+      "total_changes": 2769,
+      "total_same": 16077,
+      "topic_to_noise": 15,
+      "all_to_noise": 1989,
+      "topic_change": 15,
+      "topic_same": 41
+    }
+  },
+  "Topic_46": {
+    "31": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 10,
+      "all_to_noise": 2052,
+      "topic_change": 10,
+      "topic_same": 45
+    },
+    "beta": {
+      "total_changes": 2861,
+      "total_same": 15985,
+      "topic_to_noise": 10,
+      "all_to_noise": 2052,
+      "topic_change": 10,
+      "topic_same": 45
+    },
+    "windows": {
+      "total_changes": 2838,
+      "total_same": 16008,
+      "topic_to_noise": 16,
+      "all_to_noise": 2054,
+      "topic_change": 17,
+      "topic_same": 38
+    },
+    "os2": {
+      "total_changes": 2876,
+      "total_same": 15970,
+      "topic_to_noise": 15,
+      "all_to_noise": 2104,
+      "topic_change": 15,
+      "topic_same": 40
+    },
+    "run": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 9,
+      "all_to_noise": 2052,
+      "topic_change": 10,
+      "topic_same": 45
+    },
+    "nt": {
+      "total_changes": 3138,
+      "total_same": 15708,
+      "topic_to_noise": 8,
+      "all_to_noise": 2260,
+      "topic_change": 8,
+      "topic_same": 47
+    },
+    "apps": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 13,
+      "all_to_noise": 2071,
+      "topic_change": 13,
+      "topic_same": 42
+    },
+    "os": {
+      "total_changes": 2960,
+      "total_same": 15886,
+      "topic_to_noise": 10,
+      "all_to_noise": 2118,
+      "topic_change": 10,
+      "topic_same": 45
+    },
+    "dos": {
+      "total_changes": 2887,
+      "total_same": 15959,
+      "topic_to_noise": 13,
+      "all_to_noise": 2096,
+      "topic_change": 13,
+      "topic_same": 42
+    },
+    "unix": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 11,
+      "all_to_noise": 2047,
+      "topic_change": 11,
+      "topic_same": 44
+    }
+  },
+  "Topic_47": {
+    "program": {
+      "total_changes": 2868,
+      "total_same": 15978,
+      "topic_to_noise": 6,
+      "all_to_noise": 2066,
+      "topic_change": 6,
+      "topic_same": 49
+    },
+    "char": {
+      "total_changes": 2800,
+      "total_same": 16046,
+      "topic_to_noise": 3,
+      "all_to_noise": 2007,
+      "topic_change": 3,
+      "topic_same": 52
+    },
+    "key": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 9,
+      "all_to_noise": 2090,
+      "topic_change": 9,
+      "topic_same": 46
+    },
+    "stream": {
+      "total_changes": 2862,
+      "total_same": 15984,
+      "topic_to_noise": 5,
+      "all_to_noise": 2076,
+      "topic_change": 6,
+      "topic_same": 49
+    },
+    "des": {
+      "total_changes": 2751,
+      "total_same": 16095,
+      "topic_to_noise": 5,
+      "all_to_noise": 1976,
+      "topic_change": 6,
+      "topic_same": 49
+    },
+    "entry": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 3,
+      "all_to_noise": 2068,
+      "topic_change": 3,
+      "topic_same": 52
+    },
+    "oname": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 6,
+      "all_to_noise": 2069,
+      "topic_change": 6,
+      "topic_same": 49
+    },
+    "file": {
+      "total_changes": 2909,
+      "total_same": 15937,
+      "topic_to_noise": 5,
+      "all_to_noise": 2119,
+      "topic_change": 5,
+      "topic_same": 50
+    },
+    "output": {
+      "total_changes": 2872,
+      "total_same": 15974,
+      "topic_to_noise": 8,
+      "all_to_noise": 2077,
+      "topic_change": 8,
+      "topic_same": 47
+    },
+    "ripem": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 8,
+      "all_to_noise": 2046,
+      "topic_change": 8,
+      "topic_same": 47
+    }
+  },
+  "Topic_48": {
+    "atoms": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 8,
+      "all_to_noise": 2032,
+      "topic_change": 8,
+      "topic_same": 45
+    },
+    "theory": {
+      "total_changes": 2866,
+      "total_same": 15980,
+      "topic_to_noise": 12,
+      "all_to_noise": 2053,
+      "topic_change": 12,
+      "topic_same": 41
+    },
+    "science": {
+      "total_changes": 2917,
+      "total_same": 15929,
+      "topic_to_noise": 10,
+      "all_to_noise": 2101,
+      "topic_change": 10,
+      "topic_same": 43
+    },
+    "universe": {
+      "total_changes": 2853,
+      "total_same": 15993,
+      "topic_to_noise": 5,
+      "all_to_noise": 2063,
+      "topic_change": 6,
+      "topic_same": 47
+    },
+    "of": {
+      "total_changes": 2930,
+      "total_same": 15916,
+      "topic_to_noise": 6,
+      "all_to_noise": 2073,
+      "topic_change": 6,
+      "topic_same": 47
+    },
+    "scientific": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 8,
+      "all_to_noise": 2049,
+      "topic_change": 8,
+      "topic_same": 45
+    },
+    "physical": {
+      "total_changes": 2719,
+      "total_same": 16127,
+      "topic_to_noise": 10,
+      "all_to_noise": 1982,
+      "topic_change": 10,
+      "topic_same": 43
+    },
+    "larsons": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 53
+    },
+    "methodology": {
+      "total_changes": 2893,
+      "total_same": 15953,
+      "topic_to_noise": 11,
+      "all_to_noise": 2095,
+      "topic_change": 11,
+      "topic_same": 42
+    },
+    "larson": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 53
+    }
+  },
+  "Topic_49": {
+    "apollo": {
+      "total_changes": 2789,
+      "total_same": 16057,
+      "topic_to_noise": 14,
+      "all_to_noise": 2017,
+      "topic_change": 15,
+      "topic_same": 36
+    },
+    "basalts": {
+      "total_changes": 2779,
+      "total_same": 16067,
+      "topic_to_noise": 17,
+      "all_to_noise": 1996,
+      "topic_change": 17,
+      "topic_same": 34
+    },
+    "base": {
+      "total_changes": 2883,
+      "total_same": 15963,
+      "topic_to_noise": 10,
+      "all_to_noise": 2092,
+      "topic_change": 11,
+      "topic_same": 40
+    },
+    "cost": {
+      "total_changes": 2817,
+      "total_same": 16029,
+      "topic_to_noise": 14,
+      "all_to_noise": 2044,
+      "topic_change": 14,
+      "topic_same": 37
+    },
+    "luna": {
+      "total_changes": 2877,
+      "total_same": 15969,
+      "topic_to_noise": 14,
+      "all_to_noise": 2087,
+      "topic_change": 15,
+      "topic_same": 36
+    },
+    "lunar": {
+      "total_changes": 2876,
+      "total_same": 15970,
+      "topic_to_noise": 16,
+      "all_to_noise": 2063,
+      "topic_change": 17,
+      "topic_same": 34
+    },
+    "billion": {
+      "total_changes": 2762,
+      "total_same": 16084,
+      "topic_to_noise": 19,
+      "all_to_noise": 2016,
+      "topic_change": 19,
+      "topic_same": 32
+    },
+    "prize": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 22,
+      "all_to_noise": 2048,
+      "topic_change": 22,
+      "topic_same": 29
+    },
+    "moon": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 14,
+      "all_to_noise": 2054,
+      "topic_change": 15,
+      "topic_same": 36
+    },
+    "money": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 18,
+      "all_to_noise": 2026,
+      "topic_change": 18,
+      "topic_same": 33
+    }
+  },
+  "Topic_50": {
+    "mary": {
+      "total_changes": 2803,
+      "total_same": 16043,
+      "topic_to_noise": 2,
+      "all_to_noise": 2011,
+      "topic_change": 2,
+      "topic_same": 49
+    },
+    "sin": {
+      "total_changes": 2944,
+      "total_same": 15902,
+      "topic_to_noise": 1,
+      "all_to_noise": 2132,
+      "topic_change": 2,
+      "topic_same": 49
+    },
+    "conception": {
+      "total_changes": 2769,
+      "total_same": 16077,
+      "topic_to_noise": 1,
+      "all_to_noise": 2026,
+      "topic_change": 1,
+      "topic_same": 50
+    },
+    "she": {
+      "total_changes": 2849,
+      "total_same": 15997,
+      "topic_to_noise": 4,
+      "all_to_noise": 2076,
+      "topic_change": 4,
+      "topic_same": 47
+    },
+    "maria": {
+      "total_changes": 2826,
+      "total_same": 16020,
+      "topic_to_noise": 2,
+      "all_to_noise": 2041,
+      "topic_change": 2,
+      "topic_same": 49
+    },
+    "priest": {
+      "total_changes": 2840,
+      "total_same": 16006,
+      "topic_to_noise": 1,
+      "all_to_noise": 2055,
+      "topic_change": 1,
+      "topic_same": 50
+    },
+    "her": {
+      "total_changes": 2948,
+      "total_same": 15898,
+      "topic_to_noise": 2,
+      "all_to_noise": 2117,
+      "topic_change": 3,
+      "topic_same": 48
+    },
+    "bernadette": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 51
+    },
+    "church": {
+      "total_changes": 2899,
+      "total_same": 15947,
+      "topic_to_noise": 2,
+      "all_to_noise": 2128,
+      "topic_change": 2,
+      "topic_same": 49
+    },
+    "god": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 2,
+      "all_to_noise": 2026,
+      "topic_change": 2,
+      "topic_same": 49
+    }
+  },
+  "Topic_51": {
+    "mormons": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 51
+    },
+    "unto": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 13,
+      "all_to_noise": 2074,
+      "topic_change": 13,
+      "topic_same": 38
+    },
+    "christ": {
+      "total_changes": 2876,
+      "total_same": 15970,
+      "topic_to_noise": 15,
+      "all_to_noise": 2071,
+      "topic_change": 15,
+      "topic_same": 36
+    },
+    "lord": {
+      "total_changes": 2865,
+      "total_same": 15981,
+      "topic_to_noise": 17,
+      "all_to_noise": 2086,
+      "topic_change": 17,
+      "topic_same": 34
+    },
+    "elohim": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 51
+    },
+    "jehovah": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 51
+    },
+    "mormon": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 51
+    },
+    "church": {
+      "total_changes": 2840,
+      "total_same": 16006,
+      "topic_to_noise": 14,
+      "all_to_noise": 2007,
+      "topic_change": 15,
+      "topic_same": 36
+    },
+    "mcconkie": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 51
+    },
+    "god": {
+      "total_changes": 2886,
+      "total_same": 15960,
+      "topic_to_noise": 11,
+      "all_to_noise": 2091,
+      "topic_change": 11,
+      "topic_same": 40
+    }
+  },
+  "Topic_52": {
+    "yogurt": {
+      "total_changes": 2816,
+      "total_same": 16030,
+      "topic_to_noise": 3,
+      "all_to_noise": 2021,
+      "topic_change": 4,
+      "topic_same": 46
+    },
+    "health": {
+      "total_changes": 2872,
+      "total_same": 15974,
+      "topic_to_noise": 6,
+      "all_to_noise": 2114,
+      "topic_change": 6,
+      "topic_same": 44
+    },
+    "medical": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 5,
+      "all_to_noise": 2059,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "gonorrhea": {
+      "total_changes": 2774,
+      "total_same": 16072,
+      "topic_to_noise": 3,
+      "all_to_noise": 2024,
+      "topic_change": 4,
+      "topic_same": 46
+    },
+    "yeast": {
+      "total_changes": 2807,
+      "total_same": 16039,
+      "topic_to_noise": 4,
+      "all_to_noise": 2045,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "infection": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 7,
+      "all_to_noise": 2050,
+      "topic_change": 7,
+      "topic_same": 43
+    },
+    "infections": {
+      "total_changes": 2801,
+      "total_same": 16045,
+      "topic_to_noise": 7,
+      "all_to_noise": 2016,
+      "topic_change": 7,
+      "topic_same": 43
+    },
+    "candida": {
+      "total_changes": 2868,
+      "total_same": 15978,
+      "topic_to_noise": 13,
+      "all_to_noise": 2073,
+      "topic_change": 14,
+      "topic_same": 36
+    },
+    "child": {
+      "total_changes": 2872,
+      "total_same": 15974,
+      "topic_to_noise": 10,
+      "all_to_noise": 2076,
+      "topic_change": 10,
+      "topic_same": 40
+    },
+    "systemic": {
+      "total_changes": 2764,
+      "total_same": 16082,
+      "topic_to_noise": 6,
+      "all_to_noise": 1992,
+      "topic_change": 6,
+      "topic_same": 44
+    }
+  },
+  "Topic_53": {
+    "wideband": {
+      "total_changes": 2853,
+      "total_same": 15993,
+      "topic_to_noise": 1,
+      "all_to_noise": 2096,
+      "topic_change": 1,
+      "topic_same": 49
+    },
+    "detector": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 5,
+      "all_to_noise": 2059,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "radar": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 10,
+      "all_to_noise": 2086,
+      "topic_change": 10,
+      "topic_same": 40
+    },
+    "traffic": {
+      "total_changes": 2861,
+      "total_same": 15985,
+      "topic_to_noise": 1,
+      "all_to_noise": 2042,
+      "topic_change": 1,
+      "topic_same": 49
+    },
+    "band": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 2,
+      "all_to_noise": 2075,
+      "topic_change": 2,
+      "topic_same": 48
+    },
+    "throttle": {
+      "total_changes": 2753,
+      "total_same": 16093,
+      "topic_to_noise": 1,
+      "all_to_noise": 1963,
+      "topic_change": 1,
+      "topic_same": 49
+    },
+    "detectors": {
+      "total_changes": 2841,
+      "total_same": 16005,
+      "topic_to_noise": 5,
+      "all_to_noise": 2071,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "ka": {
+      "total_changes": 2896,
+      "total_same": 15950,
+      "topic_to_noise": 3,
+      "all_to_noise": 2138,
+      "topic_change": 3,
+      "topic_same": 47
+    },
+    "pavement": {
+      "total_changes": 2834,
+      "total_same": 16012,
+      "topic_to_noise": 6,
+      "all_to_noise": 2071,
+      "topic_change": 6,
+      "topic_same": 44
+    },
+    "car": {
+      "total_changes": 2765,
+      "total_same": 16081,
+      "topic_to_noise": 5,
+      "all_to_noise": 1986,
+      "topic_change": 5,
+      "topic_same": 45
+    }
+  },
+  "Topic_54": {
+    "diesel": {
+      "total_changes": 2881,
+      "total_same": 15965,
+      "topic_to_noise": 9,
+      "all_to_noise": 2076,
+      "topic_change": 9,
+      "topic_same": 41
+    },
+    "diesels": {
+      "total_changes": 2865,
+      "total_same": 15981,
+      "topic_to_noise": 14,
+      "all_to_noise": 2095,
+      "topic_change": 14,
+      "topic_same": 36
+    },
+    "r12": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 10,
+      "all_to_noise": 2085,
+      "topic_change": 10,
+      "topic_same": 40
+    },
+    "fuel": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 4,
+      "all_to_noise": 2043,
+      "topic_change": 4,
+      "topic_same": 46
+    },
+    "solder": {
+      "total_changes": 2848,
+      "total_same": 15998,
+      "topic_to_noise": 6,
+      "all_to_noise": 2061,
+      "topic_change": 6,
+      "topic_same": 44
+    },
+    "engines": {
+      "total_changes": 2835,
+      "total_same": 16011,
+      "topic_to_noise": 7,
+      "all_to_noise": 2035,
+      "topic_change": 8,
+      "topic_same": 42
+    },
+    "emissions": {
+      "total_changes": 2787,
+      "total_same": 16059,
+      "topic_to_noise": 7,
+      "all_to_noise": 2015,
+      "topic_change": 7,
+      "topic_same": 43
+    },
+    "oil": {
+      "total_changes": 2892,
+      "total_same": 15954,
+      "topic_to_noise": 13,
+      "all_to_noise": 2119,
+      "topic_change": 14,
+      "topic_same": 36
+    },
+    "substitutes": {
+      "total_changes": 2742,
+      "total_same": 16104,
+      "topic_to_noise": 5,
+      "all_to_noise": 2017,
+      "topic_change": 6,
+      "topic_same": 44
+    },
+    "silver": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 7,
+      "all_to_noise": 2050,
+      "topic_change": 7,
+      "topic_same": 43
+    }
+  },
+  "Topic_55": {
+    "backup": {
+      "total_changes": 2876,
+      "total_same": 15970,
+      "topic_to_noise": 9,
+      "all_to_noise": 2085,
+      "topic_change": 10,
+      "topic_same": 37
+    },
+    "user": {
+      "total_changes": 2878,
+      "total_same": 15968,
+      "topic_to_noise": 6,
+      "all_to_noise": 2062,
+      "topic_change": 6,
+      "topic_same": 41
+    },
+    "program": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 4,
+      "all_to_noise": 2029,
+      "topic_change": 4,
+      "topic_same": 43
+    },
+    "software": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 3,
+      "all_to_noise": 2082,
+      "topic_change": 3,
+      "topic_same": 44
+    },
+    "disk": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 4,
+      "all_to_noise": 2095,
+      "topic_change": 5,
+      "topic_same": 42
+    },
+    "users": {
+      "total_changes": 2855,
+      "total_same": 15991,
+      "topic_to_noise": 5,
+      "all_to_noise": 2065,
+      "topic_change": 5,
+      "topic_same": 42
+    },
+    "protection": {
+      "total_changes": 2883,
+      "total_same": 15963,
+      "topic_to_noise": 4,
+      "all_to_noise": 2104,
+      "topic_change": 5,
+      "topic_same": 42
+    },
+    "disks": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 5,
+      "all_to_noise": 2073,
+      "topic_change": 5,
+      "topic_same": 42
+    },
+    "pirates": {
+      "total_changes": 2815,
+      "total_same": 16031,
+      "topic_to_noise": 6,
+      "all_to_noise": 2050,
+      "topic_change": 6,
+      "topic_same": 41
+    },
+    "copy": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 6,
+      "all_to_noise": 2063,
+      "topic_change": 7,
+      "topic_same": 40
+    }
+  },
+  "Topic_56": {
+    "launch": {
+      "total_changes": 2765,
+      "total_same": 16081,
+      "topic_to_noise": 2,
+      "all_to_noise": 2014,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "arrays": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 2,
+      "all_to_noise": 2089,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "altitude": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 6,
+      "all_to_noise": 2013,
+      "topic_change": 6,
+      "topic_same": 40
+    },
+    "mass": {
+      "total_changes": 2873,
+      "total_same": 15973,
+      "topic_to_noise": 4,
+      "all_to_noise": 2072,
+      "topic_change": 4,
+      "topic_same": 42
+    },
+    "mission": {
+      "total_changes": 2854,
+      "total_same": 15992,
+      "topic_to_noise": 3,
+      "all_to_noise": 2056,
+      "topic_change": 3,
+      "topic_same": 43
+    },
+    "oms": {
+      "total_changes": 2898,
+      "total_same": 15948,
+      "topic_to_noise": 5,
+      "all_to_noise": 2110,
+      "topic_change": 5,
+      "topic_same": 41
+    },
+    "reboost": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 3,
+      "all_to_noise": 2080,
+      "topic_change": 3,
+      "topic_same": 43
+    },
+    "orbit": {
+      "total_changes": 2847,
+      "total_same": 15999,
+      "topic_to_noise": 2,
+      "all_to_noise": 2055,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "hst": {
+      "total_changes": 2853,
+      "total_same": 15993,
+      "topic_to_noise": 3,
+      "all_to_noise": 2043,
+      "topic_change": 3,
+      "topic_same": 43
+    },
+    "shuttle": {
+      "total_changes": 2855,
+      "total_same": 15991,
+      "topic_to_noise": 1,
+      "all_to_noise": 2083,
+      "topic_change": 1,
+      "topic_same": 45
+    }
+  },
+  "Topic_57": {
+    "remove": {
+      "total_changes": 2799,
+      "total_same": 16047,
+      "topic_to_noise": 4,
+      "all_to_noise": 2033,
+      "topic_change": 4,
+      "topic_same": 42
+    },
+    "plastic": {
+      "total_changes": 2831,
+      "total_same": 16015,
+      "topic_to_noise": 3,
+      "all_to_noise": 2047,
+      "topic_change": 4,
+      "topic_same": 42
+    },
+    "paint": {
+      "total_changes": 2782,
+      "total_same": 16064,
+      "topic_to_noise": 5,
+      "all_to_noise": 1987,
+      "topic_change": 6,
+      "topic_same": 40
+    },
+    "car": {
+      "total_changes": 2888,
+      "total_same": 15958,
+      "topic_to_noise": 4,
+      "all_to_noise": 2070,
+      "topic_change": 4,
+      "topic_same": 42
+    },
+    "solvent": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 2,
+      "all_to_noise": 2070,
+      "topic_change": 3,
+      "topic_same": 43
+    },
+    "finish": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 3,
+      "all_to_noise": 2097,
+      "topic_change": 3,
+      "topic_same": 43
+    },
+    "wax": {
+      "total_changes": 2896,
+      "total_same": 15950,
+      "topic_to_noise": 2,
+      "all_to_noise": 2068,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "stuff": {
+      "total_changes": 2810,
+      "total_same": 16036,
+      "topic_to_noise": 2,
+      "all_to_noise": 2047,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "acetone": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 5,
+      "all_to_noise": 2016,
+      "topic_change": 5,
+      "topic_same": 41
+    },
+    "scratches": {
+      "total_changes": 2890,
+      "total_same": 15956,
+      "topic_to_noise": 4,
+      "all_to_noise": 2092,
+      "topic_change": 4,
+      "topic_same": 42
+    }
+  },
+  "Topic_58": {
+    "mousecom": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "mouse": {
+      "total_changes": 2854,
+      "total_same": 15992,
+      "topic_to_noise": 21,
+      "all_to_noise": 2075,
+      "topic_change": 22,
+      "topic_same": 24
+    },
+    "serial": {
+      "total_changes": 2840,
+      "total_same": 16006,
+      "topic_to_noise": 2,
+      "all_to_noise": 2084,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "windows": {
+      "total_changes": 2786,
+      "total_same": 16060,
+      "topic_to_noise": 2,
+      "all_to_noise": 2006,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "mice": {
+      "total_changes": 2826,
+      "total_same": 16020,
+      "topic_to_noise": 1,
+      "all_to_noise": 2028,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "apple": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 2,
+      "all_to_noise": 2027,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "problem": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 1,
+      "all_to_noise": 2033,
+      "topic_change": 1,
+      "topic_same": 45
+    },
+    "ball": {
+      "total_changes": 2887,
+      "total_same": 15959,
+      "topic_to_noise": 2,
+      "all_to_noise": 2090,
+      "topic_change": 2,
+      "topic_same": 44
+    },
+    "trackball": {
+      "total_changes": 2818,
+      "total_same": 16028,
+      "topic_to_noise": 0,
+      "all_to_noise": 2035,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "driver": {
+      "total_changes": 2834,
+      "total_same": 16012,
+      "topic_to_noise": 2,
+      "all_to_noise": 2097,
+      "topic_change": 2,
+      "topic_same": 44
+    }
+  },
+  "Topic_59": {
+    "reno": {
+      "total_changes": 2803,
+      "total_same": 16043,
+      "topic_to_noise": 9,
+      "all_to_noise": 2027,
+      "topic_change": 9,
+      "topic_same": 37
+    },
+    "attorney": {
+      "total_changes": 2927,
+      "total_same": 15919,
+      "topic_to_noise": 13,
+      "all_to_noise": 2135,
+      "topic_change": 13,
+      "topic_same": 33
+    },
+    "janet": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "she": {
+      "total_changes": 2883,
+      "total_same": 15963,
+      "topic_to_noise": 11,
+      "all_to_noise": 2106,
+      "topic_change": 11,
+      "topic_same": 35
+    },
+    "gas": {
+      "total_changes": 2848,
+      "total_same": 15998,
+      "topic_to_noise": 19,
+      "all_to_noise": 2081,
+      "topic_change": 19,
+      "topic_same": 27
+    },
+    "compound": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 14,
+      "all_to_noise": 2075,
+      "topic_change": 14,
+      "topic_same": 32
+    },
+    "waco": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 14,
+      "all_to_noise": 2019,
+      "topic_change": 14,
+      "topic_same": 32
+    },
+    "fbi": {
+      "total_changes": 2850,
+      "total_same": 15996,
+      "topic_to_noise": 17,
+      "all_to_noise": 2046,
+      "topic_change": 17,
+      "topic_same": 29
+    },
+    "president": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 15,
+      "all_to_noise": 2085,
+      "topic_change": 15,
+      "topic_same": 31
+    },
+    "federal": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 18,
+      "all_to_noise": 2074,
+      "topic_change": 18,
+      "topic_same": 28
+    }
+  },
+  "Topic_60": {
+    "geico": {
+      "total_changes": 2831,
+      "total_same": 16015,
+      "topic_to_noise": 7,
+      "all_to_noise": 2040,
+      "topic_change": 7,
+      "topic_same": 38
+    },
+    "insurance": {
+      "total_changes": 2763,
+      "total_same": 16083,
+      "topic_to_noise": 11,
+      "all_to_noise": 2010,
+      "topic_change": 15,
+      "topic_same": 30
+    },
+    "company": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 2,
+      "all_to_noise": 2072,
+      "topic_change": 2,
+      "topic_same": 43
+    },
+    "accident": {
+      "total_changes": 2812,
+      "total_same": 16034,
+      "topic_to_noise": 4,
+      "all_to_noise": 2061,
+      "topic_change": 4,
+      "topic_same": 41
+    },
+    "farm": {
+      "total_changes": 2800,
+      "total_same": 16046,
+      "topic_to_noise": 4,
+      "all_to_noise": 2024,
+      "topic_change": 4,
+      "topic_same": 41
+    },
+    "sue": {
+      "total_changes": 2786,
+      "total_same": 16060,
+      "topic_to_noise": 3,
+      "all_to_noise": 2017,
+      "topic_change": 3,
+      "topic_same": 42
+    },
+    "pay": {
+      "total_changes": 2879,
+      "total_same": 15967,
+      "topic_to_noise": 4,
+      "all_to_noise": 2107,
+      "topic_change": 4,
+      "topic_same": 41
+    },
+    "car": {
+      "total_changes": 2843,
+      "total_same": 16003,
+      "topic_to_noise": 2,
+      "all_to_noise": 2056,
+      "topic_change": 3,
+      "topic_same": 42
+    },
+    "rates": {
+      "total_changes": 2787,
+      "total_same": 16059,
+      "topic_to_noise": 3,
+      "all_to_noise": 2015,
+      "topic_change": 3,
+      "topic_same": 42
+    },
+    "state": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 3,
+      "all_to_noise": 2076,
+      "topic_change": 3,
+      "topic_same": 42
+    }
+  },
+  "Topic_61": {
+    "keep": {
+      "total_changes": 2756,
+      "total_same": 16090,
+      "topic_to_noise": 15,
+      "all_to_noise": 1996,
+      "topic_change": 15,
+      "topic_same": 30
+    },
+    "people": {
+      "total_changes": 2899,
+      "total_same": 15947,
+      "topic_to_noise": 14,
+      "all_to_noise": 2113,
+      "topic_change": 15,
+      "topic_same": 30
+    },
+    "bear": {
+      "total_changes": 2838,
+      "total_same": 16008,
+      "topic_to_noise": 11,
+      "all_to_noise": 2083,
+      "topic_change": 12,
+      "topic_same": 33
+    },
+    "militia": {
+      "total_changes": 2824,
+      "total_same": 16022,
+      "topic_to_noise": 11,
+      "all_to_noise": 2043,
+      "topic_change": 11,
+      "topic_same": 34
+    },
+    "right": {
+      "total_changes": 2855,
+      "total_same": 15991,
+      "topic_to_noise": 17,
+      "all_to_noise": 2074,
+      "topic_change": 17,
+      "topic_same": 28
+    },
+    "arms": {
+      "total_changes": 2819,
+      "total_same": 16027,
+      "topic_to_noise": 13,
+      "all_to_noise": 2045,
+      "topic_change": 13,
+      "topic_same": 32
+    },
+    "sentence": {
+      "total_changes": 2808,
+      "total_same": 16038,
+      "topic_to_noise": 16,
+      "all_to_noise": 2027,
+      "topic_change": 17,
+      "topic_same": 28
+    },
+    "amendment": {
+      "total_changes": 2766,
+      "total_same": 16080,
+      "topic_to_noise": 15,
+      "all_to_noise": 2023,
+      "topic_change": 16,
+      "topic_same": 29
+    },
+    "constitution": {
+      "total_changes": 2854,
+      "total_same": 15992,
+      "topic_to_noise": 15,
+      "all_to_noise": 2056,
+      "topic_change": 17,
+      "topic_same": 28
+    },
+    "second": {
+      "total_changes": 2850,
+      "total_same": 15996,
+      "topic_to_noise": 11,
+      "all_to_noise": 2093,
+      "topic_change": 13,
+      "topic_same": 32
+    }
+  },
+  "Topic_62": {
+    "armenians": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 45
+    },
+    "was": {
+      "total_changes": 2888,
+      "total_same": 15958,
+      "topic_to_noise": 9,
+      "all_to_noise": 2089,
+      "topic_change": 9,
+      "topic_same": 36
+    },
+    "they": {
+      "total_changes": 2864,
+      "total_same": 15982,
+      "topic_to_noise": 8,
+      "all_to_noise": 2066,
+      "topic_change": 9,
+      "topic_same": 36
+    },
+    "she": {
+      "total_changes": 2866,
+      "total_same": 15980,
+      "topic_to_noise": 10,
+      "all_to_noise": 2059,
+      "topic_change": 10,
+      "topic_same": 35
+    },
+    "azerbaijan": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 45
+    },
+    "had": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 3,
+      "all_to_noise": 2025,
+      "topic_change": 4,
+      "topic_same": 41
+    },
+    "her": {
+      "total_changes": 2927,
+      "total_same": 15919,
+      "topic_to_noise": 10,
+      "all_to_noise": 2111,
+      "topic_change": 10,
+      "topic_same": 35
+    },
+    "armenian": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 45
+    },
+    "said": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 4,
+      "all_to_noise": 2038,
+      "topic_change": 4,
+      "topic_same": 41
+    },
+    "were": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 15,
+      "all_to_noise": 2055,
+      "topic_change": 16,
+      "topic_same": 29
+    }
+  },
+  "Topic_63": {
+    "bobby": {
+      "total_changes": 2830,
+      "total_same": 16016,
+      "topic_to_noise": 26,
+      "all_to_noise": 2074,
+      "topic_change": 26,
+      "topic_same": 18
+    },
+    "freeman": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 44
+    },
+    "irony": {
+      "total_changes": 2932,
+      "total_same": 15914,
+      "topic_to_noise": 24,
+      "all_to_noise": 2127,
+      "topic_change": 25,
+      "topic_same": 19
+    },
+    "your": {
+      "total_changes": 2906,
+      "total_same": 15940,
+      "topic_to_noise": 20,
+      "all_to_noise": 2134,
+      "topic_change": 22,
+      "topic_same": 22
+    },
+    "you": {
+      "total_changes": 2893,
+      "total_same": 15953,
+      "topic_to_noise": 19,
+      "all_to_noise": 2127,
+      "topic_change": 19,
+      "topic_same": 25
+    },
+    "post": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 23,
+      "all_to_noise": 2059,
+      "topic_change": 24,
+      "topic_same": 20
+    },
+    "sarcastic": {
+      "total_changes": 2790,
+      "total_same": 16056,
+      "topic_to_noise": 22,
+      "all_to_noise": 2006,
+      "topic_change": 23,
+      "topic_same": 21
+    },
+    "posts": {
+      "total_changes": 2872,
+      "total_same": 15974,
+      "topic_to_noise": 24,
+      "all_to_noise": 2066,
+      "topic_change": 24,
+      "topic_same": 20
+    },
+    "sarcasm": {
+      "total_changes": 2887,
+      "total_same": 15959,
+      "topic_to_noise": 21,
+      "all_to_noise": 2092,
+      "topic_change": 22,
+      "topic_same": 22
+    },
+    "yourself": {
+      "total_changes": 2847,
+      "total_same": 15999,
+      "topic_to_noise": 21,
+      "all_to_noise": 2100,
+      "topic_change": 21,
+      "topic_same": 23
+    }
+  },
+  "Topic_64": {
+    "iran": {
+      "total_changes": 2817,
+      "total_same": 16029,
+      "topic_to_noise": 6,
+      "all_to_noise": 2048,
+      "topic_change": 6,
+      "topic_same": 38
+    },
+    "gulf": {
+      "total_changes": 2844,
+      "total_same": 16002,
+      "topic_to_noise": 6,
+      "all_to_noise": 2042,
+      "topic_change": 6,
+      "topic_same": 38
+    },
+    "iraq": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 44
+    },
+    "sheikh": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 44
+    },
+    "kuwait": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 44
+    },
+    "arabia": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 44
+    },
+    "kuwaiti": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 44
+    },
+    "war": {
+      "total_changes": 2876,
+      "total_same": 15970,
+      "topic_to_noise": 7,
+      "all_to_noise": 2082,
+      "topic_change": 7,
+      "topic_same": 37
+    },
+    "iraqi": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 44
+    },
+    "saudi": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 44
+    }
+  },
+  "Topic_65": {
+    "turks": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "jews": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 5,
+      "all_to_noise": 2046,
+      "topic_change": 5,
+      "topic_same": 37
+    },
+    "greek": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 8,
+      "all_to_noise": 2055,
+      "topic_change": 8,
+      "topic_same": 34
+    },
+    "aiu": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "minority": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 3,
+      "all_to_noise": 2020,
+      "topic_change": 3,
+      "topic_same": 39
+    },
+    "cyprus": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "turkish": {
+      "total_changes": 2818,
+      "total_same": 16028,
+      "topic_to_noise": 3,
+      "all_to_noise": 2030,
+      "topic_change": 3,
+      "topic_same": 39
+    },
+    "greece": {
+      "total_changes": 2884,
+      "total_same": 15962,
+      "topic_to_noise": 6,
+      "all_to_noise": 2065,
+      "topic_change": 6,
+      "topic_same": 36
+    },
+    "salonica": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "greeks": {
+      "total_changes": 2867,
+      "total_same": 15979,
+      "topic_to_noise": 7,
+      "all_to_noise": 2086,
+      "topic_change": 8,
+      "topic_same": 34
+    }
+  },
+  "Topic_66": {
+    "power": {
+      "total_changes": 2904,
+      "total_same": 15942,
+      "topic_to_noise": 16,
+      "all_to_noise": 2113,
+      "topic_change": 16,
+      "topic_same": 26
+    },
+    "interior": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 15,
+      "all_to_noise": 2062,
+      "topic_change": 15,
+      "topic_same": 27
+    },
+    "toyota": {
+      "total_changes": 2844,
+      "total_same": 16002,
+      "topic_to_noise": 16,
+      "all_to_noise": 2056,
+      "topic_change": 16,
+      "topic_same": 26
+    },
+    "miles": {
+      "total_changes": 2810,
+      "total_same": 16036,
+      "topic_to_noise": 16,
+      "all_to_noise": 2044,
+      "topic_change": 16,
+      "topic_same": 26
+    },
+    "condition": {
+      "total_changes": 2835,
+      "total_same": 16011,
+      "topic_to_noise": 10,
+      "all_to_noise": 2079,
+      "topic_change": 10,
+      "topic_same": 32
+    },
+    "amfm": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "car": {
+      "total_changes": 2889,
+      "total_same": 15957,
+      "topic_to_noise": 9,
+      "all_to_noise": 2094,
+      "topic_change": 10,
+      "topic_same": 32
+    },
+    "excellent": {
+      "total_changes": 2807,
+      "total_same": 16039,
+      "topic_to_noise": 11,
+      "all_to_noise": 2019,
+      "topic_change": 11,
+      "topic_same": 31
+    },
+    "stereo": {
+      "total_changes": 2800,
+      "total_same": 16046,
+      "topic_to_noise": 15,
+      "all_to_noise": 2013,
+      "topic_change": 16,
+      "topic_same": 26
+    },
+    "cassette": {
+      "total_changes": 2751,
+      "total_same": 16095,
+      "topic_to_noise": 14,
+      "all_to_noise": 2001,
+      "topic_change": 14,
+      "topic_same": 28
+    }
+  },
+  "Topic_67": {
+    "heroin": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 1,
+      "all_to_noise": 2088,
+      "topic_change": 1,
+      "topic_same": 41
+    },
+    "drug": {
+      "total_changes": 2820,
+      "total_same": 16026,
+      "topic_to_noise": 5,
+      "all_to_noise": 2035,
+      "topic_change": 5,
+      "topic_same": 37
+    },
+    "users": {
+      "total_changes": 2864,
+      "total_same": 15982,
+      "topic_to_noise": 0,
+      "all_to_noise": 2059,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "marijuana": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 1,
+      "all_to_noise": 2026,
+      "topic_change": 1,
+      "topic_same": 41
+    },
+    "illegal": {
+      "total_changes": 2850,
+      "total_same": 15996,
+      "topic_to_noise": 0,
+      "all_to_noise": 2057,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "cigarettes": {
+      "total_changes": 2828,
+      "total_same": 16018,
+      "topic_to_noise": 0,
+      "all_to_noise": 2066,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "alcohol": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 0,
+      "all_to_noise": 2075,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "lsd": {
+      "total_changes": 2822,
+      "total_same": 16024,
+      "topic_to_noise": 0,
+      "all_to_noise": 2034,
+      "topic_change": 0,
+      "topic_same": 42
+    },
+    "cocaine": {
+      "total_changes": 2843,
+      "total_same": 16003,
+      "topic_to_noise": 0,
+      "all_to_noise": 2036,
+      "topic_change": 1,
+      "topic_same": 41
+    },
+    "drugs": {
+      "total_changes": 2868,
+      "total_same": 15978,
+      "topic_to_noise": 4,
+      "all_to_noise": 2058,
+      "topic_change": 4,
+      "topic_same": 38
+    }
+  },
+  "Topic_68": {
+    "temperature": {
+      "total_changes": 2900,
+      "total_same": 15946,
+      "topic_to_noise": 3,
+      "all_to_noise": 2096,
+      "topic_change": 3,
+      "topic_same": 38
+    },
+    "reaction": {
+      "total_changes": 2860,
+      "total_same": 15986,
+      "topic_to_noise": 3,
+      "all_to_noise": 2057,
+      "topic_change": 3,
+      "topic_same": 38
+    },
+    "battery": {
+      "total_changes": 2879,
+      "total_same": 15967,
+      "topic_to_noise": 4,
+      "all_to_noise": 2091,
+      "topic_change": 7,
+      "topic_same": 34
+    },
+    "concrete": {
+      "total_changes": 2830,
+      "total_same": 16016,
+      "topic_to_noise": 3,
+      "all_to_noise": 2070,
+      "topic_change": 3,
+      "topic_same": 38
+    },
+    "charging": {
+      "total_changes": 2852,
+      "total_same": 15994,
+      "topic_to_noise": 3,
+      "all_to_noise": 2064,
+      "topic_change": 3,
+      "topic_same": 38
+    },
+    "electrolyte": {
+      "total_changes": 2860,
+      "total_same": 15986,
+      "topic_to_noise": 2,
+      "all_to_noise": 2086,
+      "topic_change": 2,
+      "topic_same": 39
+    },
+    "discharge": {
+      "total_changes": 2828,
+      "total_same": 16018,
+      "topic_to_noise": 2,
+      "all_to_noise": 2034,
+      "topic_change": 2,
+      "topic_same": 39
+    },
+    "leadacid": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "heat": {
+      "total_changes": 2780,
+      "total_same": 16066,
+      "topic_to_noise": 1,
+      "all_to_noise": 2034,
+      "topic_change": 2,
+      "topic_same": 39
+    },
+    "batteries": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 2,
+      "all_to_noise": 2057,
+      "topic_change": 3,
+      "topic_same": 38
+    }
+  },
+  "Topic_69": {
+    "windows": {
+      "total_changes": 2804,
+      "total_same": 16042,
+      "topic_to_noise": 15,
+      "all_to_noise": 2056,
+      "topic_change": 15,
+      "topic_same": 25
+    },
+    "svga": {
+      "total_changes": 2830,
+      "total_same": 16016,
+      "topic_to_noise": 10,
+      "all_to_noise": 2046,
+      "topic_change": 12,
+      "topic_same": 28
+    },
+    "cirrus": {
+      "total_changes": 2780,
+      "total_same": 16066,
+      "topic_to_noise": 10,
+      "all_to_noise": 2004,
+      "topic_change": 10,
+      "topic_same": 30
+    },
+    "bitblaster": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 40
+    },
+    "vl24": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 40
+    },
+    "ftp": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 11,
+      "all_to_noise": 2050,
+      "topic_change": 11,
+      "topic_same": 29
+    },
+    "gibsons": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 40
+    },
+    "drivers": {
+      "total_changes": 2830,
+      "total_same": 16016,
+      "topic_to_noise": 23,
+      "all_to_noise": 2054,
+      "topic_change": 23,
+      "topic_same": 17
+    },
+    "driver": {
+      "total_changes": 2852,
+      "total_same": 15994,
+      "topic_to_noise": 26,
+      "all_to_noise": 2053,
+      "topic_change": 26,
+      "topic_same": 14
+    },
+    "card": {
+      "total_changes": 2873,
+      "total_same": 15973,
+      "topic_to_noise": 14,
+      "all_to_noise": 2086,
+      "topic_change": 14,
+      "topic_same": 26
+    }
+  },
+  "Topic_70": {
+    "neutron": {
+      "total_changes": 2790,
+      "total_same": 16056,
+      "topic_to_noise": 11,
+      "all_to_noise": 2018,
+      "topic_change": 12,
+      "topic_same": 28
+    },
+    "mechanism": {
+      "total_changes": 2868,
+      "total_same": 15978,
+      "topic_to_noise": 8,
+      "all_to_noise": 2087,
+      "topic_change": 10,
+      "topic_same": 30
+    },
+    "cloud": {
+      "total_changes": 2802,
+      "total_same": 16044,
+      "topic_to_noise": 11,
+      "all_to_noise": 2018,
+      "topic_change": 12,
+      "topic_same": 28
+    },
+    "oort": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 7,
+      "all_to_noise": 2057,
+      "topic_change": 8,
+      "topic_same": 32
+    },
+    "distribution": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 14,
+      "all_to_noise": 2100,
+      "topic_change": 16,
+      "topic_same": 24
+    },
+    "gamma": {
+      "total_changes": 2838,
+      "total_same": 16008,
+      "topic_to_noise": 11,
+      "all_to_noise": 2028,
+      "topic_change": 12,
+      "topic_same": 28
+    },
+    "bursts": {
+      "total_changes": 2804,
+      "total_same": 16042,
+      "topic_to_noise": 11,
+      "all_to_noise": 2049,
+      "topic_change": 12,
+      "topic_same": 28
+    },
+    "galaxy": {
+      "total_changes": 2878,
+      "total_same": 15968,
+      "topic_to_noise": 12,
+      "all_to_noise": 2114,
+      "topic_change": 13,
+      "topic_same": 27
+    },
+    "burst": {
+      "total_changes": 2823,
+      "total_same": 16023,
+      "topic_to_noise": 17,
+      "all_to_noise": 2032,
+      "topic_change": 18,
+      "topic_same": 22
+    },
+    "grbs": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 40
+    }
+  },
+  "Topic_71": {
+    "rf": {
+      "total_changes": 2819,
+      "total_same": 16027,
+      "topic_to_noise": 16,
+      "all_to_noise": 2047,
+      "topic_change": 17,
+      "topic_same": 23
+    },
+    "theory": {
+      "total_changes": 2792,
+      "total_same": 16054,
+      "topic_to_noise": 11,
+      "all_to_noise": 2023,
+      "topic_change": 12,
+      "topic_same": 28
+    },
+    "antenna": {
+      "total_changes": 2840,
+      "total_same": 16006,
+      "topic_to_noise": 13,
+      "all_to_noise": 2071,
+      "topic_change": 14,
+      "topic_same": 26
+    },
+    "antennas": {
+      "total_changes": 2804,
+      "total_same": 16042,
+      "topic_to_noise": 12,
+      "all_to_noise": 2053,
+      "topic_change": 12,
+      "topic_same": 28
+    },
+    "circuits": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 11,
+      "all_to_noise": 2071,
+      "topic_change": 11,
+      "topic_same": 29
+    },
+    "design": {
+      "total_changes": 2784,
+      "total_same": 16062,
+      "topic_to_noise": 16,
+      "all_to_noise": 2036,
+      "topic_change": 16,
+      "topic_same": 24
+    },
+    "mixer": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 14,
+      "all_to_noise": 2090,
+      "topic_change": 14,
+      "topic_same": 26
+    },
+    "radio": {
+      "total_changes": 2911,
+      "total_same": 15935,
+      "topic_to_noise": 18,
+      "all_to_noise": 2128,
+      "topic_change": 18,
+      "topic_same": 22
+    },
+    "cable": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 9,
+      "all_to_noise": 2032,
+      "topic_change": 10,
+      "topic_same": 30
+    },
+    "receiver": {
+      "total_changes": 2767,
+      "total_same": 16079,
+      "topic_to_noise": 13,
+      "all_to_noise": 2014,
+      "topic_change": 13,
+      "topic_same": 27
+    }
+  },
+  "Topic_72": {
+    "book": {
+      "total_changes": 2954,
+      "total_same": 15892,
+      "topic_to_noise": 15,
+      "all_to_noise": 2154,
+      "topic_change": 17,
+      "topic_same": 22
+    },
+    "orbeli": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "shirak": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "qumran": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "books": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 6,
+      "all_to_noise": 2026,
+      "topic_change": 7,
+      "topic_same": 32
+    },
+    "tyukhik": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "anania": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "scrolls": {
+      "total_changes": 2855,
+      "total_same": 15991,
+      "topic_to_noise": 4,
+      "all_to_noise": 2071,
+      "topic_change": 4,
+      "topic_same": 35
+    },
+    "ks": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 9,
+      "all_to_noise": 2100,
+      "topic_change": 10,
+      "topic_same": 29
+    },
+    "armenian": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    }
+  },
+  "Topic_73": {
+    "evolution": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 15,
+      "all_to_noise": 2051,
+      "topic_change": 15,
+      "topic_same": 24
+    },
+    "why": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 14,
+      "all_to_noise": 2052,
+      "topic_change": 14,
+      "topic_same": 25
+    },
+    "science": {
+      "total_changes": 2888,
+      "total_same": 15958,
+      "topic_to_noise": 10,
+      "all_to_noise": 2071,
+      "topic_change": 11,
+      "topic_same": 28
+    },
+    "exist": {
+      "total_changes": 2812,
+      "total_same": 16034,
+      "topic_to_noise": 14,
+      "all_to_noise": 2028,
+      "topic_change": 15,
+      "topic_same": 24
+    },
+    "existence": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 18,
+      "all_to_noise": 2065,
+      "topic_change": 18,
+      "topic_same": 21
+    },
+    "universe": {
+      "total_changes": 2834,
+      "total_same": 16012,
+      "topic_to_noise": 11,
+      "all_to_noise": 2048,
+      "topic_change": 11,
+      "topic_same": 28
+    },
+    "genetic": {
+      "total_changes": 2831,
+      "total_same": 16015,
+      "topic_to_noise": 10,
+      "all_to_noise": 2054,
+      "topic_change": 10,
+      "topic_same": 29
+    },
+    "evidence": {
+      "total_changes": 2853,
+      "total_same": 15993,
+      "topic_to_noise": 11,
+      "all_to_noise": 2054,
+      "topic_change": 11,
+      "topic_same": 28
+    },
+    "exists": {
+      "total_changes": 2813,
+      "total_same": 16033,
+      "topic_to_noise": 11,
+      "all_to_noise": 2038,
+      "topic_change": 12,
+      "topic_same": 27
+    },
+    "god": {
+      "total_changes": 2831,
+      "total_same": 16015,
+      "topic_to_noise": 6,
+      "all_to_noise": 2034,
+      "topic_change": 7,
+      "topic_same": 32
+    }
+  },
+  "Topic_74": {
+    "testament": {
+      "total_changes": 2787,
+      "total_same": 16059,
+      "topic_to_noise": 12,
+      "all_to_noise": 2040,
+      "topic_change": 12,
+      "topic_same": 27
+    },
+    "greek": {
+      "total_changes": 2938,
+      "total_same": 15908,
+      "topic_to_noise": 9,
+      "all_to_noise": 2143,
+      "topic_change": 10,
+      "topic_same": 29
+    },
+    "scripture": {
+      "total_changes": 2785,
+      "total_same": 16061,
+      "topic_to_noise": 11,
+      "all_to_noise": 2016,
+      "topic_change": 11,
+      "topic_same": 28
+    },
+    "texts": {
+      "total_changes": 2881,
+      "total_same": 15965,
+      "topic_to_noise": 16,
+      "all_to_noise": 2069,
+      "topic_change": 17,
+      "topic_same": 22
+    },
+    "bible": {
+      "total_changes": 2818,
+      "total_same": 16028,
+      "topic_to_noise": 14,
+      "all_to_noise": 2065,
+      "topic_change": 15,
+      "topic_same": 24
+    },
+    "books": {
+      "total_changes": 2822,
+      "total_same": 16024,
+      "topic_to_noise": 12,
+      "all_to_noise": 2015,
+      "topic_change": 12,
+      "topic_same": 27
+    },
+    "apocrypha": {
+      "total_changes": 2880,
+      "total_same": 15966,
+      "topic_to_noise": 11,
+      "all_to_noise": 2070,
+      "topic_change": 12,
+      "topic_same": 27
+    },
+    "canon": {
+      "total_changes": 2828,
+      "total_same": 16018,
+      "topic_to_noise": 11,
+      "all_to_noise": 2047,
+      "topic_change": 14,
+      "topic_same": 25
+    },
+    "hebrew": {
+      "total_changes": 2843,
+      "total_same": 16003,
+      "topic_to_noise": 12,
+      "all_to_noise": 2082,
+      "topic_change": 13,
+      "topic_same": 26
+    },
+    "septuagint": {
+      "total_changes": 2796,
+      "total_same": 16050,
+      "topic_to_noise": 14,
+      "all_to_noise": 2018,
+      "topic_change": 15,
+      "topic_same": 24
+    }
+  },
+  "Topic_75": {
+    "widgets": {
+      "total_changes": 2818,
+      "total_same": 16028,
+      "topic_to_noise": 13,
+      "all_to_noise": 2064,
+      "topic_change": 13,
+      "topic_same": 26
+    },
+    "interviews": {
+      "total_changes": 2795,
+      "total_same": 16051,
+      "topic_to_noise": 10,
+      "all_to_noise": 2031,
+      "topic_change": 10,
+      "topic_same": 29
+    },
+    "cosecomplient": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "code": {
+      "total_changes": 2936,
+      "total_same": 15910,
+      "topic_to_noise": 15,
+      "all_to_noise": 2125,
+      "topic_change": 15,
+      "topic_same": 24
+    },
+    "list": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 11,
+      "all_to_noise": 2071,
+      "topic_change": 11,
+      "topic_same": 28
+    },
+    "bindings": {
+      "total_changes": 2915,
+      "total_same": 15931,
+      "topic_to_noise": 7,
+      "all_to_noise": 2132,
+      "topic_change": 7,
+      "topic_same": 32
+    },
+    "release": {
+      "total_changes": 2853,
+      "total_same": 15993,
+      "topic_to_noise": 8,
+      "all_to_noise": 2039,
+      "topic_change": 8,
+      "topic_same": 31
+    },
+    "multicolumn": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "toolkit": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 9,
+      "all_to_noise": 2082,
+      "topic_change": 9,
+      "topic_same": 30
+    },
+    "motif": {
+      "total_changes": 2792,
+      "total_same": 16054,
+      "topic_to_noise": 13,
+      "all_to_noise": 2023,
+      "topic_change": 15,
+      "topic_same": 24
+    }
+  },
+  "Topic_76": {
+    "prayer": {
+      "total_changes": 2847,
+      "total_same": 15999,
+      "topic_to_noise": 6,
+      "all_to_noise": 2041,
+      "topic_change": 6,
+      "topic_same": 33
+    },
+    "catholic": {
+      "total_changes": 2898,
+      "total_same": 15948,
+      "topic_to_noise": 8,
+      "all_to_noise": 2093,
+      "topic_change": 8,
+      "topic_same": 31
+    },
+    "silence": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 9,
+      "all_to_noise": 2088,
+      "topic_change": 9,
+      "topic_same": 30
+    },
+    "cult": {
+      "total_changes": 2886,
+      "total_same": 15960,
+      "topic_to_noise": 9,
+      "all_to_noise": 2113,
+      "topic_change": 10,
+      "topic_same": 29
+    },
+    "religion": {
+      "total_changes": 2761,
+      "total_same": 16085,
+      "topic_to_noise": 11,
+      "all_to_noise": 1988,
+      "topic_change": 12,
+      "topic_same": 27
+    },
+    "christian": {
+      "total_changes": 2891,
+      "total_same": 15955,
+      "topic_to_noise": 7,
+      "all_to_noise": 2118,
+      "topic_change": 7,
+      "topic_same": 32
+    },
+    "schools": {
+      "total_changes": 2895,
+      "total_same": 15951,
+      "topic_to_noise": 6,
+      "all_to_noise": 2103,
+      "topic_change": 6,
+      "topic_same": 33
+    },
+    "moment": {
+      "total_changes": 2803,
+      "total_same": 16043,
+      "topic_to_noise": 5,
+      "all_to_noise": 1988,
+      "topic_change": 5,
+      "topic_same": 34
+    },
+    "public": {
+      "total_changes": 2894,
+      "total_same": 15952,
+      "topic_to_noise": 8,
+      "all_to_noise": 2098,
+      "topic_change": 8,
+      "topic_same": 31
+    },
+    "religious": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 10,
+      "all_to_noise": 2074,
+      "topic_change": 11,
+      "topic_same": 28
+    }
+  },
+  "Topic_77": {
+    "vacation": {
+      "total_changes": 2881,
+      "total_same": 15965,
+      "topic_to_noise": 1,
+      "all_to_noise": 2069,
+      "topic_change": 1,
+      "topic_same": 37
+    },
+    "room": {
+      "total_changes": 2771,
+      "total_same": 16075,
+      "topic_to_noise": 0,
+      "all_to_noise": 2023,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "airfare": {
+      "total_changes": 2776,
+      "total_same": 16070,
+      "topic_to_noise": 0,
+      "all_to_noise": 1995,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "meals": {
+      "total_changes": 2817,
+      "total_same": 16029,
+      "topic_to_noise": 1,
+      "all_to_noise": 2021,
+      "topic_change": 1,
+      "topic_same": 37
+    },
+    "nights": {
+      "total_changes": 2811,
+      "total_same": 16035,
+      "topic_to_noise": 0,
+      "all_to_noise": 2020,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "bedroom": {
+      "total_changes": 2823,
+      "total_same": 16023,
+      "topic_to_noise": 1,
+      "all_to_noise": 2063,
+      "topic_change": 1,
+      "topic_same": 37
+    },
+    "hotel": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 1,
+      "all_to_noise": 2081,
+      "topic_change": 1,
+      "topic_same": 37
+    },
+    "offer": {
+      "total_changes": 2813,
+      "total_same": 16033,
+      "topic_to_noise": 2,
+      "all_to_noise": 2041,
+      "topic_change": 2,
+      "topic_same": 36
+    },
+    "voucher": {
+      "total_changes": 2881,
+      "total_same": 15965,
+      "topic_to_noise": 0,
+      "all_to_noise": 2084,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "package": {
+      "total_changes": 2896,
+      "total_same": 15950,
+      "topic_to_noise": 0,
+      "all_to_noise": 2099,
+      "topic_change": 0,
+      "topic_same": 38
+    }
+  },
+  "Topic_78": {
+    "system": {
+      "total_changes": 2759,
+      "total_same": 16087,
+      "topic_to_noise": 5,
+      "all_to_noise": 1974,
+      "topic_change": 5,
+      "topic_same": 33
+    },
+    "capital": {
+      "total_changes": 2820,
+      "total_same": 16026,
+      "topic_to_noise": 7,
+      "all_to_noise": 2049,
+      "topic_change": 7,
+      "topic_same": 31
+    },
+    "execution": {
+      "total_changes": 2868,
+      "total_same": 15978,
+      "topic_to_noise": 9,
+      "all_to_noise": 2069,
+      "topic_change": 9,
+      "topic_same": 29
+    },
+    "crime": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 8,
+      "all_to_noise": 2051,
+      "topic_change": 8,
+      "topic_same": 30
+    },
+    "death": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 9,
+      "all_to_noise": 2030,
+      "topic_change": 9,
+      "topic_same": 29
+    },
+    "innocent": {
+      "total_changes": 2917,
+      "total_same": 15929,
+      "topic_to_noise": 6,
+      "all_to_noise": 2125,
+      "topic_change": 6,
+      "topic_same": 32
+    },
+    "murder": {
+      "total_changes": 2961,
+      "total_same": 15885,
+      "topic_to_noise": 9,
+      "all_to_noise": 2145,
+      "topic_change": 9,
+      "topic_same": 29
+    },
+    "punishment": {
+      "total_changes": 2820,
+      "total_same": 16026,
+      "topic_to_noise": 6,
+      "all_to_noise": 2042,
+      "topic_change": 6,
+      "topic_same": 32
+    },
+    "penalty": {
+      "total_changes": 2808,
+      "total_same": 16038,
+      "topic_to_noise": 8,
+      "all_to_noise": 2046,
+      "topic_change": 8,
+      "topic_same": 30
+    },
+    "cruel": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 6,
+      "all_to_noise": 2048,
+      "topic_change": 7,
+      "topic_same": 31
+    }
+  },
+  "Topic_79": {
+    "court": {
+      "total_changes": 2891,
+      "total_same": 15955,
+      "topic_to_noise": 7,
+      "all_to_noise": 2108,
+      "topic_change": 7,
+      "topic_same": 30
+    },
+    "plant": {
+      "total_changes": 2852,
+      "total_same": 15994,
+      "topic_to_noise": 7,
+      "all_to_noise": 2078,
+      "topic_change": 7,
+      "topic_same": 30
+    },
+    "cooper": {
+      "total_changes": 2825,
+      "total_same": 16021,
+      "topic_to_noise": 9,
+      "all_to_noise": 2048,
+      "topic_change": 9,
+      "topic_same": 28
+    },
+    "cement": {
+      "total_changes": 2831,
+      "total_same": 16015,
+      "topic_to_noise": 5,
+      "all_to_noise": 2065,
+      "topic_change": 5,
+      "topic_same": 32
+    },
+    "boomer": {
+      "total_changes": 2845,
+      "total_same": 16001,
+      "topic_to_noise": 9,
+      "all_to_noise": 2065,
+      "topic_change": 9,
+      "topic_same": 28
+    },
+    "trial": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 10,
+      "all_to_noise": 2076,
+      "topic_change": 11,
+      "topic_same": 26
+    },
+    "plaintiffs": {
+      "total_changes": 2840,
+      "total_same": 16006,
+      "topic_to_noise": 6,
+      "all_to_noise": 2070,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "witnesses": {
+      "total_changes": 2763,
+      "total_same": 16083,
+      "topic_to_noise": 4,
+      "all_to_noise": 1995,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "atlantic": {
+      "total_changes": 2798,
+      "total_same": 16048,
+      "topic_to_noise": 4,
+      "all_to_noise": 2065,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "spence": {
+      "total_changes": 2879,
+      "total_same": 15967,
+      "topic_to_noise": 7,
+      "all_to_noise": 2099,
+      "topic_change": 7,
+      "topic_same": 30
+    }
+  },
+  "Topic_80": {
+    "resources": {
+      "total_changes": 2774,
+      "total_same": 16072,
+      "topic_to_noise": 5,
+      "all_to_noise": 2007,
+      "topic_change": 5,
+      "topic_same": 32
+    },
+    "swap": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 20,
+      "all_to_noise": 2050,
+      "topic_change": 20,
+      "topic_same": 17
+    },
+    "windows": {
+      "total_changes": 2850,
+      "total_same": 15996,
+      "topic_to_noise": 10,
+      "all_to_noise": 2080,
+      "topic_change": 10,
+      "topic_same": 27
+    },
+    "disk": {
+      "total_changes": 2792,
+      "total_same": 16054,
+      "topic_to_noise": 8,
+      "all_to_noise": 2028,
+      "topic_change": 8,
+      "topic_same": 29
+    },
+    "ndw": {
+      "total_changes": 2839,
+      "total_same": 16007,
+      "topic_to_noise": 8,
+      "all_to_noise": 2041,
+      "topic_change": 8,
+      "topic_same": 29
+    },
+    "running": {
+      "total_changes": 2759,
+      "total_same": 16087,
+      "topic_to_noise": 9,
+      "all_to_noise": 1978,
+      "topic_change": 9,
+      "topic_same": 28
+    },
+    "ram": {
+      "total_changes": 2864,
+      "total_same": 15982,
+      "topic_to_noise": 7,
+      "all_to_noise": 2103,
+      "topic_change": 7,
+      "topic_same": 30
+    },
+    "virtual": {
+      "total_changes": 2764,
+      "total_same": 16082,
+      "topic_to_noise": 7,
+      "all_to_noise": 2015,
+      "topic_change": 7,
+      "topic_same": 30
+    },
+    "emm386": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 7,
+      "all_to_noise": 2049,
+      "topic_change": 7,
+      "topic_same": 30
+    },
+    "memory": {
+      "total_changes": 2844,
+      "total_same": 16002,
+      "topic_to_noise": 8,
+      "all_to_noise": 2066,
+      "topic_change": 8,
+      "topic_same": 29
+    }
+  },
+  "Topic_81": {
+    "me": {
+      "total_changes": 3055,
+      "total_same": 15791,
+      "topic_to_noise": 1,
+      "all_to_noise": 2232,
+      "topic_change": 1,
+      "topic_same": 36
+    },
+    "advantages": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 0,
+      "all_to_noise": 2025,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "chase": {
+      "total_changes": 2793,
+      "total_same": 16053,
+      "topic_to_noise": 0,
+      "all_to_noise": 2022,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "dog": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 7,
+      "all_to_noise": 2036,
+      "topic_change": 13,
+      "topic_same": 24
+    },
+    "trained": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 0,
+      "all_to_noise": 2027,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "road": {
+      "total_changes": 2815,
+      "total_same": 16031,
+      "topic_to_noise": 0,
+      "all_to_noise": 2035,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "bike": {
+      "total_changes": 2877,
+      "total_same": 15969,
+      "topic_to_noise": 1,
+      "all_to_noise": 2113,
+      "topic_change": 1,
+      "topic_same": 36
+    },
+    "dogs": {
+      "total_changes": 2766,
+      "total_same": 16080,
+      "topic_to_noise": 1,
+      "all_to_noise": 1986,
+      "topic_change": 2,
+      "topic_same": 35
+    },
+    "my": {
+      "total_changes": 2872,
+      "total_same": 15974,
+      "topic_to_noise": 1,
+      "all_to_noise": 2047,
+      "topic_change": 1,
+      "topic_same": 36
+    },
+    "riding": {
+      "total_changes": 2838,
+      "total_same": 16008,
+      "topic_to_noise": 0,
+      "all_to_noise": 2077,
+      "topic_change": 0,
+      "topic_same": 37
+    }
+  },
+  "Topic_82": {
+    "automatics": {
+      "total_changes": 2826,
+      "total_same": 16020,
+      "topic_to_noise": 3,
+      "all_to_noise": 2013,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "gear": {
+      "total_changes": 2888,
+      "total_same": 15958,
+      "topic_to_noise": 2,
+      "all_to_noise": 2082,
+      "topic_change": 2,
+      "topic_same": 35
+    },
+    "clutch": {
+      "total_changes": 2776,
+      "total_same": 16070,
+      "topic_to_noise": 8,
+      "all_to_noise": 1986,
+      "topic_change": 9,
+      "topic_same": 28
+    },
+    "gears": {
+      "total_changes": 2795,
+      "total_same": 16051,
+      "topic_to_noise": 3,
+      "all_to_noise": 2040,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "transmission": {
+      "total_changes": 2778,
+      "total_same": 16068,
+      "topic_to_noise": 4,
+      "all_to_noise": 2004,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "auto": {
+      "total_changes": 2795,
+      "total_same": 16051,
+      "topic_to_noise": 5,
+      "all_to_noise": 1982,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "shifting": {
+      "total_changes": 2882,
+      "total_same": 15964,
+      "topic_to_noise": 0,
+      "all_to_noise": 2084,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "car": {
+      "total_changes": 2899,
+      "total_same": 15947,
+      "topic_to_noise": 3,
+      "all_to_noise": 2088,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "automatic": {
+      "total_changes": 2823,
+      "total_same": 16023,
+      "topic_to_noise": 4,
+      "all_to_noise": 2033,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "shift": {
+      "total_changes": 2813,
+      "total_same": 16033,
+      "topic_to_noise": 3,
+      "all_to_noise": 2010,
+      "topic_change": 3,
+      "topic_same": 34
+    }
+  },
+  "Topic_83": {
+    "libertarianism": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 7,
+      "all_to_noise": 2081,
+      "topic_change": 7,
+      "topic_same": 30
+    },
+    "european": {
+      "total_changes": 2813,
+      "total_same": 16033,
+      "topic_to_noise": 7,
+      "all_to_noise": 2002,
+      "topic_change": 7,
+      "topic_same": 30
+    },
+    "party": {
+      "total_changes": 2854,
+      "total_same": 15992,
+      "topic_to_noise": 1,
+      "all_to_noise": 2065,
+      "topic_change": 1,
+      "topic_same": 36
+    },
+    "society": {
+      "total_changes": 2906,
+      "total_same": 15940,
+      "topic_to_noise": 4,
+      "all_to_noise": 2138,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "parliament": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 7,
+      "all_to_noise": 2074,
+      "topic_change": 7,
+      "topic_same": 30
+    },
+    "regulation": {
+      "total_changes": 2860,
+      "total_same": 15986,
+      "topic_to_noise": 5,
+      "all_to_noise": 2056,
+      "topic_change": 5,
+      "topic_same": 32
+    },
+    "libertarian": {
+      "total_changes": 2821,
+      "total_same": 16025,
+      "topic_to_noise": 16,
+      "all_to_noise": 2069,
+      "topic_change": 16,
+      "topic_same": 21
+    },
+    "libertarians": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 8,
+      "all_to_noise": 2061,
+      "topic_change": 8,
+      "topic_same": 29
+    },
+    "government": {
+      "total_changes": 2912,
+      "total_same": 15934,
+      "topic_to_noise": 6,
+      "all_to_noise": 2089,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "third": {
+      "total_changes": 2860,
+      "total_same": 15986,
+      "topic_to_noise": 6,
+      "all_to_noise": 2071,
+      "topic_change": 6,
+      "topic_same": 31
+    }
+  },
+  "Topic_84": {
+    "environmental": {
+      "total_changes": 2820,
+      "total_same": 16026,
+      "topic_to_noise": 6,
+      "all_to_noise": 2040,
+      "topic_change": 7,
+      "topic_same": 29
+    },
+    "water": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 7,
+      "all_to_noise": 2072,
+      "topic_change": 7,
+      "topic_same": 29
+    },
+    "fuels": {
+      "total_changes": 2854,
+      "total_same": 15992,
+      "topic_to_noise": 5,
+      "all_to_noise": 2049,
+      "topic_change": 5,
+      "topic_same": 31
+    },
+    "dept": {
+      "total_changes": 2800,
+      "total_same": 16046,
+      "topic_to_noise": 3,
+      "all_to_noise": 2006,
+      "topic_change": 3,
+      "topic_same": 33
+    },
+    "energy": {
+      "total_changes": 2837,
+      "total_same": 16009,
+      "topic_to_noise": 5,
+      "all_to_noise": 2056,
+      "topic_change": 5,
+      "topic_same": 31
+    },
+    "meteorologist": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 36
+    },
+    "phd": {
+      "total_changes": 2776,
+      "total_same": 16070,
+      "topic_to_noise": 4,
+      "all_to_noise": 1990,
+      "topic_change": 4,
+      "topic_same": 32
+    },
+    "global": {
+      "total_changes": 2794,
+      "total_same": 16052,
+      "topic_to_noise": 4,
+      "all_to_noise": 2009,
+      "topic_change": 5,
+      "topic_same": 31
+    },
+    "atmosphere": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 7,
+      "all_to_noise": 2066,
+      "topic_change": 7,
+      "topic_same": 29
+    },
+    "atmospheric": {
+      "total_changes": 2891,
+      "total_same": 15955,
+      "topic_to_noise": 4,
+      "all_to_noise": 2093,
+      "topic_change": 4,
+      "topic_same": 32
+    }
+  },
+  "Topic_85": {
+    "angels": {
+      "total_changes": 2765,
+      "total_same": 16081,
+      "topic_to_noise": 2,
+      "all_to_noise": 2019,
+      "topic_change": 2,
+      "topic_same": 33
+    },
+    "ra": {
+      "total_changes": 3150,
+      "total_same": 15696,
+      "topic_to_noise": 2,
+      "all_to_noise": 2283,
+      "topic_change": 2,
+      "topic_same": 33
+    },
+    "bible": {
+      "total_changes": 2822,
+      "total_same": 16024,
+      "topic_to_noise": 2,
+      "all_to_noise": 2027,
+      "topic_change": 2,
+      "topic_same": 33
+    },
+    "lucifer": {
+      "total_changes": 2849,
+      "total_same": 15997,
+      "topic_to_noise": 2,
+      "all_to_noise": 2072,
+      "topic_change": 2,
+      "topic_same": 33
+    },
+    "thee": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 4,
+      "all_to_noise": 2048,
+      "topic_change": 4,
+      "topic_same": 31
+    },
+    "ye": {
+      "total_changes": 2942,
+      "total_same": 15904,
+      "topic_to_noise": 2,
+      "all_to_noise": 2148,
+      "topic_change": 2,
+      "topic_same": 33
+    },
+    "god": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 1,
+      "all_to_noise": 2068,
+      "topic_change": 1,
+      "topic_same": 34
+    },
+    "thy": {
+      "total_changes": 2844,
+      "total_same": 16002,
+      "topic_to_noise": 3,
+      "all_to_noise": 2030,
+      "topic_change": 3,
+      "topic_same": 32
+    },
+    "satan": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 4,
+      "all_to_noise": 2041,
+      "topic_change": 4,
+      "topic_same": 31
+    },
+    "thou": {
+      "total_changes": 2936,
+      "total_same": 15910,
+      "topic_to_noise": 3,
+      "all_to_noise": 2131,
+      "topic_change": 3,
+      "topic_same": 32
+    }
+  },
+  "Topic_86": {
+    "65000": {
+      "total_changes": 2808,
+      "total_same": 16038,
+      "topic_to_noise": 5,
+      "all_to_noise": 2056,
+      "topic_change": 5,
+      "topic_same": 30
+    },
+    "backup": {
+      "total_changes": 2881,
+      "total_same": 15965,
+      "topic_to_noise": 8,
+      "all_to_noise": 2091,
+      "topic_change": 8,
+      "topic_same": 27
+    },
+    "munroe": {
+      "total_changes": 2815,
+      "total_same": 16031,
+      "topic_to_noise": 7,
+      "all_to_noise": 2036,
+      "topic_change": 7,
+      "topic_same": 28
+    },
+    "tapes": {
+      "total_changes": 2868,
+      "total_same": 15978,
+      "topic_to_noise": 7,
+      "all_to_noise": 2094,
+      "topic_change": 8,
+      "topic_same": 27
+    },
+    "wangdat": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "drive": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 4,
+      "all_to_noise": 2088,
+      "topic_change": 4,
+      "topic_same": 31
+    },
+    "tape": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 20,
+      "all_to_noise": 2091,
+      "topic_change": 30,
+      "topic_same": 5
+    },
+    "8mm": {
+      "total_changes": 2833,
+      "total_same": 16013,
+      "topic_to_noise": 4,
+      "all_to_noise": 2051,
+      "topic_change": 4,
+      "topic_same": 31
+    },
+    "device": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 5,
+      "all_to_noise": 2102,
+      "topic_change": 5,
+      "topic_same": 30
+    },
+    "4mm": {
+      "total_changes": 2835,
+      "total_same": 16011,
+      "topic_to_noise": 5,
+      "all_to_noise": 2081,
+      "topic_change": 5,
+      "topic_same": 30
+    }
+  },
+  "Topic_87": {
+    "486": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 12,
+      "all_to_noise": 2035,
+      "topic_change": 12,
+      "topic_same": 23
+    },
+    "bus": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 7,
+      "all_to_noise": 2101,
+      "topic_change": 7,
+      "topic_same": 28
+    },
+    "50mhz": {
+      "total_changes": 2843,
+      "total_same": 16003,
+      "topic_to_noise": 11,
+      "all_to_noise": 2060,
+      "topic_change": 11,
+      "topic_same": 24
+    },
+    "chrms": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "faster": {
+      "total_changes": 2802,
+      "total_same": 16044,
+      "topic_to_noise": 10,
+      "all_to_noise": 2034,
+      "topic_change": 10,
+      "topic_same": 25
+    },
+    "cpu": {
+      "total_changes": 2777,
+      "total_same": 16069,
+      "topic_to_noise": 9,
+      "all_to_noise": 2003,
+      "topic_change": 9,
+      "topic_same": 26
+    },
+    "speed": {
+      "total_changes": 2915,
+      "total_same": 15931,
+      "topic_to_noise": 8,
+      "all_to_noise": 2104,
+      "topic_change": 8,
+      "topic_same": 27
+    },
+    "486dx250": {
+      "total_changes": 2906,
+      "total_same": 15940,
+      "topic_to_noise": 11,
+      "all_to_noise": 2128,
+      "topic_change": 11,
+      "topic_same": 24
+    },
+    "cache": {
+      "total_changes": 2825,
+      "total_same": 16021,
+      "topic_to_noise": 9,
+      "all_to_noise": 2038,
+      "topic_change": 9,
+      "topic_same": 26
+    },
+    "mhz": {
+      "total_changes": 2899,
+      "total_same": 15947,
+      "topic_to_noise": 8,
+      "all_to_noise": 2074,
+      "topic_change": 8,
+      "topic_same": 27
+    }
+  },
+  "Topic_88": {
+    "cnn": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 34
+    },
+    "internet": {
+      "total_changes": 2954,
+      "total_same": 15892,
+      "topic_to_noise": 8,
+      "all_to_noise": 2125,
+      "topic_change": 8,
+      "topic_same": 26
+    },
+    "advertising": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 6,
+      "all_to_noise": 2069,
+      "topic_change": 6,
+      "topic_same": 28
+    },
+    "house": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 6,
+      "all_to_noise": 2057,
+      "topic_change": 6,
+      "topic_same": 28
+    },
+    "letter": {
+      "total_changes": 2852,
+      "total_same": 15994,
+      "topic_to_noise": 11,
+      "all_to_noise": 2100,
+      "topic_change": 11,
+      "topic_same": 23
+    },
+    "net": {
+      "total_changes": 2832,
+      "total_same": 16014,
+      "topic_to_noise": 9,
+      "all_to_noise": 2062,
+      "topic_change": 10,
+      "topic_same": 24
+    },
+    "mci": {
+      "total_changes": 2870,
+      "total_same": 15976,
+      "topic_to_noise": 4,
+      "all_to_noise": 2115,
+      "topic_change": 4,
+      "topic_same": 30
+    },
+    "mail": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 8,
+      "all_to_noise": 2045,
+      "topic_change": 8,
+      "topic_same": 26
+    },
+    "usenet": {
+      "total_changes": 2834,
+      "total_same": 16012,
+      "topic_to_noise": 8,
+      "all_to_noise": 2025,
+      "topic_change": 8,
+      "topic_same": 26
+    },
+    "address": {
+      "total_changes": 2886,
+      "total_same": 15960,
+      "topic_to_noise": 4,
+      "all_to_noise": 2100,
+      "topic_change": 4,
+      "topic_same": 30
+    }
+  },
+  "Topic_89": {
+    "hackers": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 4,
+      "all_to_noise": 2064,
+      "topic_change": 4,
+      "topic_same": 30
+    },
+    "gates": {
+      "total_changes": 2904,
+      "total_same": 15942,
+      "topic_to_noise": 2,
+      "all_to_noise": 2115,
+      "topic_change": 2,
+      "topic_same": 32
+    },
+    "cs": {
+      "total_changes": 2861,
+      "total_same": 15985,
+      "topic_to_noise": 0,
+      "all_to_noise": 2054,
+      "topic_change": 0,
+      "topic_same": 34
+    },
+    "programming": {
+      "total_changes": 2847,
+      "total_same": 15999,
+      "topic_to_noise": 3,
+      "all_to_noise": 2063,
+      "topic_change": 3,
+      "topic_same": 31
+    },
+    "engineering": {
+      "total_changes": 2785,
+      "total_same": 16061,
+      "topic_to_noise": 4,
+      "all_to_noise": 2006,
+      "topic_change": 4,
+      "topic_same": 30
+    },
+    "software": {
+      "total_changes": 2867,
+      "total_same": 15979,
+      "topic_to_noise": 7,
+      "all_to_noise": 2065,
+      "topic_change": 7,
+      "topic_same": 27
+    },
+    "ethic": {
+      "total_changes": 2793,
+      "total_same": 16053,
+      "topic_to_noise": 3,
+      "all_to_noise": 2013,
+      "topic_change": 3,
+      "topic_same": 31
+    },
+    "hacker": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 6,
+      "all_to_noise": 2083,
+      "topic_change": 9,
+      "topic_same": 25
+    },
+    "programmer": {
+      "total_changes": 2854,
+      "total_same": 15992,
+      "topic_to_noise": 4,
+      "all_to_noise": 2072,
+      "topic_change": 5,
+      "topic_same": 29
+    },
+    "computer": {
+      "total_changes": 2828,
+      "total_same": 16018,
+      "topic_to_noise": 6,
+      "all_to_noise": 2081,
+      "topic_change": 6,
+      "topic_same": 28
+    }
+  },
+  "Topic_90": {
+    "serial": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 16,
+      "all_to_noise": 2063,
+      "topic_change": 17,
+      "topic_same": 17
+    },
+    "dce": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 34
+    },
+    "dsr": {
+      "total_changes": 2842,
+      "total_same": 16004,
+      "topic_to_noise": 14,
+      "all_to_noise": 2036,
+      "topic_change": 14,
+      "topic_same": 20
+    },
+    "dtr": {
+      "total_changes": 2797,
+      "total_same": 16049,
+      "topic_to_noise": 12,
+      "all_to_noise": 2024,
+      "topic_change": 13,
+      "topic_same": 21
+    },
+    "dte": {
+      "total_changes": 2852,
+      "total_same": 15994,
+      "topic_to_noise": 15,
+      "all_to_noise": 2077,
+      "topic_change": 15,
+      "topic_same": 19
+    },
+    "cts": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 18,
+      "all_to_noise": 2084,
+      "topic_change": 18,
+      "topic_same": 16
+    },
+    "null": {
+      "total_changes": 2774,
+      "total_same": 16072,
+      "topic_to_noise": 15,
+      "all_to_noise": 2019,
+      "topic_change": 16,
+      "topic_same": 18
+    },
+    "modem": {
+      "total_changes": 2834,
+      "total_same": 16012,
+      "topic_to_noise": 18,
+      "all_to_noise": 2037,
+      "topic_change": 19,
+      "topic_same": 15
+    },
+    "rts": {
+      "total_changes": 2802,
+      "total_same": 16044,
+      "topic_to_noise": 17,
+      "all_to_noise": 2014,
+      "topic_change": 17,
+      "topic_same": 17
+    },
+    "dcd": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 34
+    }
+  },
+  "Topic_91": {
+    "cooler": {
+      "total_changes": 2825,
+      "total_same": 16021,
+      "topic_to_noise": 0,
+      "all_to_noise": 2032,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "supply": {
+      "total_changes": 2850,
+      "total_same": 15996,
+      "topic_to_noise": 0,
+      "all_to_noise": 2065,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "chip": {
+      "total_changes": 2828,
+      "total_same": 16018,
+      "topic_to_noise": 0,
+      "all_to_noise": 2051,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "sink": {
+      "total_changes": 2825,
+      "total_same": 16021,
+      "topic_to_noise": 0,
+      "all_to_noise": 2062,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "cooling": {
+      "total_changes": 2755,
+      "total_same": 16091,
+      "topic_to_noise": 0,
+      "all_to_noise": 1983,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "hot": {
+      "total_changes": 2827,
+      "total_same": 16019,
+      "topic_to_noise": 0,
+      "all_to_noise": 2072,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "cpu": {
+      "total_changes": 2776,
+      "total_same": 16070,
+      "topic_to_noise": 0,
+      "all_to_noise": 2029,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "fan": {
+      "total_changes": 2816,
+      "total_same": 16030,
+      "topic_to_noise": 4,
+      "all_to_noise": 2049,
+      "topic_change": 5,
+      "topic_same": 28
+    },
+    "fans": {
+      "total_changes": 2786,
+      "total_same": 16060,
+      "topic_to_noise": 1,
+      "all_to_noise": 2025,
+      "topic_change": 2,
+      "topic_same": 31
+    },
+    "heat": {
+      "total_changes": 2850,
+      "total_same": 15996,
+      "topic_to_noise": 0,
+      "all_to_noise": 2056,
+      "topic_change": 0,
+      "topic_same": 33
+    }
+  },
+  "Topic_92": {
+    "aura": {
+      "total_changes": 2892,
+      "total_same": 15954,
+      "topic_to_noise": 1,
+      "all_to_noise": 2068,
+      "topic_change": 2,
+      "topic_same": 31
+    },
+    "krillean": {
+      "total_changes": 0,
+      "total_same": 18846,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "corona": {
+      "total_changes": 2866,
+      "total_same": 15980,
+      "topic_to_noise": 0,
+      "all_to_noise": 2047,
+      "topic_change": 1,
+      "topic_same": 32
+    },
+    "plates": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 0,
+      "all_to_noise": 2056,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "object": {
+      "total_changes": 2871,
+      "total_same": 15975,
+      "topic_to_noise": 0,
+      "all_to_noise": 2069,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "leaf": {
+      "total_changes": 2811,
+      "total_same": 16035,
+      "topic_to_noise": 1,
+      "all_to_noise": 2038,
+      "topic_change": 1,
+      "topic_same": 32
+    },
+    "pictures": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 0,
+      "all_to_noise": 2084,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "photography": {
+      "total_changes": 2873,
+      "total_same": 15973,
+      "topic_to_noise": 0,
+      "all_to_noise": 2094,
+      "topic_change": 1,
+      "topic_same": 32
+    },
+    "fields": {
+      "total_changes": 2824,
+      "total_same": 16022,
+      "topic_to_noise": 0,
+      "all_to_noise": 2047,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "kirlian": {
+      "total_changes": 2860,
+      "total_same": 15986,
+      "topic_to_noise": 0,
+      "all_to_noise": 2069,
+      "topic_change": 0,
+      "topic_same": 33
+    }
+  },
+  "Topic_93": {
+    "probe": {
+      "total_changes": 2809,
+      "total_same": 16037,
+      "topic_to_noise": 11,
+      "all_to_noise": 2009,
+      "topic_change": 11,
+      "topic_same": 22
+    },
+    "probes": {
+      "total_changes": 2902,
+      "total_same": 15944,
+      "topic_to_noise": 11,
+      "all_to_noise": 2109,
+      "topic_change": 11,
+      "topic_same": 22
+    },
+    "launch": {
+      "total_changes": 2791,
+      "total_same": 16055,
+      "topic_to_noise": 14,
+      "all_to_noise": 2026,
+      "topic_change": 14,
+      "topic_same": 19
+    },
+    "solar": {
+      "total_changes": 2845,
+      "total_same": 16001,
+      "topic_to_noise": 10,
+      "all_to_noise": 2047,
+      "topic_change": 10,
+      "topic_same": 23
+    },
+    "venus": {
+      "total_changes": 2916,
+      "total_same": 15930,
+      "topic_to_noise": 16,
+      "all_to_noise": 2085,
+      "topic_change": 16,
+      "topic_same": 17
+    },
+    "spacecraft": {
+      "total_changes": 2805,
+      "total_same": 16041,
+      "topic_to_noise": 11,
+      "all_to_noise": 2006,
+      "topic_change": 11,
+      "topic_same": 22
+    },
+    "lunar": {
+      "total_changes": 2881,
+      "total_same": 15965,
+      "topic_to_noise": 18,
+      "all_to_noise": 2065,
+      "topic_change": 18,
+      "topic_same": 15
+    },
+    "mission": {
+      "total_changes": 2798,
+      "total_same": 16048,
+      "topic_to_noise": 10,
+      "all_to_noise": 2037,
+      "topic_change": 10,
+      "topic_same": 23
+    },
+    "orbit": {
+      "total_changes": 2816,
+      "total_same": 16030,
+      "topic_to_noise": 15,
+      "all_to_noise": 2046,
+      "topic_change": 15,
+      "topic_same": 18
+    },
+    "mars": {
+      "total_changes": 2818,
+      "total_same": 16028,
+      "topic_to_noise": 12,
+      "all_to_noise": 2042,
+      "topic_change": 12,
+      "topic_same": 21
+    }
+  },
+  "Topic_94": {
+    "aaron": {
+      "total_changes": 2874,
+      "total_same": 15972,
+      "topic_to_noise": 6,
+      "all_to_noise": 2092,
+      "topic_change": 6,
+      "topic_same": 26
+    },
+    "baptism": {
+      "total_changes": 2822,
+      "total_same": 16024,
+      "topic_to_noise": 7,
+      "all_to_noise": 1993,
+      "topic_change": 7,
+      "topic_same": 25
+    },
+    "sinful": {
+      "total_changes": 2863,
+      "total_same": 15983,
+      "topic_to_noise": 8,
+      "all_to_noise": 2095,
+      "topic_change": 8,
+      "topic_same": 24
+    },
+    "infants": {
+      "total_changes": 2811,
+      "total_same": 16035,
+      "topic_to_noise": 9,
+      "all_to_noise": 2025,
+      "topic_change": 9,
+      "topic_same": 23
+    },
+    "sin": {
+      "total_changes": 2907,
+      "total_same": 15939,
+      "topic_to_noise": 11,
+      "all_to_noise": 2103,
+      "topic_change": 11,
+      "topic_same": 21
+    },
+    "sins": {
+      "total_changes": 2740,
+      "total_same": 16106,
+      "topic_to_noise": 10,
+      "all_to_noise": 2002,
+      "topic_change": 10,
+      "topic_same": 22
+    },
+    "god": {
+      "total_changes": 2938,
+      "total_same": 15908,
+      "topic_to_noise": 7,
+      "all_to_noise": 2102,
+      "topic_change": 7,
+      "topic_same": 25
+    },
+    "child": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 8,
+      "all_to_noise": 2065,
+      "topic_change": 8,
+      "topic_same": 24
+    },
+    "faith": {
+      "total_changes": 2808,
+      "total_same": 16038,
+      "topic_to_noise": 8,
+      "all_to_noise": 2023,
+      "topic_change": 8,
+      "topic_same": 24
+    },
+    "grace": {
+      "total_changes": 2856,
+      "total_same": 15990,
+      "topic_to_noise": 11,
+      "all_to_noise": 2071,
+      "topic_change": 11,
+      "topic_same": 21
+    }
+  },
+  "Topic_95": {
+    "7080": {
+      "total_changes": 2847,
+      "total_same": 15999,
+      "topic_to_noise": 1,
+      "all_to_noise": 2039,
+      "topic_change": 2,
+      "topic_same": 30
+    },
+    "trippy": {
+      "total_changes": 2750,
+      "total_same": 16096,
+      "topic_to_noise": 0,
+      "all_to_noise": 1981,
+      "topic_change": 1,
+      "topic_same": 31
+    },
+    "hurts": {
+      "total_changes": 2759,
+      "total_same": 16087,
+      "topic_to_noise": 2,
+      "all_to_noise": 1999,
+      "topic_change": 3,
+      "topic_same": 29
+    },
+    "unsignalled": {
+      "total_changes": 2810,
+      "total_same": 16036,
+      "topic_to_noise": 2,
+      "all_to_noise": 2028,
+      "topic_change": 3,
+      "topic_same": 29
+    },
+    "deletion": {
+      "total_changes": 2876,
+      "total_same": 15970,
+      "topic_to_noise": 4,
+      "all_to_noise": 2073,
+      "topic_change": 6,
+      "topic_same": 26
+    },
+    "stop": {
+      "total_changes": 2861,
+      "total_same": 15985,
+      "topic_to_noise": 4,
+      "all_to_noise": 2096,
+      "topic_change": 5,
+      "topic_same": 27
+    },
+    "deleted": {
+      "total_changes": 2851,
+      "total_same": 15995,
+      "topic_to_noise": 9,
+      "all_to_noise": 2047,
+      "topic_change": 16,
+      "topic_same": 16
+    },
+    "aph": {
+      "total_changes": 2847,
+      "total_same": 15999,
+      "topic_to_noise": 1,
+      "all_to_noise": 2101,
+      "topic_change": 2,
+      "topic_same": 30
+    },
+    "stuff": {
+      "total_changes": 2846,
+      "total_same": 16000,
+      "topic_to_noise": 5,
+      "all_to_noise": 2038,
+      "topic_change": 6,
+      "topic_same": 26
+    },
+    "lostsa": {
+      "total_changes": 2796,
+      "total_same": 16050,
+      "topic_to_noise": 2,
+      "all_to_noise": 2028,
+      "topic_change": 3,
+      "topic_same": 29
+    }
+  },
+  "Topic_96": {
+    "25": {
+      "total_changes": 2750,
+      "total_same": 16096,
+      "topic_to_noise": 10,
+      "all_to_noise": 1996,
+      "topic_change": 10,
+      "topic_same": 22
+    },
+    "oscillator": {
+      "total_changes": 2847,
+      "total_same": 15999,
+      "topic_to_noise": 13,
+      "all_to_noise": 2057,
+      "topic_change": 13,
+      "topic_same": 19
+    },
+    "sink": {
+      "total_changes": 2838,
+      "total_same": 16008,
+      "topic_to_noise": 13,
+      "all_to_noise": 2076,
+      "topic_change": 13,
+      "topic_same": 19
+    },
+    "operational": {
+      "total_changes": 2862,
+      "total_same": 15984,
+      "topic_to_noise": 9,
+      "all_to_noise": 2086,
+      "topic_change": 10,
+      "topic_same": 22
+    },
+    "fpu": {
+      "total_changes": 2902,
+      "total_same": 15944,
+      "topic_to_noise": 8,
+      "all_to_noise": 2114,
+      "topic_change": 8,
+      "topic_same": 24
+    },
+    "cpu": {
+      "total_changes": 2885,
+      "total_same": 15961,
+      "topic_to_noise": 12,
+      "all_to_noise": 2101,
+      "topic_change": 12,
+      "topic_same": 20
+    },
+    "clock": {
+      "total_changes": 2829,
+      "total_same": 16017,
+      "topic_to_noise": 8,
+      "all_to_noise": 2008,
+      "topic_change": 8,
+      "topic_same": 24
+    },
+    "speed": {
+      "total_changes": 2803,
+      "total_same": 16043,
+      "topic_to_noise": 11,
+      "all_to_noise": 2044,
+      "topic_change": 11,
+      "topic_same": 21
+    },
+    "mhz": {
+      "total_changes": 2825,
+      "total_same": 16021,
+      "topic_to_noise": 12,
+      "all_to_noise": 2045,
+      "topic_change": 12,
+      "topic_same": 20
+    },
+    "heat": {
+      "total_changes": 2906,
+      "total_same": 15940,
+      "topic_to_noise": 11,
+      "all_to_noise": 2109,
+      "topic_change": 11,
+      "topic_same": 21
+    }
+  },
+  "Topic_97": {
+    "rider": {
+      "total_changes": 2859,
+      "total_same": 15987,
+      "topic_to_noise": 4,
+      "all_to_noise": 2102,
+      "topic_change": 4,
+      "topic_same": 27
+    },
+    "technique": {
+      "total_changes": 2823,
+      "total_same": 16023,
+      "topic_to_noise": 2,
+      "all_to_noise": 2039,
+      "topic_change": 2,
+      "topic_same": 29
+    },
+    "countersteering": {
+      "total_changes": 2889,
+      "total_same": 15957,
+      "topic_to_noise": 2,
+      "all_to_noise": 2089,
+      "topic_change": 3,
+      "topic_same": 28
+    },
+    "left": {
+      "total_changes": 2865,
+      "total_same": 15981,
+      "topic_to_noise": 1,
+      "all_to_noise": 2091,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "bike": {
+      "total_changes": 2857,
+      "total_same": 15989,
+      "topic_to_noise": 0,
+      "all_to_noise": 2070,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "motorcycle": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 3,
+      "all_to_noise": 2101,
+      "topic_change": 3,
+      "topic_same": 28
+    },
+    "turn": {
+      "total_changes": 2847,
+      "total_same": 15999,
+      "topic_to_noise": 1,
+      "all_to_noise": 2056,
+      "topic_change": 2,
+      "topic_same": 29
+    },
+    "steer": {
+      "total_changes": 2812,
+      "total_same": 16034,
+      "topic_to_noise": 2,
+      "all_to_noise": 2063,
+      "topic_change": 2,
+      "topic_same": 29
+    },
+    "lean": {
+      "total_changes": 2876,
+      "total_same": 15970,
+      "topic_to_noise": 7,
+      "all_to_noise": 2083,
+      "topic_change": 7,
+      "topic_same": 24
+    },
+    "riding": {
+      "total_changes": 2854,
+      "total_same": 15992,
+      "topic_to_noise": 0,
+      "all_to_noise": 2086,
+      "topic_change": 0,
+      "topic_same": 31
+    }
+  },
+  "Topic_98": {
+    "marriages": {
+      "total_changes": 2883,
+      "total_same": 15963,
+      "topic_to_noise": 1,
+      "all_to_noise": 2090,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "marry": {
+      "total_changes": 2858,
+      "total_same": 15988,
+      "topic_to_noise": 2,
+      "all_to_noise": 2068,
+      "topic_change": 2,
+      "topic_same": 29
+    },
+    "ceremony": {
+      "total_changes": 2778,
+      "total_same": 16068,
+      "topic_to_noise": 0,
+      "all_to_noise": 2015,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "commitment": {
+      "total_changes": 2800,
+      "total_same": 16046,
+      "topic_to_noise": 2,
+      "all_to_noise": 2029,
+      "topic_change": 2,
+      "topic_same": 29
+    },
+    "eternal": {
+      "total_changes": 2819,
+      "total_same": 16027,
+      "topic_to_noise": 1,
+      "all_to_noise": 2059,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "married": {
+      "total_changes": 2883,
+      "total_same": 15963,
+      "topic_to_noise": 0,
+      "all_to_noise": 2068,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "marriage": {
+      "total_changes": 2789,
+      "total_same": 16057,
+      "topic_to_noise": 5,
+      "all_to_noise": 2008,
+      "topic_change": 6,
+      "topic_same": 25
+    },
+    "church": {
+      "total_changes": 2877,
+      "total_same": 15969,
+      "topic_to_noise": 1,
+      "all_to_noise": 2085,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "couple": {
+      "total_changes": 2880,
+      "total_same": 15966,
+      "topic_to_noise": 0,
+      "all_to_noise": 2109,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "wife": {
+      "total_changes": 2815,
+      "total_same": 16031,
+      "topic_to_noise": 0,
+      "all_to_noise": 2078,
+      "topic_change": 0,
+      "topic_same": 31
+    }
+  },
+  "Topic_99": {
+    "midnight": {
+      "total_changes": 2855,
+      "total_same": 15991,
+      "topic_to_noise": 4,
+      "all_to_noise": 2069,
+      "topic_change": 4,
+      "topic_same": 26
+    },
+    "system": {
+      "total_changes": 2853,
+      "total_same": 15993,
+      "topic_to_noise": 4,
+      "all_to_noise": 2083,
+      "topic_change": 4,
+      "topic_same": 26
+    },
+    "bios": {
+      "total_changes": 2869,
+      "total_same": 15977,
+      "topic_to_noise": 2,
+      "all_to_noise": 2090,
+      "topic_change": 2,
+      "topic_same": 28
+    },
+    "battery": {
+      "total_changes": 2781,
+      "total_same": 16065,
+      "topic_to_noise": 4,
+      "all_to_noise": 2009,
+      "topic_change": 4,
+      "topic_same": 26
+    },
+    "clock": {
+      "total_changes": 2835,
+      "total_same": 16011,
+      "topic_to_noise": 2,
+      "all_to_noise": 2031,
+      "topic_change": 3,
+      "topic_same": 27
+    },
+    "menu": {
+      "total_changes": 2865,
+      "total_same": 15981,
+      "topic_to_noise": 4,
+      "all_to_noise": 2074,
+      "topic_change": 4,
+      "topic_same": 26
+    },
+    "problem": {
+      "total_changes": 2761,
+      "total_same": 16085,
+      "topic_to_noise": 4,
+      "all_to_noise": 1975,
+      "topic_change": 4,
+      "topic_same": 26
+    },
+    "duo": {
+      "total_changes": 2811,
+      "total_same": 16035,
+      "topic_to_noise": 3,
+      "all_to_noise": 2018,
+      "topic_change": 3,
+      "topic_same": 27
+    },
+    "dos": {
+      "total_changes": 2850,
+      "total_same": 15996,
+      "topic_to_noise": 3,
+      "all_to_noise": 2058,
+      "topic_change": 3,
+      "topic_same": 27
+    },
+    "date": {
+      "total_changes": 2917,
+      "total_same": 15929,
+      "topic_to_noise": 6,
+      "all_to_noise": 2112,
+      "topic_change": 6,
+      "topic_same": 24
+    }
+  }
+}

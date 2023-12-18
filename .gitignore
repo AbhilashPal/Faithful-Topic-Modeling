@@ -1,2 +1,3 @@
 /data
-/results
+/src/gradio_app/__pycache__
+/src/__pycache__

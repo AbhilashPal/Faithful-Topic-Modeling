@@ -1,0 +1,8202 @@
+{
+  "Topic_0": {
+    "times": {
+      "total_changes": 2614,
+      "total_same": 14170,
+      "topic_to_noise": 41,
+      "all_to_noise": 1872,
+      "topic_change": 45,
+      "topic_same": 230
+    },
+    "makes": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 50,
+      "all_to_noise": 1929,
+      "topic_change": 52,
+      "topic_same": 223
+    },
+    "agard": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 275
+    },
+    "puzzle": {
+      "total_changes": 2726,
+      "total_same": 14058,
+      "topic_to_noise": 74,
+      "all_to_noise": 2015,
+      "topic_change": 79,
+      "topic_same": 196
+    },
+    "crossword": {
+      "total_changes": 2636,
+      "total_same": 14148,
+      "topic_to_noise": 54,
+      "all_to_noise": 1905,
+      "topic_change": 57,
+      "topic_same": 218
+    },
+    "sunday": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 275
+    },
+    "solving": {
+      "total_changes": 2622,
+      "total_same": 14162,
+      "topic_to_noise": 46,
+      "all_to_noise": 1880,
+      "topic_change": 47,
+      "topic_same": 228
+    },
+    "saturday": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 275
+    },
+    "us": {
+      "total_changes": 2997,
+      "total_same": 13787,
+      "topic_to_noise": 49,
+      "all_to_noise": 2191,
+      "topic_change": 52,
+      "topic_same": 223
+    },
+    "debut": {
+      "total_changes": 2617,
+      "total_same": 14167,
+      "topic_to_noise": 57,
+      "all_to_noise": 1915,
+      "topic_change": 61,
+      "topic_same": 214
+    }
+  },
+  "Topic_1": {
+    "pop": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 72,
+      "all_to_noise": 1928,
+      "topic_change": 72,
+      "topic_same": 166
+    },
+    "musicians": {
+      "total_changes": 2700,
+      "total_same": 14084,
+      "topic_to_noise": 63,
+      "all_to_noise": 1919,
+      "topic_change": 63,
+      "topic_same": 175
+    },
+    "singer": {
+      "total_changes": 2659,
+      "total_same": 14125,
+      "topic_to_noise": 72,
+      "all_to_noise": 1945,
+      "topic_change": 72,
+      "topic_same": 166
+    },
+    "album": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 73,
+      "all_to_noise": 1917,
+      "topic_change": 73,
+      "topic_same": 165
+    },
+    "songs": {
+      "total_changes": 2680,
+      "total_same": 14104,
+      "topic_to_noise": 77,
+      "all_to_noise": 1945,
+      "topic_change": 77,
+      "topic_same": 161
+    },
+    "musician": {
+      "total_changes": 2639,
+      "total_same": 14145,
+      "topic_to_noise": 68,
+      "all_to_noise": 1909,
+      "topic_change": 69,
+      "topic_same": 169
+    },
+    "jazz": {
+      "total_changes": 2670,
+      "total_same": 14114,
+      "topic_to_noise": 74,
+      "all_to_noise": 1934,
+      "topic_change": 75,
+      "topic_same": 163
+    },
+    "rock": {
+      "total_changes": 2596,
+      "total_same": 14188,
+      "topic_to_noise": 73,
+      "all_to_noise": 1873,
+      "topic_change": 74,
+      "topic_same": 164
+    },
+    "composer": {
+      "total_changes": 2686,
+      "total_same": 14098,
+      "topic_to_noise": 76,
+      "all_to_noise": 1976,
+      "topic_change": 77,
+      "topic_same": 161
+    },
+    "music": {
+      "total_changes": 2688,
+      "total_same": 14096,
+      "topic_to_noise": 81,
+      "all_to_noise": 1973,
+      "topic_change": 81,
+      "topic_same": 157
+    }
+  },
+  "Topic_2": {
+    "simple": {
+      "total_changes": 2658,
+      "total_same": 14126,
+      "topic_to_noise": 58,
+      "all_to_noise": 1945,
+      "topic_change": 59,
+      "topic_same": 174
+    },
+    "salad": {
+      "total_changes": 2661,
+      "total_same": 14123,
+      "topic_to_noise": 58,
+      "all_to_noise": 1931,
+      "topic_change": 59,
+      "topic_same": 174
+    },
+    "this": {
+      "total_changes": 2668,
+      "total_same": 14116,
+      "topic_to_noise": 66,
+      "all_to_noise": 1928,
+      "topic_change": 66,
+      "topic_same": 167
+    },
+    "dish": {
+      "total_changes": 2610,
+      "total_same": 14174,
+      "topic_to_noise": 53,
+      "all_to_noise": 1893,
+      "topic_change": 54,
+      "topic_same": 179
+    },
+    "meal": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 55,
+      "all_to_noise": 1941,
+      "topic_change": 55,
+      "topic_same": 178
+    },
+    "cake": {
+      "total_changes": 2607,
+      "total_same": 14177,
+      "topic_to_noise": 47,
+      "all_to_noise": 1905,
+      "topic_change": 48,
+      "topic_same": 185
+    },
+    "soup": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 51,
+      "all_to_noise": 1913,
+      "topic_change": 52,
+      "topic_same": 181
+    },
+    "pasta": {
+      "total_changes": 2624,
+      "total_same": 14160,
+      "topic_to_noise": 47,
+      "all_to_noise": 1891,
+      "topic_change": 47,
+      "topic_same": 186
+    },
+    "recipes": {
+      "total_changes": 2613,
+      "total_same": 14171,
+      "topic_to_noise": 52,
+      "all_to_noise": 1927,
+      "topic_change": 52,
+      "topic_same": 181
+    },
+    "creamy": {
+      "total_changes": 2655,
+      "total_same": 14129,
+      "topic_to_noise": 57,
+      "all_to_noise": 1941,
+      "topic_change": 57,
+      "topic_same": 176
+    }
+  },
+  "Topic_3": {
+    "animals": {
+      "total_changes": 2704,
+      "total_same": 14080,
+      "topic_to_noise": 10,
+      "all_to_noise": 1976,
+      "topic_change": 11,
+      "topic_same": 218
+    },
+    "birds": {
+      "total_changes": 2622,
+      "total_same": 14162,
+      "topic_to_noise": 14,
+      "all_to_noise": 1912,
+      "topic_change": 15,
+      "topic_same": 214
+    },
+    "animal": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 17,
+      "all_to_noise": 1936,
+      "topic_change": 17,
+      "topic_same": 212
+    },
+    "dogs": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 11,
+      "all_to_noise": 1978,
+      "topic_change": 12,
+      "topic_same": 217
+    },
+    "ancient": {
+      "total_changes": 2672,
+      "total_same": 14112,
+      "topic_to_noise": 12,
+      "all_to_noise": 1956,
+      "topic_change": 12,
+      "topic_same": 217
+    },
+    "scientists": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 7,
+      "all_to_noise": 1937,
+      "topic_change": 7,
+      "topic_same": 222
+    },
+    "sea": {
+      "total_changes": 2631,
+      "total_same": 14153,
+      "topic_to_noise": 15,
+      "all_to_noise": 1921,
+      "topic_change": 15,
+      "topic_same": 214
+    },
+    "lesson": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 18,
+      "all_to_noise": 1931,
+      "topic_change": 18,
+      "topic_same": 211
+    },
+    "species": {
+      "total_changes": 2628,
+      "total_same": 14156,
+      "topic_to_noise": 8,
+      "all_to_noise": 1927,
+      "topic_change": 9,
+      "topic_same": 220
+    },
+    "humans": {
+      "total_changes": 2659,
+      "total_same": 14125,
+      "topic_to_noise": 13,
+      "all_to_noise": 1921,
+      "topic_change": 14,
+      "topic_same": 215
+    }
+  },
+  "Topic_4": {
+    "exhibition": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 39,
+      "all_to_noise": 1952,
+      "topic_change": 40,
+      "topic_same": 156
+    },
+    "art": {
+      "total_changes": 2737,
+      "total_same": 14047,
+      "topic_to_noise": 43,
+      "all_to_noise": 1980,
+      "topic_change": 45,
+      "topic_same": 151
+    },
+    "painting": {
+      "total_changes": 2703,
+      "total_same": 14081,
+      "topic_to_noise": 35,
+      "all_to_noise": 1990,
+      "topic_change": 36,
+      "topic_same": 160
+    },
+    "works": {
+      "total_changes": 2697,
+      "total_same": 14087,
+      "topic_to_noise": 37,
+      "all_to_noise": 1972,
+      "topic_change": 38,
+      "topic_same": 158
+    },
+    "artists": {
+      "total_changes": 2692,
+      "total_same": 14092,
+      "topic_to_noise": 38,
+      "all_to_noise": 1951,
+      "topic_change": 39,
+      "topic_same": 157
+    },
+    "museums": {
+      "total_changes": 2640,
+      "total_same": 14144,
+      "topic_to_noise": 40,
+      "all_to_noise": 1907,
+      "topic_change": 42,
+      "topic_same": 154
+    },
+    "galleries": {
+      "total_changes": 2641,
+      "total_same": 14143,
+      "topic_to_noise": 34,
+      "all_to_noise": 1919,
+      "topic_change": 35,
+      "topic_same": 161
+    },
+    "artist": {
+      "total_changes": 2730,
+      "total_same": 14054,
+      "topic_to_noise": 45,
+      "all_to_noise": 1969,
+      "topic_change": 47,
+      "topic_same": 149
+    },
+    "gallery": {
+      "total_changes": 2684,
+      "total_same": 14100,
+      "topic_to_noise": 35,
+      "all_to_noise": 1967,
+      "topic_change": 36,
+      "topic_same": 160
+    },
+    "museum": {
+      "total_changes": 2643,
+      "total_same": 14141,
+      "topic_to_noise": 37,
+      "all_to_noise": 1922,
+      "topic_change": 39,
+      "topic_same": 157
+    }
+  },
+  "Topic_5": {
+    "trumps": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 195
+    },
+    "health": {
+      "total_changes": 2610,
+      "total_same": 14174,
+      "topic_to_noise": 26,
+      "all_to_noise": 1898,
+      "topic_change": 26,
+      "topic_same": 169
+    },
+    "virus": {
+      "total_changes": 2718,
+      "total_same": 14066,
+      "topic_to_noise": 43,
+      "all_to_noise": 1929,
+      "topic_change": 44,
+      "topic_same": 151
+    },
+    "house": {
+      "total_changes": 2736,
+      "total_same": 14048,
+      "topic_to_noise": 41,
+      "all_to_noise": 1991,
+      "topic_change": 41,
+      "topic_same": 154
+    },
+    "coronavirus": {
+      "total_changes": 2718,
+      "total_same": 14066,
+      "topic_to_noise": 38,
+      "all_to_noise": 1976,
+      "topic_change": 43,
+      "topic_same": 152
+    },
+    "response": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 29,
+      "all_to_noise": 1949,
+      "topic_change": 29,
+      "topic_same": 166
+    },
+    "white": {
+      "total_changes": 2685,
+      "total_same": 14099,
+      "topic_to_noise": 22,
+      "all_to_noise": 1943,
+      "topic_change": 22,
+      "topic_same": 173
+    },
+    "presidents": {
+      "total_changes": 2713,
+      "total_same": 14071,
+      "topic_to_noise": 26,
+      "all_to_noise": 1991,
+      "topic_change": 26,
+      "topic_same": 169
+    },
+    "trump": {
+      "total_changes": 2628,
+      "total_same": 14156,
+      "topic_to_noise": 21,
+      "all_to_noise": 1906,
+      "topic_change": 21,
+      "topic_same": 174
+    },
+    "president": {
+      "total_changes": 2612,
+      "total_same": 14172,
+      "topic_to_noise": 22,
+      "all_to_noise": 1914,
+      "topic_change": 23,
+      "topic_same": 172
+    }
+  },
+  "Topic_6": {
+    "vaccine": {
+      "total_changes": 2650,
+      "total_same": 14134,
+      "topic_to_noise": 21,
+      "all_to_noise": 1937,
+      "topic_change": 21,
+      "topic_same": 155
+    },
+    "doses": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 9,
+      "all_to_noise": 1883,
+      "topic_change": 9,
+      "topic_same": 167
+    },
+    "vaccinated": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 7,
+      "all_to_noise": 1950,
+      "topic_change": 7,
+      "topic_same": 169
+    },
+    "covid19": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 176
+    },
+    "coronavirus": {
+      "total_changes": 2789,
+      "total_same": 13995,
+      "topic_to_noise": 9,
+      "all_to_noise": 2011,
+      "topic_change": 10,
+      "topic_same": 166
+    },
+    "trials": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 19,
+      "all_to_noise": 1960,
+      "topic_change": 19,
+      "topic_same": 157
+    },
+    "shots": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 6,
+      "all_to_noise": 1943,
+      "topic_change": 6,
+      "topic_same": 170
+    },
+    "vaccines": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 15,
+      "all_to_noise": 1918,
+      "topic_change": 15,
+      "topic_same": 161
+    },
+    "pfizer": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 176
+    },
+    "shot": {
+      "total_changes": 2698,
+      "total_same": 14086,
+      "topic_to_noise": 14,
+      "all_to_noise": 1980,
+      "topic_change": 14,
+      "topic_same": 162
+    }
+  },
+  "Topic_7": {
+    "outdoor": {
+      "total_changes": 2654,
+      "total_same": 14130,
+      "topic_to_noise": 36,
+      "all_to_noise": 1921,
+      "topic_change": 36,
+      "topic_same": 121
+    },
+    "food": {
+      "total_changes": 2677,
+      "total_same": 14107,
+      "topic_to_noise": 32,
+      "all_to_noise": 1947,
+      "topic_change": 32,
+      "topic_same": 125
+    },
+    "restaurants": {
+      "total_changes": 2673,
+      "total_same": 14111,
+      "topic_to_noise": 39,
+      "all_to_noise": 1937,
+      "topic_change": 39,
+      "topic_same": 118
+    },
+    "dining": {
+      "total_changes": 2698,
+      "total_same": 14086,
+      "topic_to_noise": 42,
+      "all_to_noise": 1984,
+      "topic_change": 42,
+      "topic_same": 115
+    },
+    "pandemic": {
+      "total_changes": 2797,
+      "total_same": 13987,
+      "topic_to_noise": 35,
+      "all_to_noise": 2056,
+      "topic_change": 35,
+      "topic_same": 122
+    },
+    "indoor": {
+      "total_changes": 2645,
+      "total_same": 14139,
+      "topic_to_noise": 32,
+      "all_to_noise": 1929,
+      "topic_change": 32,
+      "topic_same": 125
+    },
+    "york": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 157
+    },
+    "restaurant": {
+      "total_changes": 2727,
+      "total_same": 14057,
+      "topic_to_noise": 44,
+      "all_to_noise": 1987,
+      "topic_change": 45,
+      "topic_same": 112
+    },
+    "delivery": {
+      "total_changes": 2617,
+      "total_same": 14167,
+      "topic_to_noise": 31,
+      "all_to_noise": 1902,
+      "topic_change": 31,
+      "topic_same": 126
+    },
+    "hunger": {
+      "total_changes": 2692,
+      "total_same": 14092,
+      "topic_to_noise": 30,
+      "all_to_noise": 1973,
+      "topic_change": 30,
+      "topic_same": 127
+    }
+  },
+  "Topic_8": {
+    "vice": {
+      "total_changes": 2691,
+      "total_same": 14093,
+      "topic_to_noise": 59,
+      "all_to_noise": 1952,
+      "topic_change": 59,
+      "topic_same": 84
+    },
+    "his": {
+      "total_changes": 2701,
+      "total_same": 14083,
+      "topic_to_noise": 63,
+      "all_to_noise": 1968,
+      "topic_change": 63,
+      "topic_same": 80
+    },
+    "democrats": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 143
+    },
+    "bidens": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 143
+    },
+    "joe": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 69,
+      "all_to_noise": 1965,
+      "topic_change": 69,
+      "topic_same": 74
+    },
+    "win": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 65,
+      "all_to_noise": 1903,
+      "topic_change": 66,
+      "topic_same": 77
+    },
+    "he": {
+      "total_changes": 3195,
+      "total_same": 13589,
+      "topic_to_noise": 77,
+      "all_to_noise": 2305,
+      "topic_change": 77,
+      "topic_same": 66
+    },
+    "president": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 57,
+      "all_to_noise": 1912,
+      "topic_change": 58,
+      "topic_same": 85
+    },
+    "presidency": {
+      "total_changes": 2602,
+      "total_same": 14182,
+      "topic_to_noise": 63,
+      "all_to_noise": 1890,
+      "topic_change": 64,
+      "topic_same": 79
+    },
+    "biden": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 143
+    }
+  },
+  "Topic_9": {
+    "book": {
+      "total_changes": 2695,
+      "total_same": 14089,
+      "topic_to_noise": 47,
+      "all_to_noise": 1953,
+      "topic_change": 49,
+      "topic_same": 93
+    },
+    "books": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 43,
+      "all_to_noise": 1921,
+      "topic_change": 46,
+      "topic_same": 96
+    },
+    "reading": {
+      "total_changes": 2654,
+      "total_same": 14130,
+      "topic_to_noise": 43,
+      "all_to_noise": 1922,
+      "topic_change": 45,
+      "topic_same": 97
+    },
+    "poetry": {
+      "total_changes": 2654,
+      "total_same": 14130,
+      "topic_to_noise": 42,
+      "all_to_noise": 1946,
+      "topic_change": 43,
+      "topic_same": 99
+    },
+    "novel": {
+      "total_changes": 2689,
+      "total_same": 14095,
+      "topic_to_noise": 47,
+      "all_to_noise": 1942,
+      "topic_change": 49,
+      "topic_same": 93
+    },
+    "writer": {
+      "total_changes": 2602,
+      "total_same": 14182,
+      "topic_to_noise": 48,
+      "all_to_noise": 1897,
+      "topic_change": 51,
+      "topic_same": 91
+    },
+    "writers": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 47,
+      "all_to_noise": 1942,
+      "topic_change": 49,
+      "topic_same": 93
+    },
+    "library": {
+      "total_changes": 2603,
+      "total_same": 14181,
+      "topic_to_noise": 52,
+      "all_to_noise": 1924,
+      "topic_change": 53,
+      "topic_same": 89
+    },
+    "fiction": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 50,
+      "all_to_noise": 1929,
+      "topic_change": 52,
+      "topic_same": 90
+    },
+    "read": {
+      "total_changes": 2620,
+      "total_same": 14164,
+      "topic_to_noise": 49,
+      "all_to_noise": 1889,
+      "topic_change": 52,
+      "topic_same": 90
+    }
+  },
+  "Topic_10": {
+    "films": {
+      "total_changes": 2644,
+      "total_same": 14140,
+      "topic_to_noise": 61,
+      "all_to_noise": 1928,
+      "topic_change": 61,
+      "topic_same": 79
+    },
+    "comedy": {
+      "total_changes": 2657,
+      "total_same": 14127,
+      "topic_to_noise": 68,
+      "all_to_noise": 1944,
+      "topic_change": 68,
+      "topic_same": 72
+    },
+    "star": {
+      "total_changes": 2682,
+      "total_same": 14102,
+      "topic_to_noise": 60,
+      "all_to_noise": 1951,
+      "topic_change": 60,
+      "topic_same": 80
+    },
+    "actor": {
+      "total_changes": 2676,
+      "total_same": 14108,
+      "topic_to_noise": 66,
+      "all_to_noise": 1933,
+      "topic_change": 66,
+      "topic_same": 74
+    },
+    "dies": {
+      "total_changes": 2614,
+      "total_same": 14170,
+      "topic_to_noise": 58,
+      "all_to_noise": 1896,
+      "topic_change": 58,
+      "topic_same": 82
+    },
+    "her": {
+      "total_changes": 2702,
+      "total_same": 14082,
+      "topic_to_noise": 64,
+      "all_to_noise": 1946,
+      "topic_change": 65,
+      "topic_same": 75
+    },
+    "review": {
+      "total_changes": 2665,
+      "total_same": 14119,
+      "topic_to_noise": 64,
+      "all_to_noise": 1956,
+      "topic_change": 65,
+      "topic_same": 75
+    },
+    "actress": {
+      "total_changes": 2655,
+      "total_same": 14129,
+      "topic_to_noise": 65,
+      "all_to_noise": 1944,
+      "topic_change": 65,
+      "topic_same": 75
+    },
+    "hollywood": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 140
+    },
+    "movie": {
+      "total_changes": 2705,
+      "total_same": 14079,
+      "topic_to_noise": 63,
+      "all_to_noise": 1932,
+      "topic_change": 63,
+      "topic_same": 77
+    }
+  },
+  "Topic_11": {
+    "care": {
+      "total_changes": 2639,
+      "total_same": 14145,
+      "topic_to_noise": 26,
+      "all_to_noise": 1922,
+      "topic_change": 26,
+      "topic_same": 92
+    },
+    "parenting": {
+      "total_changes": 2633,
+      "total_same": 14151,
+      "topic_to_noise": 27,
+      "all_to_noise": 1897,
+      "topic_change": 27,
+      "topic_same": 91
+    },
+    "pandemic": {
+      "total_changes": 2695,
+      "total_same": 14089,
+      "topic_to_noise": 24,
+      "all_to_noise": 1943,
+      "topic_change": 25,
+      "topic_same": 93
+    },
+    "autism": {
+      "total_changes": 2669,
+      "total_same": 14115,
+      "topic_to_noise": 25,
+      "all_to_noise": 1926,
+      "topic_change": 25,
+      "topic_same": 93
+    },
+    "children": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 25,
+      "all_to_noise": 1962,
+      "topic_change": 25,
+      "topic_same": 93
+    },
+    "kids": {
+      "total_changes": 2618,
+      "total_same": 14166,
+      "topic_to_noise": 24,
+      "all_to_noise": 1916,
+      "topic_change": 24,
+      "topic_same": 94
+    },
+    "parents": {
+      "total_changes": 2644,
+      "total_same": 14140,
+      "topic_to_noise": 25,
+      "all_to_noise": 1932,
+      "topic_change": 25,
+      "topic_same": 93
+    },
+    "mothers": {
+      "total_changes": 2702,
+      "total_same": 14082,
+      "topic_to_noise": 19,
+      "all_to_noise": 1941,
+      "topic_change": 19,
+      "topic_same": 99
+    },
+    "families": {
+      "total_changes": 2671,
+      "total_same": 14113,
+      "topic_to_noise": 24,
+      "all_to_noise": 1924,
+      "topic_change": 24,
+      "topic_same": 94
+    },
+    "child": {
+      "total_changes": 2714,
+      "total_same": 14070,
+      "topic_to_noise": 25,
+      "all_to_noise": 1977,
+      "topic_change": 26,
+      "topic_same": 92
+    }
+  },
+  "Topic_12": {
+    "collections": {
+      "total_changes": 2687,
+      "total_same": 14097,
+      "topic_to_noise": 8,
+      "all_to_noise": 1954,
+      "topic_change": 8,
+      "topic_same": 109
+    },
+    "clothes": {
+      "total_changes": 2619,
+      "total_same": 14165,
+      "topic_to_noise": 13,
+      "all_to_noise": 1887,
+      "topic_change": 13,
+      "topic_same": 104
+    },
+    "brand": {
+      "total_changes": 2611,
+      "total_same": 14173,
+      "topic_to_noise": 5,
+      "all_to_noise": 1899,
+      "topic_change": 6,
+      "topic_same": 111
+    },
+    "fashion": {
+      "total_changes": 2698,
+      "total_same": 14086,
+      "topic_to_noise": 16,
+      "all_to_noise": 1957,
+      "topic_change": 17,
+      "topic_same": 100
+    },
+    "designers": {
+      "total_changes": 2627,
+      "total_same": 14157,
+      "topic_to_noise": 10,
+      "all_to_noise": 1873,
+      "topic_change": 11,
+      "topic_same": 106
+    },
+    "wear": {
+      "total_changes": 2707,
+      "total_same": 14077,
+      "topic_to_noise": 13,
+      "all_to_noise": 1971,
+      "topic_change": 13,
+      "topic_same": 104
+    },
+    "makeup": {
+      "total_changes": 2623,
+      "total_same": 14161,
+      "topic_to_noise": 13,
+      "all_to_noise": 1920,
+      "topic_change": 14,
+      "topic_same": 103
+    },
+    "mens": {
+      "total_changes": 2670,
+      "total_same": 14114,
+      "topic_to_noise": 6,
+      "all_to_noise": 1942,
+      "topic_change": 6,
+      "topic_same": 111
+    },
+    "gen": {
+      "total_changes": 2670,
+      "total_same": 14114,
+      "topic_to_noise": 12,
+      "all_to_noise": 1947,
+      "topic_change": 13,
+      "topic_same": 104
+    },
+    "designer": {
+      "total_changes": 2652,
+      "total_same": 14132,
+      "topic_to_noise": 10,
+      "all_to_noise": 1949,
+      "topic_change": 10,
+      "topic_same": 107
+    }
+  },
+  "Topic_13": {
+    "latest": {
+      "total_changes": 2684,
+      "total_same": 14100,
+      "topic_to_noise": 16,
+      "all_to_noise": 1954,
+      "topic_change": 16,
+      "topic_same": 100
+    },
+    "updates": {
+      "total_changes": 2672,
+      "total_same": 14112,
+      "topic_to_noise": 20,
+      "all_to_noise": 1949,
+      "topic_change": 20,
+      "topic_same": 96
+    },
+    "virus": {
+      "total_changes": 2765,
+      "total_same": 14019,
+      "topic_to_noise": 32,
+      "all_to_noise": 1998,
+      "topic_change": 32,
+      "topic_same": 84
+    },
+    "nyc": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 116
+    },
+    "coronavirus": {
+      "total_changes": 2717,
+      "total_same": 14067,
+      "topic_to_noise": 34,
+      "all_to_noise": 1976,
+      "topic_change": 36,
+      "topic_same": 80
+    },
+    "mayor": {
+      "total_changes": 2677,
+      "total_same": 14107,
+      "topic_to_noise": 23,
+      "all_to_noise": 1942,
+      "topic_change": 23,
+      "topic_same": 93
+    },
+    "blasio": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 116
+    },
+    "york": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 116
+    },
+    "city": {
+      "total_changes": 2622,
+      "total_same": 14162,
+      "topic_to_noise": 26,
+      "all_to_noise": 1908,
+      "topic_change": 26,
+      "topic_same": 90
+    },
+    "cuomo": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 116
+    }
+  },
+  "Topic_14": {
+    "bernie": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 109
+    },
+    "nomination": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 19,
+      "all_to_noise": 1931,
+      "topic_change": 19,
+      "topic_same": 90
+    },
+    "carolina": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 109
+    },
+    "democratic": {
+      "total_changes": 2739,
+      "total_same": 14045,
+      "topic_to_noise": 14,
+      "all_to_noise": 1970,
+      "topic_change": 15,
+      "topic_same": 94
+    },
+    "sanders": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 109
+    },
+    "primary": {
+      "total_changes": 2676,
+      "total_same": 14108,
+      "topic_to_noise": 19,
+      "all_to_noise": 1933,
+      "topic_change": 19,
+      "topic_same": 90
+    },
+    "win": {
+      "total_changes": 2676,
+      "total_same": 14108,
+      "topic_to_noise": 28,
+      "all_to_noise": 1961,
+      "topic_change": 28,
+      "topic_same": 81
+    },
+    "sanderss": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 109
+    },
+    "he": {
+      "total_changes": 3160,
+      "total_same": 13624,
+      "topic_to_noise": 18,
+      "all_to_noise": 2262,
+      "topic_change": 18,
+      "topic_same": 91
+    },
+    "biden": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 109
+    }
+  },
+  "Topic_15": {
+    "diary": {
+      "total_changes": 2645,
+      "total_same": 14139,
+      "topic_to_noise": 4,
+      "all_to_noise": 1931,
+      "topic_change": 4,
+      "topic_same": 104
+    },
+    "more": {
+      "total_changes": 2669,
+      "total_same": 14115,
+      "topic_to_noise": 9,
+      "all_to_noise": 1938,
+      "topic_change": 9,
+      "topic_same": 99
+    },
+    "metropolitan": {
+      "total_changes": 2603,
+      "total_same": 14181,
+      "topic_to_noise": 5,
+      "all_to_noise": 1868,
+      "topic_change": 5,
+      "topic_same": 103
+    },
+    "tales": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 5,
+      "all_to_noise": 1941,
+      "topic_change": 5,
+      "topic_same": 103
+    },
+    "reader": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 5,
+      "all_to_noise": 1926,
+      "topic_change": 5,
+      "topic_same": 103
+    },
+    "weeks": {
+      "total_changes": 2608,
+      "total_same": 14176,
+      "topic_to_noise": 5,
+      "all_to_noise": 1872,
+      "topic_change": 5,
+      "topic_same": 103
+    },
+    "york": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 108
+    },
+    "city": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 5,
+      "all_to_noise": 1928,
+      "topic_change": 5,
+      "topic_same": 103
+    },
+    "new": {
+      "total_changes": 2651,
+      "total_same": 14133,
+      "topic_to_noise": 6,
+      "all_to_noise": 1929,
+      "topic_change": 6,
+      "topic_same": 102
+    },
+    "street": {
+      "total_changes": 2683,
+      "total_same": 14101,
+      "topic_to_noise": 7,
+      "all_to_noise": 1946,
+      "topic_change": 7,
+      "topic_same": 101
+    }
+  },
+  "Topic_16": {
+    "invitation": {
+      "total_changes": 2623,
+      "total_same": 14161,
+      "topic_to_noise": 16,
+      "all_to_noise": 1905,
+      "topic_change": 18,
+      "topic_same": 89
+    },
+    "teenage": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 19,
+      "all_to_noise": 1899,
+      "topic_change": 21,
+      "topic_same": 86
+    },
+    "ongoing": {
+      "total_changes": 2680,
+      "total_same": 14104,
+      "topic_to_noise": 14,
+      "all_to_noise": 1941,
+      "topic_change": 17,
+      "topic_same": 90
+    },
+    "conversation": {
+      "total_changes": 2636,
+      "total_same": 14148,
+      "topic_to_noise": 15,
+      "all_to_noise": 1904,
+      "topic_change": 17,
+      "topic_same": 90
+    },
+    "contest": {
+      "total_changes": 2694,
+      "total_same": 14090,
+      "topic_to_noise": 16,
+      "all_to_noise": 1928,
+      "topic_change": 17,
+      "topic_same": 90
+    },
+    "students": {
+      "total_changes": 2732,
+      "total_same": 14052,
+      "topic_to_noise": 16,
+      "all_to_noise": 2015,
+      "topic_change": 18,
+      "topic_same": 89
+    },
+    "join": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 15,
+      "all_to_noise": 1926,
+      "topic_change": 16,
+      "topic_same": 91
+    },
+    "prompts": {
+      "total_changes": 2687,
+      "total_same": 14097,
+      "topic_to_noise": 14,
+      "all_to_noise": 1963,
+      "topic_change": 16,
+      "topic_same": 91
+    },
+    "comments": {
+      "total_changes": 2668,
+      "total_same": 14116,
+      "topic_to_noise": 14,
+      "all_to_noise": 1952,
+      "topic_change": 16,
+      "topic_same": 91
+    },
+    "writing": {
+      "total_changes": 2609,
+      "total_same": 14175,
+      "topic_to_noise": 15,
+      "all_to_noise": 1892,
+      "topic_change": 17,
+      "topic_same": 90
+    }
+  },
+  "Topic_17": {
+    "environmental": {
+      "total_changes": 2606,
+      "total_same": 14178,
+      "topic_to_noise": 20,
+      "all_to_noise": 1924,
+      "topic_change": 21,
+      "topic_same": 80
+    },
+    "change": {
+      "total_changes": 2685,
+      "total_same": 14099,
+      "topic_to_noise": 20,
+      "all_to_noise": 1972,
+      "topic_change": 20,
+      "topic_same": 81
+    },
+    "fossil": {
+      "total_changes": 2686,
+      "total_same": 14098,
+      "topic_to_noise": 17,
+      "all_to_noise": 1991,
+      "topic_change": 17,
+      "topic_same": 84
+    },
+    "warming": {
+      "total_changes": 2630,
+      "total_same": 14154,
+      "topic_to_noise": 18,
+      "all_to_noise": 1893,
+      "topic_change": 18,
+      "topic_same": 83
+    },
+    "energy": {
+      "total_changes": 2694,
+      "total_same": 14090,
+      "topic_to_noise": 14,
+      "all_to_noise": 1970,
+      "topic_change": 14,
+      "topic_same": 87
+    },
+    "fuel": {
+      "total_changes": 2692,
+      "total_same": 14092,
+      "topic_to_noise": 14,
+      "all_to_noise": 1991,
+      "topic_change": 14,
+      "topic_same": 87
+    },
+    "administration": {
+      "total_changes": 2668,
+      "total_same": 14116,
+      "topic_to_noise": 18,
+      "all_to_noise": 1935,
+      "topic_change": 18,
+      "topic_same": 83
+    },
+    "epa": {
+      "total_changes": 2630,
+      "total_same": 14154,
+      "topic_to_noise": 15,
+      "all_to_noise": 1900,
+      "topic_change": 15,
+      "topic_same": 86
+    },
+    "emissions": {
+      "total_changes": 2718,
+      "total_same": 14066,
+      "topic_to_noise": 14,
+      "all_to_noise": 1961,
+      "topic_change": 14,
+      "topic_same": 87
+    },
+    "climate": {
+      "total_changes": 2636,
+      "total_same": 14148,
+      "topic_to_noise": 21,
+      "all_to_noise": 1885,
+      "topic_change": 21,
+      "topic_same": 80
+    }
+  },
+  "Topic_18": {
+    "iran": {
+      "total_changes": 2607,
+      "total_same": 14177,
+      "topic_to_noise": 12,
+      "all_to_noise": 1893,
+      "topic_change": 12,
+      "topic_same": 88
+    },
+    "suleimani": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100
+    },
+    "irans": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100
+    },
+    "strike": {
+      "total_changes": 2626,
+      "total_same": 14158,
+      "topic_to_noise": 11,
+      "all_to_noise": 1917,
+      "topic_change": 11,
+      "topic_same": 89
+    },
+    "missiles": {
+      "total_changes": 2601,
+      "total_same": 14183,
+      "topic_to_noise": 14,
+      "all_to_noise": 1880,
+      "topic_change": 14,
+      "topic_same": 86
+    },
+    "iranian": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100
+    },
+    "qassim": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100
+    },
+    "nuclear": {
+      "total_changes": 2695,
+      "total_same": 14089,
+      "topic_to_noise": 15,
+      "all_to_noise": 1961,
+      "topic_change": 16,
+      "topic_same": 84
+    },
+    "military": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 9,
+      "all_to_noise": 1894,
+      "topic_change": 9,
+      "topic_same": 91
+    },
+    "killing": {
+      "total_changes": 2703,
+      "total_same": 14081,
+      "topic_to_noise": 18,
+      "all_to_noise": 1970,
+      "topic_change": 18,
+      "topic_same": 82
+    }
+  },
+  "Topic_19": {
+    "chinese": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100
+    },
+    "wuhan": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100
+    },
+    "beijing": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100
+    },
+    "chinas": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100
+    },
+    "coronavirus": {
+      "total_changes": 2770,
+      "total_same": 14014,
+      "topic_to_noise": 15,
+      "all_to_noise": 2007,
+      "topic_change": 15,
+      "topic_same": 85
+    },
+    "jinping": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100
+    },
+    "xi": {
+      "total_changes": 2644,
+      "total_same": 14140,
+      "topic_to_noise": 16,
+      "all_to_noise": 1937,
+      "topic_change": 16,
+      "topic_same": 84
+    },
+    "communist": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 8,
+      "all_to_noise": 1954,
+      "topic_change": 8,
+      "topic_same": 92
+    },
+    "china": {
+      "total_changes": 2661,
+      "total_same": 14123,
+      "topic_to_noise": 9,
+      "all_to_noise": 1909,
+      "topic_change": 9,
+      "topic_same": 91
+    },
+    "outbreak": {
+      "total_changes": 2676,
+      "total_same": 14108,
+      "topic_to_noise": 16,
+      "all_to_noise": 1956,
+      "topic_change": 16,
+      "topic_same": 84
+    }
+  },
+  "Topic_20": {
+    "latest": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 9,
+      "all_to_noise": 1950,
+      "topic_change": 9,
+      "topic_same": 91
+    },
+    "wall": {
+      "total_changes": 2693,
+      "total_same": 14091,
+      "topic_to_noise": 6,
+      "all_to_noise": 1950,
+      "topic_change": 6,
+      "topic_same": 94
+    },
+    "news": {
+      "total_changes": 2643,
+      "total_same": 14141,
+      "topic_to_noise": 12,
+      "all_to_noise": 1924,
+      "topic_change": 12,
+      "topic_same": 88
+    },
+    "stock": {
+      "total_changes": 2621,
+      "total_same": 14163,
+      "topic_to_noise": 13,
+      "all_to_noise": 1896,
+      "topic_change": 14,
+      "topic_same": 86
+    },
+    "stocks": {
+      "total_changes": 2693,
+      "total_same": 14091,
+      "topic_to_noise": 13,
+      "all_to_noise": 1979,
+      "topic_change": 13,
+      "topic_same": 87
+    },
+    "market": {
+      "total_changes": 2641,
+      "total_same": 14143,
+      "topic_to_noise": 12,
+      "all_to_noise": 1895,
+      "topic_change": 12,
+      "topic_same": 88
+    },
+    "investors": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 11,
+      "all_to_noise": 1924,
+      "topic_change": 11,
+      "topic_same": 89
+    },
+    "business": {
+      "total_changes": 2702,
+      "total_same": 14082,
+      "topic_to_noise": 13,
+      "all_to_noise": 1964,
+      "topic_change": 13,
+      "topic_same": 87
+    },
+    "outbreak": {
+      "total_changes": 2647,
+      "total_same": 14137,
+      "topic_to_noise": 10,
+      "all_to_noise": 1948,
+      "topic_change": 10,
+      "topic_same": 90
+    },
+    "street": {
+      "total_changes": 2643,
+      "total_same": 14141,
+      "topic_to_noise": 9,
+      "all_to_noise": 1925,
+      "topic_change": 9,
+      "topic_same": 91
+    }
+  },
+  "Topic_21": {
+    "workers": {
+      "total_changes": 2649,
+      "total_same": 14135,
+      "topic_to_noise": 28,
+      "all_to_noise": 1941,
+      "topic_change": 30,
+      "topic_same": 68
+    },
+    "protective": {
+      "total_changes": 2641,
+      "total_same": 14143,
+      "topic_to_noise": 25,
+      "all_to_noise": 1930,
+      "topic_change": 26,
+      "topic_same": 72
+    },
+    "face": {
+      "total_changes": 2641,
+      "total_same": 14143,
+      "topic_to_noise": 33,
+      "all_to_noise": 1953,
+      "topic_change": 34,
+      "topic_same": 64
+    },
+    "gear": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 31,
+      "all_to_noise": 1941,
+      "topic_change": 32,
+      "topic_same": 66
+    },
+    "wearing": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 25,
+      "all_to_noise": 1928,
+      "topic_change": 26,
+      "topic_same": 72
+    },
+    "masks": {
+      "total_changes": 2670,
+      "total_same": 14114,
+      "topic_to_noise": 29,
+      "all_to_noise": 1952,
+      "topic_change": 31,
+      "topic_same": 67
+    },
+    "wear": {
+      "total_changes": 2720,
+      "total_same": 14064,
+      "topic_to_noise": 25,
+      "all_to_noise": 2000,
+      "topic_change": 27,
+      "topic_same": 71
+    },
+    "mask": {
+      "total_changes": 2672,
+      "total_same": 14112,
+      "topic_to_noise": 26,
+      "all_to_noise": 1964,
+      "topic_change": 27,
+      "topic_same": 71
+    },
+    "coverings": {
+      "total_changes": 2717,
+      "total_same": 14067,
+      "topic_to_noise": 29,
+      "all_to_noise": 1970,
+      "topic_change": 30,
+      "topic_same": 68
+    },
+    "doctors": {
+      "total_changes": 2655,
+      "total_same": 14129,
+      "topic_to_noise": 23,
+      "all_to_noise": 1919,
+      "topic_change": 24,
+      "topic_same": 74
+    }
+  },
+  "Topic_22": {
+    "plays": {
+      "total_changes": 2609,
+      "total_same": 14175,
+      "topic_to_noise": 22,
+      "all_to_noise": 1893,
+      "topic_change": 22,
+      "topic_same": 76
+    },
+    "productions": {
+      "total_changes": 2620,
+      "total_same": 14164,
+      "topic_to_noise": 34,
+      "all_to_noise": 1899,
+      "topic_change": 34,
+      "topic_same": 64
+    },
+    "theaters": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 29,
+      "all_to_noise": 1966,
+      "topic_change": 29,
+      "topic_same": 69
+    },
+    "shows": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 32,
+      "all_to_noise": 1951,
+      "topic_change": 32,
+      "topic_same": 66
+    },
+    "stage": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 38,
+      "all_to_noise": 1935,
+      "topic_change": 38,
+      "topic_same": 60
+    },
+    "streaming": {
+      "total_changes": 2629,
+      "total_same": 14155,
+      "topic_to_noise": 28,
+      "all_to_noise": 1886,
+      "topic_change": 28,
+      "topic_same": 70
+    },
+    "audiences": {
+      "total_changes": 2640,
+      "total_same": 14144,
+      "topic_to_noise": 30,
+      "all_to_noise": 1911,
+      "topic_change": 30,
+      "topic_same": 68
+    },
+    "movie": {
+      "total_changes": 2633,
+      "total_same": 14151,
+      "topic_to_noise": 32,
+      "all_to_noise": 1915,
+      "topic_change": 32,
+      "topic_same": 66
+    },
+    "theater": {
+      "total_changes": 2770,
+      "total_same": 14014,
+      "topic_to_noise": 34,
+      "all_to_noise": 2008,
+      "topic_change": 35,
+      "topic_same": 63
+    },
+    "broadway": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 98
+    }
+  },
+  "Topic_23": {
+    "zuckerberg": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 97
+    },
+    "facebooks": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 97
+    },
+    "news": {
+      "total_changes": 2681,
+      "total_same": 14103,
+      "topic_to_noise": 13,
+      "all_to_noise": 1960,
+      "topic_change": 13,
+      "topic_same": 84
+    },
+    "platforms": {
+      "total_changes": 2681,
+      "total_same": 14103,
+      "topic_to_noise": 15,
+      "all_to_noise": 1939,
+      "topic_change": 15,
+      "topic_same": 82
+    },
+    "twitter": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 97
+    },
+    "media": {
+      "total_changes": 2655,
+      "total_same": 14129,
+      "topic_to_noise": 12,
+      "all_to_noise": 1957,
+      "topic_change": 12,
+      "topic_same": 85
+    },
+    "company": {
+      "total_changes": 2708,
+      "total_same": 14076,
+      "topic_to_noise": 14,
+      "all_to_noise": 1978,
+      "topic_change": 14,
+      "topic_same": 83
+    },
+    "facebook": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 97
+    },
+    "social": {
+      "total_changes": 2622,
+      "total_same": 14162,
+      "topic_to_noise": 13,
+      "all_to_noise": 1891,
+      "topic_change": 13,
+      "topic_same": 84
+    },
+    "misinformation": {
+      "total_changes": 2665,
+      "total_same": 14119,
+      "topic_to_noise": 15,
+      "all_to_noise": 1903,
+      "topic_change": 15,
+      "topic_same": 82
+    }
+  },
+  "Topic_24": {
+    "sox": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 95
+    },
+    "players": {
+      "total_changes": 2724,
+      "total_same": 14060,
+      "topic_to_noise": 12,
+      "all_to_noise": 1997,
+      "topic_change": 12,
+      "topic_same": 83
+    },
+    "baseball": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 17,
+      "all_to_noise": 1924,
+      "topic_change": 18,
+      "topic_same": 77
+    },
+    "scandal": {
+      "total_changes": 2584,
+      "total_same": 14200,
+      "topic_to_noise": 10,
+      "all_to_noise": 1894,
+      "topic_change": 10,
+      "topic_same": 85
+    },
+    "baseballs": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 95
+    },
+    "mets": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 7,
+      "all_to_noise": 1953,
+      "topic_change": 7,
+      "topic_same": 88
+    },
+    "houston": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 95
+    },
+    "dodgers": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 95
+    },
+    "cheating": {
+      "total_changes": 2636,
+      "total_same": 14148,
+      "topic_to_noise": 7,
+      "all_to_noise": 1881,
+      "topic_change": 7,
+      "topic_same": 88
+    },
+    "astros": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 95
+    }
+  },
+  "Topic_25": {
+    "week": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 19,
+      "all_to_noise": 1951,
+      "topic_change": 21,
+      "topic_same": 72
+    },
+    "quarterback": {
+      "total_changes": 2685,
+      "total_same": 14099,
+      "topic_to_noise": 19,
+      "all_to_noise": 1922,
+      "topic_change": 20,
+      "topic_same": 73
+    },
+    "draft": {
+      "total_changes": 2620,
+      "total_same": 14164,
+      "topic_to_noise": 20,
+      "all_to_noise": 1923,
+      "topic_change": 20,
+      "topic_same": 73
+    },
+    "season": {
+      "total_changes": 2643,
+      "total_same": 14141,
+      "topic_to_noise": 17,
+      "all_to_noise": 1926,
+      "topic_change": 17,
+      "topic_same": 76
+    },
+    "nfl": {
+      "total_changes": 2613,
+      "total_same": 14171,
+      "topic_to_noise": 20,
+      "all_to_noise": 1920,
+      "topic_change": 20,
+      "topic_same": 73
+    },
+    "picks": {
+      "total_changes": 2645,
+      "total_same": 14139,
+      "topic_to_noise": 22,
+      "all_to_noise": 1956,
+      "topic_change": 22,
+      "topic_same": 71
+    },
+    "predictions": {
+      "total_changes": 2676,
+      "total_same": 14108,
+      "topic_to_noise": 19,
+      "all_to_noise": 1954,
+      "topic_change": 19,
+      "topic_same": 74
+    },
+    "steelers": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 93
+    },
+    "brady": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 93
+    },
+    "chiefs": {
+      "total_changes": 2689,
+      "total_same": 14095,
+      "topic_to_noise": 23,
+      "all_to_noise": 1970,
+      "topic_change": 23,
+      "topic_same": 70
+    }
+  },
+  "Topic_26": {
+    "food": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 44,
+      "all_to_noise": 1960,
+      "topic_change": 45,
+      "topic_same": 47
+    },
+    "cooking": {
+      "total_changes": 2689,
+      "total_same": 14095,
+      "topic_to_noise": 37,
+      "all_to_noise": 1972,
+      "topic_change": 39,
+      "topic_same": 53
+    },
+    "cuisine": {
+      "total_changes": 2708,
+      "total_same": 14076,
+      "topic_to_noise": 37,
+      "all_to_noise": 1966,
+      "topic_change": 38,
+      "topic_same": 54
+    },
+    "cookbooks": {
+      "total_changes": 2649,
+      "total_same": 14135,
+      "topic_to_noise": 45,
+      "all_to_noise": 1903,
+      "topic_change": 46,
+      "topic_same": 46
+    },
+    "meal": {
+      "total_changes": 2627,
+      "total_same": 14157,
+      "topic_to_noise": 45,
+      "all_to_noise": 1927,
+      "topic_change": 47,
+      "topic_same": 45
+    },
+    "brooklyn": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 92
+    },
+    "recipes": {
+      "total_changes": 2598,
+      "total_same": 14186,
+      "topic_to_noise": 37,
+      "all_to_noise": 1891,
+      "topic_change": 37,
+      "topic_same": 55
+    },
+    "restaurant": {
+      "total_changes": 2725,
+      "total_same": 14059,
+      "topic_to_noise": 48,
+      "all_to_noise": 1969,
+      "topic_change": 49,
+      "topic_same": 43
+    },
+    "chef": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 40,
+      "all_to_noise": 1908,
+      "topic_change": 41,
+      "topic_same": 51
+    },
+    "dishes": {
+      "total_changes": 2651,
+      "total_same": 14133,
+      "topic_to_noise": 46,
+      "all_to_noise": 1935,
+      "topic_change": 46,
+      "topic_same": 46
+    }
+  },
+  "Topic_27": {
+    "trumps": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 92
+    },
+    "his": {
+      "total_changes": 2636,
+      "total_same": 14148,
+      "topic_to_noise": 50,
+      "all_to_noise": 1905,
+      "topic_change": 51,
+      "topic_same": 41
+    },
+    "nation": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 46,
+      "all_to_noise": 1956,
+      "topic_change": 46,
+      "topic_same": 46
+    },
+    "presidents": {
+      "total_changes": 2617,
+      "total_same": 14167,
+      "topic_to_noise": 51,
+      "all_to_noise": 1928,
+      "topic_change": 51,
+      "topic_same": 41
+    },
+    "he": {
+      "total_changes": 3138,
+      "total_same": 13646,
+      "topic_to_noise": 57,
+      "all_to_noise": 2266,
+      "topic_change": 58,
+      "topic_same": 34
+    },
+    "trump": {
+      "total_changes": 2651,
+      "total_same": 14133,
+      "topic_to_noise": 49,
+      "all_to_noise": 1937,
+      "topic_change": 50,
+      "topic_same": 42
+    },
+    "himself": {
+      "total_changes": 2631,
+      "total_same": 14153,
+      "topic_to_noise": 56,
+      "all_to_noise": 1917,
+      "topic_change": 57,
+      "topic_same": 35
+    },
+    "hes": {
+      "total_changes": 2620,
+      "total_same": 14164,
+      "topic_to_noise": 58,
+      "all_to_noise": 1933,
+      "topic_change": 59,
+      "topic_same": 33
+    },
+    "president": {
+      "total_changes": 2657,
+      "total_same": 14127,
+      "topic_to_noise": 45,
+      "all_to_noise": 1931,
+      "topic_change": 45,
+      "topic_same": 47
+    },
+    "donald": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 92
+    }
+  },
+  "Topic_28": {
+    "this": {
+      "total_changes": 2732,
+      "total_same": 14052,
+      "topic_to_noise": 7,
+      "all_to_noise": 1995,
+      "topic_change": 7,
+      "topic_same": 85
+    },
+    "family": {
+      "total_changes": 2606,
+      "total_same": 14178,
+      "topic_to_noise": 6,
+      "all_to_noise": 1914,
+      "topic_change": 6,
+      "topic_same": 86
+    },
+    "christmas": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 92
+    },
+    "year": {
+      "total_changes": 2668,
+      "total_same": 14116,
+      "topic_to_noise": 6,
+      "all_to_noise": 1941,
+      "topic_change": 7,
+      "topic_same": 85
+    },
+    "holiday": {
+      "total_changes": 2650,
+      "total_same": 14134,
+      "topic_to_noise": 9,
+      "all_to_noise": 1905,
+      "topic_change": 11,
+      "topic_same": 81
+    },
+    "families": {
+      "total_changes": 2623,
+      "total_same": 14161,
+      "topic_to_noise": 5,
+      "all_to_noise": 1904,
+      "topic_change": 5,
+      "topic_same": 87
+    },
+    "thanksgiving": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 92
+    },
+    "celebrate": {
+      "total_changes": 2693,
+      "total_same": 14091,
+      "topic_to_noise": 7,
+      "all_to_noise": 1986,
+      "topic_change": 7,
+      "topic_same": 85
+    },
+    "traditions": {
+      "total_changes": 2622,
+      "total_same": 14162,
+      "topic_to_noise": 2,
+      "all_to_noise": 1892,
+      "topic_change": 3,
+      "topic_same": 89
+    },
+    "holidays": {
+      "total_changes": 2659,
+      "total_same": 14125,
+      "topic_to_noise": 7,
+      "all_to_noise": 1928,
+      "topic_change": 7,
+      "topic_same": 85
+    }
+  },
+  "Topic_29": {
+    "astronomers": {
+      "total_changes": 2582,
+      "total_same": 14202,
+      "topic_to_noise": 8,
+      "all_to_noise": 1881,
+      "topic_change": 8,
+      "topic_same": 76
+    },
+    "solar": {
+      "total_changes": 2717,
+      "total_same": 14067,
+      "topic_to_noise": 9,
+      "all_to_noise": 1983,
+      "topic_change": 9,
+      "topic_same": 75
+    },
+    "spacecraft": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 13,
+      "all_to_noise": 1934,
+      "topic_change": 13,
+      "topic_same": 71
+    },
+    "nasa": {
+      "total_changes": 2641,
+      "total_same": 14143,
+      "topic_to_noise": 7,
+      "all_to_noise": 1934,
+      "topic_change": 7,
+      "topic_same": 77
+    },
+    "mission": {
+      "total_changes": 2710,
+      "total_same": 14074,
+      "topic_to_noise": 8,
+      "all_to_noise": 1950,
+      "topic_change": 8,
+      "topic_same": 76
+    },
+    "space": {
+      "total_changes": 2661,
+      "total_same": 14123,
+      "topic_to_noise": 9,
+      "all_to_noise": 1938,
+      "topic_change": 9,
+      "topic_same": 75
+    },
+    "asteroid": {
+      "total_changes": 2735,
+      "total_same": 14049,
+      "topic_to_noise": 6,
+      "all_to_noise": 1966,
+      "topic_change": 7,
+      "topic_same": 77
+    },
+    "earth": {
+      "total_changes": 2659,
+      "total_same": 14125,
+      "topic_to_noise": 12,
+      "all_to_noise": 1961,
+      "topic_change": 12,
+      "topic_same": 72
+    },
+    "planet": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 10,
+      "all_to_noise": 1889,
+      "topic_change": 11,
+      "topic_same": 73
+    },
+    "mars": {
+      "total_changes": 2744,
+      "total_same": 14040,
+      "topic_to_noise": 7,
+      "all_to_noise": 2005,
+      "topic_change": 8,
+      "topic_same": 76
+    }
+  },
+  "Topic_30": {
+    "cars": {
+      "total_changes": 2687,
+      "total_same": 14097,
+      "topic_to_noise": 17,
+      "all_to_noise": 1940,
+      "topic_change": 17,
+      "topic_same": 66
+    },
+    "subways": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 19,
+      "all_to_noise": 1954,
+      "topic_change": 19,
+      "topic_same": 64
+    },
+    "subway": {
+      "total_changes": 2679,
+      "total_same": 14105,
+      "topic_to_noise": 21,
+      "all_to_noise": 1965,
+      "topic_change": 21,
+      "topic_same": 62
+    },
+    "bus": {
+      "total_changes": 2638,
+      "total_same": 14146,
+      "topic_to_noise": 16,
+      "all_to_noise": 1914,
+      "topic_change": 16,
+      "topic_same": 67
+    },
+    "transit": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 19,
+      "all_to_noise": 1915,
+      "topic_change": 19,
+      "topic_same": 64
+    },
+    "city": {
+      "total_changes": 2644,
+      "total_same": 14140,
+      "topic_to_noise": 16,
+      "all_to_noise": 1909,
+      "topic_change": 16,
+      "topic_same": 67
+    },
+    "trains": {
+      "total_changes": 2685,
+      "total_same": 14099,
+      "topic_to_noise": 22,
+      "all_to_noise": 1923,
+      "topic_change": 23,
+      "topic_same": 60
+    },
+    "yorkers": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 83
+    },
+    "new": {
+      "total_changes": 2720,
+      "total_same": 14064,
+      "topic_to_noise": 21,
+      "all_to_noise": 1987,
+      "topic_change": 22,
+      "topic_same": 61
+    },
+    "riders": {
+      "total_changes": 2639,
+      "total_same": 14145,
+      "topic_to_noise": 26,
+      "all_to_noise": 1905,
+      "topic_change": 26,
+      "topic_same": 57
+    }
+  },
+  "Topic_31": {
+    "restrictions": {
+      "total_changes": 2752,
+      "total_same": 14032,
+      "topic_to_noise": 2,
+      "all_to_noise": 1990,
+      "topic_change": 3,
+      "topic_same": 78
+    },
+    "governors": {
+      "total_changes": 2615,
+      "total_same": 14169,
+      "topic_to_noise": 10,
+      "all_to_noise": 1890,
+      "topic_change": 11,
+      "topic_same": 70
+    },
+    "experts": {
+      "total_changes": 2673,
+      "total_same": 14111,
+      "topic_to_noise": 7,
+      "all_to_noise": 1945,
+      "topic_change": 8,
+      "topic_same": 73
+    },
+    "cases": {
+      "total_changes": 2717,
+      "total_same": 14067,
+      "topic_to_noise": 5,
+      "all_to_noise": 1948,
+      "topic_change": 6,
+      "topic_same": 75
+    },
+    "businesses": {
+      "total_changes": 2668,
+      "total_same": 14116,
+      "topic_to_noise": 7,
+      "all_to_noise": 1946,
+      "topic_change": 8,
+      "topic_same": 73
+    },
+    "texas": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 81
+    },
+    "economy": {
+      "total_changes": 2717,
+      "total_same": 14067,
+      "topic_to_noise": 7,
+      "all_to_noise": 1983,
+      "topic_change": 8,
+      "topic_same": 73
+    },
+    "states": {
+      "total_changes": 2628,
+      "total_same": 14156,
+      "topic_to_noise": 6,
+      "all_to_noise": 1926,
+      "topic_change": 6,
+      "topic_same": 75
+    },
+    "reopening": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 11,
+      "all_to_noise": 1935,
+      "topic_change": 14,
+      "topic_same": 67
+    },
+    "reopen": {
+      "total_changes": 2689,
+      "total_same": 14095,
+      "topic_to_noise": 26,
+      "all_to_noise": 1986,
+      "topic_change": 30,
+      "topic_same": 51
+    }
+  },
+  "Topic_32": {
+    "trumps": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 80
+    },
+    "managers": {
+      "total_changes": 2649,
+      "total_same": 14135,
+      "topic_to_noise": 10,
+      "all_to_noise": 1921,
+      "topic_change": 10,
+      "topic_same": 70
+    },
+    "impeachment": {
+      "total_changes": 2744,
+      "total_same": 14040,
+      "topic_to_noise": 18,
+      "all_to_noise": 2020,
+      "topic_change": 18,
+      "topic_same": 62
+    },
+    "senate": {
+      "total_changes": 2724,
+      "total_same": 14060,
+      "topic_to_noise": 14,
+      "all_to_noise": 2021,
+      "topic_change": 14,
+      "topic_same": 66
+    },
+    "house": {
+      "total_changes": 2591,
+      "total_same": 14193,
+      "topic_to_noise": 7,
+      "all_to_noise": 1873,
+      "topic_change": 7,
+      "topic_same": 73
+    },
+    "trial": {
+      "total_changes": 2668,
+      "total_same": 14116,
+      "topic_to_noise": 9,
+      "all_to_noise": 1931,
+      "topic_change": 10,
+      "topic_same": 70
+    },
+    "witnesses": {
+      "total_changes": 2626,
+      "total_same": 14158,
+      "topic_to_noise": 13,
+      "all_to_noise": 1888,
+      "topic_change": 13,
+      "topic_same": 67
+    },
+    "senators": {
+      "total_changes": 2720,
+      "total_same": 14064,
+      "topic_to_noise": 13,
+      "all_to_noise": 1987,
+      "topic_change": 13,
+      "topic_same": 67
+    },
+    "charges": {
+      "total_changes": 2651,
+      "total_same": 14133,
+      "topic_to_noise": 8,
+      "all_to_noise": 1940,
+      "topic_change": 8,
+      "topic_same": 72
+    },
+    "president": {
+      "total_changes": 2693,
+      "total_same": 14091,
+      "topic_to_noise": 12,
+      "all_to_noise": 1951,
+      "topic_change": 12,
+      "topic_same": 68
+    }
+  },
+  "Topic_33": {
+    "campus": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 40,
+      "all_to_noise": 1934,
+      "topic_change": 40,
+      "topic_same": 39
+    },
+    "admissions": {
+      "total_changes": 2633,
+      "total_same": 14151,
+      "topic_to_noise": 31,
+      "all_to_noise": 1932,
+      "topic_change": 31,
+      "topic_same": 48
+    },
+    "college": {
+      "total_changes": 2690,
+      "total_same": 14094,
+      "topic_to_noise": 35,
+      "all_to_noise": 1942,
+      "topic_change": 35,
+      "topic_same": 44
+    },
+    "campuses": {
+      "total_changes": 2638,
+      "total_same": 14146,
+      "topic_to_noise": 24,
+      "all_to_noise": 1919,
+      "topic_change": 24,
+      "topic_same": 55
+    },
+    "classes": {
+      "total_changes": 2657,
+      "total_same": 14127,
+      "topic_to_noise": 32,
+      "all_to_noise": 1953,
+      "topic_change": 32,
+      "topic_same": 47
+    },
+    "university": {
+      "total_changes": 2765,
+      "total_same": 14019,
+      "topic_to_noise": 47,
+      "all_to_noise": 2017,
+      "topic_change": 47,
+      "topic_same": 32
+    },
+    "universities": {
+      "total_changes": 2619,
+      "total_same": 14165,
+      "topic_to_noise": 30,
+      "all_to_noise": 1886,
+      "topic_change": 30,
+      "topic_same": 49
+    },
+    "sat": {
+      "total_changes": 2623,
+      "total_same": 14161,
+      "topic_to_noise": 33,
+      "all_to_noise": 1898,
+      "topic_change": 33,
+      "topic_same": 46
+    },
+    "students": {
+      "total_changes": 2528,
+      "total_same": 14256,
+      "topic_to_noise": 22,
+      "all_to_noise": 1828,
+      "topic_change": 22,
+      "topic_same": 57
+    },
+    "colleges": {
+      "total_changes": 2608,
+      "total_same": 14176,
+      "topic_to_noise": 30,
+      "all_to_noise": 1887,
+      "topic_change": 30,
+      "topic_same": 49
+    }
+  },
+  "Topic_34": {
+    "20": {
+      "total_changes": 2606,
+      "total_same": 14178,
+      "topic_to_noise": 5,
+      "all_to_noise": 1872,
+      "topic_change": 5,
+      "topic_same": 69
+    },
+    "wines": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 6,
+      "all_to_noise": 1916,
+      "topic_change": 7,
+      "topic_same": 67
+    },
+    "different": {
+      "total_changes": 2671,
+      "total_same": 14113,
+      "topic_to_noise": 6,
+      "all_to_noise": 1915,
+      "topic_change": 6,
+      "topic_same": 68
+    },
+    "reds": {
+      "total_changes": 2636,
+      "total_same": 14148,
+      "topic_to_noise": 6,
+      "all_to_noise": 1930,
+      "topic_change": 6,
+      "topic_same": 68
+    },
+    "champagne": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 74
+    },
+    "sommeliers": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 9,
+      "all_to_noise": 1956,
+      "topic_change": 9,
+      "topic_same": 65
+    },
+    "wine": {
+      "total_changes": 2682,
+      "total_same": 14102,
+      "topic_to_noise": 13,
+      "all_to_noise": 1951,
+      "topic_change": 15,
+      "topic_same": 59
+    },
+    "bottles": {
+      "total_changes": 2688,
+      "total_same": 14096,
+      "topic_to_noise": 5,
+      "all_to_noise": 1936,
+      "topic_change": 6,
+      "topic_same": 68
+    },
+    "producers": {
+      "total_changes": 2682,
+      "total_same": 14102,
+      "topic_to_noise": 5,
+      "all_to_noise": 1945,
+      "topic_change": 6,
+      "topic_same": 68
+    },
+    "these": {
+      "total_changes": 2621,
+      "total_same": 14163,
+      "topic_to_noise": 4,
+      "all_to_noise": 1908,
+      "topic_change": 4,
+      "topic_same": 70
+    }
+  },
+  "Topic_35": {
+    "teams": {
+      "total_changes": 2593,
+      "total_same": 14191,
+      "topic_to_noise": 34,
+      "all_to_noise": 1900,
+      "topic_change": 34,
+      "topic_same": 37
+    },
+    "leagues": {
+      "total_changes": 2628,
+      "total_same": 14156,
+      "topic_to_noise": 37,
+      "all_to_noise": 1881,
+      "topic_change": 37,
+      "topic_same": 34
+    },
+    "champions": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 35,
+      "all_to_noise": 1920,
+      "topic_change": 35,
+      "topic_same": 36
+    },
+    "youth": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 27,
+      "all_to_noise": 1939,
+      "topic_change": 27,
+      "topic_same": 44
+    },
+    "league": {
+      "total_changes": 2705,
+      "total_same": 14079,
+      "topic_to_noise": 37,
+      "all_to_noise": 1950,
+      "topic_change": 37,
+      "topic_same": 34
+    },
+    "sports": {
+      "total_changes": 2630,
+      "total_same": 14154,
+      "topic_to_noise": 26,
+      "all_to_noise": 1892,
+      "topic_change": 27,
+      "topic_same": 44
+    },
+    "europes": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 71
+    },
+    "fans": {
+      "total_changes": 2584,
+      "total_same": 14200,
+      "topic_to_noise": 25,
+      "all_to_noise": 1884,
+      "topic_change": 25,
+      "topic_same": 46
+    },
+    "athletes": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 28,
+      "all_to_noise": 1889,
+      "topic_change": 28,
+      "topic_same": 43
+    },
+    "soccer": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 37,
+      "all_to_noise": 1940,
+      "topic_change": 37,
+      "topic_same": 34
+    }
+  },
+  "Topic_36": {
+    "convicted": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 4,
+      "all_to_noise": 1923,
+      "topic_change": 4,
+      "topic_same": 66
+    },
+    "weinstein": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    },
+    "sex": {
+      "total_changes": 2744,
+      "total_same": 14040,
+      "topic_to_noise": 7,
+      "all_to_noise": 1990,
+      "topic_change": 7,
+      "topic_same": 63
+    },
+    "trial": {
+      "total_changes": 2724,
+      "total_same": 14060,
+      "topic_to_noise": 5,
+      "all_to_noise": 1973,
+      "topic_change": 5,
+      "topic_same": 65
+    },
+    "jury": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 4,
+      "all_to_noise": 1898,
+      "topic_change": 4,
+      "topic_same": 66
+    },
+    "guilty": {
+      "total_changes": 2618,
+      "total_same": 14166,
+      "topic_to_noise": 7,
+      "all_to_noise": 1892,
+      "topic_change": 7,
+      "topic_same": 63
+    },
+    "weinsteins": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    },
+    "jurors": {
+      "total_changes": 2651,
+      "total_same": 14133,
+      "topic_to_noise": 4,
+      "all_to_noise": 1936,
+      "topic_change": 4,
+      "topic_same": 66
+    },
+    "sexual": {
+      "total_changes": 2671,
+      "total_same": 14113,
+      "topic_to_noise": 4,
+      "all_to_noise": 1960,
+      "topic_change": 4,
+      "topic_same": 66
+    },
+    "harvey": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    }
+  },
+  "Topic_37": {
+    "principal": {
+      "total_changes": 2761,
+      "total_same": 14023,
+      "topic_to_noise": 2,
+      "all_to_noise": 2044,
+      "topic_change": 2,
+      "topic_same": 68
+    },
+    "dancers": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 3,
+      "all_to_noise": 1964,
+      "topic_change": 3,
+      "topic_same": 67
+    },
+    "dancing": {
+      "total_changes": 2677,
+      "total_same": 14107,
+      "topic_to_noise": 2,
+      "all_to_noise": 1954,
+      "topic_change": 2,
+      "topic_same": 68
+    },
+    "choreographer": {
+      "total_changes": 2623,
+      "total_same": 14161,
+      "topic_to_noise": 2,
+      "all_to_noise": 1894,
+      "topic_change": 2,
+      "topic_same": 68
+    },
+    "lincoln": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    },
+    "ballet": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 1,
+      "all_to_noise": 1951,
+      "topic_change": 2,
+      "topic_same": 68
+    },
+    "nutcracker": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    },
+    "dances": {
+      "total_changes": 2649,
+      "total_same": 14135,
+      "topic_to_noise": 5,
+      "all_to_noise": 1923,
+      "topic_change": 5,
+      "topic_same": 65
+    },
+    "dance": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 7,
+      "all_to_noise": 1953,
+      "topic_change": 8,
+      "topic_same": 62
+    },
+    "festival": {
+      "total_changes": 2650,
+      "total_same": 14134,
+      "topic_to_noise": 3,
+      "all_to_noise": 1909,
+      "topic_change": 3,
+      "topic_same": 67
+    }
+  },
+  "Topic_38": {
+    "kamala": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    },
+    "running": {
+      "total_changes": 2647,
+      "total_same": 14137,
+      "topic_to_noise": 13,
+      "all_to_noise": 1911,
+      "topic_change": 14,
+      "topic_same": 56
+    },
+    "harriss": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    },
+    "ticket": {
+      "total_changes": 2673,
+      "total_same": 14111,
+      "topic_to_noise": 12,
+      "all_to_noise": 1963,
+      "topic_change": 12,
+      "topic_same": 58
+    },
+    "mate": {
+      "total_changes": 2728,
+      "total_same": 14056,
+      "topic_to_noise": 10,
+      "all_to_noise": 1990,
+      "topic_change": 10,
+      "topic_same": 60
+    },
+    "woman": {
+      "total_changes": 2681,
+      "total_same": 14103,
+      "topic_to_noise": 13,
+      "all_to_noise": 1951,
+      "topic_change": 13,
+      "topic_same": 57
+    },
+    "bidens": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    },
+    "joe": {
+      "total_changes": 2671,
+      "total_same": 14113,
+      "topic_to_noise": 10,
+      "all_to_noise": 1895,
+      "topic_change": 10,
+      "topic_same": 60
+    },
+    "harris": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    },
+    "vicepresidential": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 70
+    }
+  },
+  "Topic_39": {
+    "players": {
+      "total_changes": 2705,
+      "total_same": 14079,
+      "topic_to_noise": 25,
+      "all_to_noise": 1982,
+      "topic_change": 28,
+      "topic_same": 41
+    },
+    "coach": {
+      "total_changes": 2652,
+      "total_same": 14132,
+      "topic_to_noise": 23,
+      "all_to_noise": 1933,
+      "topic_change": 24,
+      "topic_same": 45
+    },
+    "lakers": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 69
+    },
+    "bubble": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 26,
+      "all_to_noise": 1971,
+      "topic_change": 26,
+      "topic_same": 43
+    },
+    "season": {
+      "total_changes": 2650,
+      "total_same": 14134,
+      "topic_to_noise": 26,
+      "all_to_noise": 1938,
+      "topic_change": 26,
+      "topic_same": 43
+    },
+    "league": {
+      "total_changes": 2672,
+      "total_same": 14112,
+      "topic_to_noise": 23,
+      "all_to_noise": 1923,
+      "topic_change": 23,
+      "topic_same": 46
+    },
+    "team": {
+      "total_changes": 2608,
+      "total_same": 14176,
+      "topic_to_noise": 20,
+      "all_to_noise": 1877,
+      "topic_change": 23,
+      "topic_same": 46
+    },
+    "basketball": {
+      "total_changes": 2614,
+      "total_same": 14170,
+      "topic_to_noise": 35,
+      "all_to_noise": 1916,
+      "topic_change": 36,
+      "topic_same": 33
+    },
+    "nba": {
+      "total_changes": 2679,
+      "total_same": 14105,
+      "topic_to_noise": 26,
+      "all_to_noise": 1939,
+      "topic_change": 26,
+      "topic_same": 43
+    },
+    "nbas": {
+      "total_changes": 2626,
+      "total_same": 14158,
+      "topic_to_noise": 25,
+      "all_to_noise": 1922,
+      "topic_change": 26,
+      "topic_same": 43
+    }
+  },
+  "Topic_40": {
+    "angeles": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 68
+    },
+    "bungalow": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 4,
+      "all_to_noise": 1930,
+      "topic_change": 4,
+      "topic_same": 64
+    },
+    "los": {
+      "total_changes": 2647,
+      "total_same": 14137,
+      "topic_to_noise": 9,
+      "all_to_noise": 1926,
+      "topic_change": 9,
+      "topic_same": 59
+    },
+    "san": {
+      "total_changes": 2699,
+      "total_same": 14085,
+      "topic_to_noise": 7,
+      "all_to_noise": 1973,
+      "topic_change": 7,
+      "topic_same": 61
+    },
+    "cottage": {
+      "total_changes": 2670,
+      "total_same": 14114,
+      "topic_to_noise": 6,
+      "all_to_noise": 1914,
+      "topic_change": 6,
+      "topic_same": 62
+    },
+    "house": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 3,
+      "all_to_noise": 1919,
+      "topic_change": 3,
+      "topic_same": 65
+    },
+    "spanishstyle": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 68
+    },
+    "million": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 6,
+      "all_to_noise": 1950,
+      "topic_change": 6,
+      "topic_same": 62
+    },
+    "california": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 68
+    },
+    "homes": {
+      "total_changes": 2629,
+      "total_same": 14155,
+      "topic_to_noise": 8,
+      "all_to_noise": 1933,
+      "topic_change": 8,
+      "topic_same": 60
+    }
+  },
+  "Topic_41": {
+    "unemployed": {
+      "total_changes": 2749,
+      "total_same": 14035,
+      "topic_to_noise": 11,
+      "all_to_noise": 2001,
+      "topic_change": 11,
+      "topic_same": 55
+    },
+    "claims": {
+      "total_changes": 2630,
+      "total_same": 14154,
+      "topic_to_noise": 11,
+      "all_to_noise": 1915,
+      "topic_change": 11,
+      "topic_same": 55
+    },
+    "losses": {
+      "total_changes": 2635,
+      "total_same": 14149,
+      "topic_to_noise": 7,
+      "all_to_noise": 1921,
+      "topic_change": 7,
+      "topic_same": 59
+    },
+    "layoffs": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 9,
+      "all_to_noise": 1920,
+      "topic_change": 9,
+      "topic_same": 57
+    },
+    "unemployment": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 13,
+      "all_to_noise": 1945,
+      "topic_change": 15,
+      "topic_same": 51
+    },
+    "job": {
+      "total_changes": 2657,
+      "total_same": 14127,
+      "topic_to_noise": 18,
+      "all_to_noise": 1928,
+      "topic_change": 18,
+      "topic_same": 48
+    },
+    "jobless": {
+      "total_changes": 2665,
+      "total_same": 14119,
+      "topic_to_noise": 9,
+      "all_to_noise": 1948,
+      "topic_change": 9,
+      "topic_same": 57
+    },
+    "million": {
+      "total_changes": 2626,
+      "total_same": 14158,
+      "topic_to_noise": 10,
+      "all_to_noise": 1922,
+      "topic_change": 10,
+      "topic_same": 56
+    },
+    "jobs": {
+      "total_changes": 2589,
+      "total_same": 14195,
+      "topic_to_noise": 11,
+      "all_to_noise": 1866,
+      "topic_change": 11,
+      "topic_same": 55
+    },
+    "benefits": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 11,
+      "all_to_noise": 1959,
+      "topic_change": 11,
+      "topic_same": 55
+    }
+  },
+  "Topic_42": {
+    "hacking": {
+      "total_changes": 2621,
+      "total_same": 14163,
+      "topic_to_noise": 8,
+      "all_to_noise": 1901,
+      "topic_change": 8,
+      "topic_same": 56
+    },
+    "hackers": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 12,
+      "all_to_noise": 1914,
+      "topic_change": 12,
+      "topic_same": 52
+    },
+    "intelligence": {
+      "total_changes": 2626,
+      "total_same": 14158,
+      "topic_to_noise": 6,
+      "all_to_noise": 1940,
+      "topic_change": 6,
+      "topic_same": 58
+    },
+    "security": {
+      "total_changes": 2720,
+      "total_same": 14064,
+      "topic_to_noise": 10,
+      "all_to_noise": 1977,
+      "topic_change": 10,
+      "topic_same": 54
+    },
+    "homeland": {
+      "total_changes": 2655,
+      "total_same": 14129,
+      "topic_to_noise": 9,
+      "all_to_noise": 1949,
+      "topic_change": 9,
+      "topic_same": 55
+    },
+    "russia": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 8,
+      "all_to_noise": 1922,
+      "topic_change": 8,
+      "topic_same": 56
+    },
+    "interference": {
+      "total_changes": 2695,
+      "total_same": 14089,
+      "topic_to_noise": 8,
+      "all_to_noise": 1966,
+      "topic_change": 8,
+      "topic_same": 56
+    },
+    "agencies": {
+      "total_changes": 2611,
+      "total_same": 14173,
+      "topic_to_noise": 7,
+      "all_to_noise": 1890,
+      "topic_change": 7,
+      "topic_same": 57
+    },
+    "russian": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 8,
+      "all_to_noise": 1933,
+      "topic_change": 8,
+      "topic_same": 56
+    },
+    "hacked": {
+      "total_changes": 2618,
+      "total_same": 14166,
+      "topic_to_noise": 10,
+      "all_to_noise": 1892,
+      "topic_change": 10,
+      "topic_same": 54
+    }
+  },
+  "Topic_43": {
+    "protesters": {
+      "total_changes": 2682,
+      "total_same": 14102,
+      "topic_to_noise": 16,
+      "all_to_noise": 1965,
+      "topic_change": 17,
+      "topic_same": 46
+    },
+    "floyds": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 63
+    },
+    "george": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 63
+    },
+    "police": {
+      "total_changes": 2704,
+      "total_same": 14080,
+      "topic_to_noise": 16,
+      "all_to_noise": 1955,
+      "topic_change": 16,
+      "topic_same": 47
+    },
+    "officers": {
+      "total_changes": 2690,
+      "total_same": 14094,
+      "topic_to_noise": 17,
+      "all_to_noise": 1958,
+      "topic_change": 18,
+      "topic_same": 45
+    },
+    "death": {
+      "total_changes": 2681,
+      "total_same": 14103,
+      "topic_to_noise": 14,
+      "all_to_noise": 1957,
+      "topic_change": 15,
+      "topic_same": 48
+    },
+    "floyd": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 63
+    },
+    "protest": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 15,
+      "all_to_noise": 1940,
+      "topic_change": 15,
+      "topic_same": 48
+    },
+    "minneapolis": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 63
+    },
+    "protests": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 16,
+      "all_to_noise": 1905,
+      "topic_change": 16,
+      "topic_same": 47
+    }
+  },
+  "Topic_44": {
+    "trumps": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    },
+    "late": {
+      "total_changes": 2728,
+      "total_same": 14056,
+      "topic_to_noise": 17,
+      "all_to_noise": 1987,
+      "topic_change": 17,
+      "topic_same": 45
+    },
+    "show": {
+      "total_changes": 2597,
+      "total_same": 14187,
+      "topic_to_noise": 10,
+      "all_to_noise": 1907,
+      "topic_change": 12,
+      "topic_same": 50
+    },
+    "trevor": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    },
+    "colbert": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    },
+    "kimmel": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    },
+    "night": {
+      "total_changes": 2681,
+      "total_same": 14103,
+      "topic_to_noise": 10,
+      "all_to_noise": 1971,
+      "topic_change": 10,
+      "topic_same": 52
+    },
+    "stephen": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    },
+    "noah": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    },
+    "jimmy": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    }
+  },
+  "Topic_45": {
+    "workouts": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 14,
+      "all_to_noise": 1911,
+      "topic_change": 14,
+      "topic_same": 48
+    },
+    "weight": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 15,
+      "all_to_noise": 1941,
+      "topic_change": 15,
+      "topic_same": 47
+    },
+    "workout": {
+      "total_changes": 2661,
+      "total_same": 14123,
+      "topic_to_noise": 17,
+      "all_to_noise": 1977,
+      "topic_change": 17,
+      "topic_same": 45
+    },
+    "acupuncture": {
+      "total_changes": 2576,
+      "total_same": 14208,
+      "topic_to_noise": 15,
+      "all_to_noise": 1871,
+      "topic_change": 15,
+      "topic_same": 47
+    },
+    "fasting": {
+      "total_changes": 2584,
+      "total_same": 14200,
+      "topic_to_noise": 16,
+      "all_to_noise": 1867,
+      "topic_change": 18,
+      "topic_same": 44
+    },
+    "pain": {
+      "total_changes": 2679,
+      "total_same": 14105,
+      "topic_to_noise": 16,
+      "all_to_noise": 1966,
+      "topic_change": 16,
+      "topic_same": 46
+    },
+    "physical": {
+      "total_changes": 2621,
+      "total_same": 14163,
+      "topic_to_noise": 14,
+      "all_to_noise": 1893,
+      "topic_change": 14,
+      "topic_same": 48
+    },
+    "may": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 17,
+      "all_to_noise": 1924,
+      "topic_change": 17,
+      "topic_same": 45
+    },
+    "exercise": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 11,
+      "all_to_noise": 1880,
+      "topic_change": 12,
+      "topic_same": 50
+    },
+    "benefits": {
+      "total_changes": 2623,
+      "total_same": 14161,
+      "topic_to_noise": 17,
+      "all_to_noise": 1901,
+      "topic_change": 17,
+      "topic_same": 45
+    }
+  },
+  "Topic_46": {
+    "pennsylvania": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    },
+    "arizona": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    },
+    "leads": {
+      "total_changes": 2596,
+      "total_same": 14188,
+      "topic_to_noise": 21,
+      "all_to_noise": 1901,
+      "topic_change": 21,
+      "topic_same": 41
+    },
+    "poll": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 26,
+      "all_to_noise": 1917,
+      "topic_change": 26,
+      "topic_same": 36
+    },
+    "voters": {
+      "total_changes": 2702,
+      "total_same": 14082,
+      "topic_to_noise": 23,
+      "all_to_noise": 1925,
+      "topic_change": 23,
+      "topic_same": 39
+    },
+    "joe": {
+      "total_changes": 2634,
+      "total_same": 14150,
+      "topic_to_noise": 26,
+      "all_to_noise": 1915,
+      "topic_change": 26,
+      "topic_same": 36
+    },
+    "counties": {
+      "total_changes": 2625,
+      "total_same": 14159,
+      "topic_to_noise": 22,
+      "all_to_noise": 1909,
+      "topic_change": 22,
+      "topic_same": 40
+    },
+    "michigan": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    },
+    "race": {
+      "total_changes": 2623,
+      "total_same": 14161,
+      "topic_to_noise": 19,
+      "all_to_noise": 1923,
+      "topic_change": 19,
+      "topic_same": 43
+    },
+    "biden": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 62
+    }
+  },
+  "Topic_47": {
+    "buyers": {
+      "total_changes": 2634,
+      "total_same": 14150,
+      "topic_to_noise": 2,
+      "all_to_noise": 1934,
+      "topic_change": 2,
+      "topic_same": 56
+    },
+    "foreign": {
+      "total_changes": 2707,
+      "total_same": 14077,
+      "topic_to_noise": 1,
+      "all_to_noise": 1961,
+      "topic_change": 1,
+      "topic_same": 57
+    },
+    "housing": {
+      "total_changes": 2689,
+      "total_same": 14095,
+      "topic_to_noise": 3,
+      "all_to_noise": 1961,
+      "topic_change": 3,
+      "topic_same": 55
+    },
+    "villa": {
+      "total_changes": 2681,
+      "total_same": 14103,
+      "topic_to_noise": 1,
+      "all_to_noise": 1922,
+      "topic_change": 1,
+      "topic_same": 57
+    },
+    "island": {
+      "total_changes": 2682,
+      "total_same": 14102,
+      "topic_to_noise": 1,
+      "all_to_noise": 1935,
+      "topic_change": 1,
+      "topic_same": 57
+    },
+    "house": {
+      "total_changes": 2648,
+      "total_same": 14136,
+      "topic_to_noise": 2,
+      "all_to_noise": 1900,
+      "topic_change": 2,
+      "topic_same": 56
+    },
+    "prices": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 2,
+      "all_to_noise": 1911,
+      "topic_change": 2,
+      "topic_same": 56
+    },
+    "million": {
+      "total_changes": 2687,
+      "total_same": 14097,
+      "topic_to_noise": 2,
+      "all_to_noise": 1909,
+      "topic_change": 2,
+      "topic_same": 56
+    },
+    "hunting": {
+      "total_changes": 2609,
+      "total_same": 14175,
+      "topic_to_noise": 1,
+      "all_to_noise": 1889,
+      "topic_change": 1,
+      "topic_same": 57
+    },
+    "market": {
+      "total_changes": 2688,
+      "total_same": 14096,
+      "topic_to_noise": 2,
+      "all_to_noise": 1949,
+      "topic_change": 2,
+      "topic_same": 56
+    }
+  },
+  "Topic_48": {
+    "nyc": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 57
+    },
+    "school": {
+      "total_changes": 2702,
+      "total_same": 14082,
+      "topic_to_noise": 10,
+      "all_to_noise": 1993,
+      "topic_change": 10,
+      "topic_same": 47
+    },
+    "children": {
+      "total_changes": 2636,
+      "total_same": 14148,
+      "topic_to_noise": 15,
+      "all_to_noise": 1904,
+      "topic_change": 15,
+      "topic_same": 42
+    },
+    "parents": {
+      "total_changes": 2639,
+      "total_same": 14145,
+      "topic_to_noise": 15,
+      "all_to_noise": 1954,
+      "topic_change": 15,
+      "topic_same": 42
+    },
+    "mayor": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 12,
+      "all_to_noise": 1947,
+      "topic_change": 12,
+      "topic_same": 45
+    },
+    "students": {
+      "total_changes": 2702,
+      "total_same": 14082,
+      "topic_to_noise": 8,
+      "all_to_noise": 1957,
+      "topic_change": 8,
+      "topic_same": 49
+    },
+    "inperson": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 57
+    },
+    "schools": {
+      "total_changes": 2621,
+      "total_same": 14163,
+      "topic_to_noise": 17,
+      "all_to_noise": 1921,
+      "topic_change": 17,
+      "topic_same": 40
+    },
+    "reopening": {
+      "total_changes": 2706,
+      "total_same": 14078,
+      "topic_to_noise": 4,
+      "all_to_noise": 1955,
+      "topic_change": 4,
+      "topic_same": 53
+    },
+    "reopen": {
+      "total_changes": 2741,
+      "total_same": 14043,
+      "topic_to_noise": 12,
+      "all_to_noise": 1976,
+      "topic_change": 12,
+      "topic_same": 45
+    }
+  },
+  "Topic_49": {
+    "oregon": {
+      "total_changes": 2701,
+      "total_same": 14083,
+      "topic_to_noise": 14,
+      "all_to_noise": 1997,
+      "topic_change": 14,
+      "topic_same": 42
+    },
+    "wildfire": {
+      "total_changes": 2692,
+      "total_same": 14092,
+      "topic_to_noise": 14,
+      "all_to_noise": 1910,
+      "topic_change": 14,
+      "topic_same": 42
+    },
+    "firefighters": {
+      "total_changes": 2658,
+      "total_same": 14126,
+      "topic_to_noise": 9,
+      "all_to_noise": 1969,
+      "topic_change": 9,
+      "topic_same": 47
+    },
+    "fire": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 17,
+      "all_to_noise": 1918,
+      "topic_change": 18,
+      "topic_same": 38
+    },
+    "fires": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 12,
+      "all_to_noise": 1949,
+      "topic_change": 12,
+      "topic_same": 44
+    },
+    "california": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 56
+    },
+    "coast": {
+      "total_changes": 2706,
+      "total_same": 14078,
+      "topic_to_noise": 15,
+      "all_to_noise": 1971,
+      "topic_change": 15,
+      "topic_same": 41
+    },
+    "wildfires": {
+      "total_changes": 2691,
+      "total_same": 14093,
+      "topic_to_noise": 13,
+      "all_to_noise": 1937,
+      "topic_change": 13,
+      "topic_same": 43
+    },
+    "acres": {
+      "total_changes": 2683,
+      "total_same": 14101,
+      "topic_to_noise": 9,
+      "all_to_noise": 1939,
+      "topic_change": 9,
+      "topic_same": 47
+    },
+    "west": {
+      "total_changes": 2699,
+      "total_same": 14085,
+      "topic_to_noise": 8,
+      "all_to_noise": 1950,
+      "topic_change": 8,
+      "topic_same": 48
+    }
+  },
+  "Topic_50": {
+    "presidential": {
+      "total_changes": 2684,
+      "total_same": 14100,
+      "topic_to_noise": 0,
+      "all_to_noise": 1944,
+      "topic_change": 0,
+      "topic_same": 54
+    },
+    "caucuses": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 2,
+      "all_to_noise": 1895,
+      "topic_change": 3,
+      "topic_same": 51
+    },
+    "democrats": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 54
+    },
+    "democratic": {
+      "total_changes": 2648,
+      "total_same": 14136,
+      "topic_to_noise": 1,
+      "all_to_noise": 1948,
+      "topic_change": 1,
+      "topic_same": 53
+    },
+    "winner": {
+      "total_changes": 2656,
+      "total_same": 14128,
+      "topic_to_noise": 1,
+      "all_to_noise": 1924,
+      "topic_change": 1,
+      "topic_same": 53
+    },
+    "candidates": {
+      "total_changes": 2640,
+      "total_same": 14144,
+      "topic_to_noise": 3,
+      "all_to_noise": 1893,
+      "topic_change": 3,
+      "topic_same": 51
+    },
+    "iowas": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 54
+    },
+    "iowa": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 54
+    },
+    "results": {
+      "total_changes": 2565,
+      "total_same": 14219,
+      "topic_to_noise": 2,
+      "all_to_noise": 1873,
+      "topic_change": 2,
+      "topic_same": 52
+    },
+    "caucus": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 4,
+      "all_to_noise": 1921,
+      "topic_change": 5,
+      "topic_same": 49
+    }
+  },
+  "Topic_51": {
+    "disease": {
+      "total_changes": 2659,
+      "total_same": 14125,
+      "topic_to_noise": 14,
+      "all_to_noise": 1951,
+      "topic_change": 14,
+      "topic_same": 40
+    },
+    "alzheimers": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 54
+    },
+    "brain": {
+      "total_changes": 2611,
+      "total_same": 14173,
+      "topic_to_noise": 14,
+      "all_to_noise": 1914,
+      "topic_change": 14,
+      "topic_same": 40
+    },
+    "heart": {
+      "total_changes": 2631,
+      "total_same": 14153,
+      "topic_to_noise": 8,
+      "all_to_noise": 1918,
+      "topic_change": 8,
+      "topic_same": 46
+    },
+    "risk": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 6,
+      "all_to_noise": 1954,
+      "topic_change": 6,
+      "topic_same": 48
+    },
+    "dementia": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 8,
+      "all_to_noise": 1931,
+      "topic_change": 8,
+      "topic_same": 46
+    },
+    "tea": {
+      "total_changes": 2655,
+      "total_same": 14129,
+      "topic_to_noise": 11,
+      "all_to_noise": 1914,
+      "topic_change": 11,
+      "topic_same": 43
+    },
+    "tied": {
+      "total_changes": 2688,
+      "total_same": 14096,
+      "topic_to_noise": 6,
+      "all_to_noise": 1960,
+      "topic_change": 7,
+      "topic_same": 47
+    },
+    "diet": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 7,
+      "all_to_noise": 1959,
+      "topic_change": 7,
+      "topic_same": 47
+    },
+    "lower": {
+      "total_changes": 2629,
+      "total_same": 14155,
+      "topic_to_noise": 12,
+      "all_to_noise": 1904,
+      "topic_change": 12,
+      "topic_same": 42
+    }
+  },
+  "Topic_52": {
+    "tested": {
+      "total_changes": 2722,
+      "total_same": 14062,
+      "topic_to_noise": 13,
+      "all_to_noise": 1963,
+      "topic_change": 13,
+      "topic_same": 40
+    },
+    "test": {
+      "total_changes": 2677,
+      "total_same": 14107,
+      "topic_to_noise": 16,
+      "all_to_noise": 1952,
+      "topic_change": 16,
+      "topic_same": 37
+    },
+    "coronavirus": {
+      "total_changes": 2752,
+      "total_same": 14032,
+      "topic_to_noise": 14,
+      "all_to_noise": 1995,
+      "topic_change": 14,
+      "topic_same": 39
+    },
+    "tests": {
+      "total_changes": 2719,
+      "total_same": 14065,
+      "topic_to_noise": 18,
+      "all_to_noise": 1994,
+      "topic_change": 18,
+      "topic_same": 35
+    },
+    "symptoms": {
+      "total_changes": 2743,
+      "total_same": 14041,
+      "topic_to_noise": 12,
+      "all_to_noise": 2023,
+      "topic_change": 12,
+      "topic_same": 41
+    },
+    "testing": {
+      "total_changes": 2618,
+      "total_same": 14166,
+      "topic_to_noise": 14,
+      "all_to_noise": 1923,
+      "topic_change": 14,
+      "topic_same": 39
+    },
+    "negative": {
+      "total_changes": 2676,
+      "total_same": 14108,
+      "topic_to_noise": 12,
+      "all_to_noise": 1980,
+      "topic_change": 12,
+      "topic_same": 41
+    },
+    "cdc": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 53
+    },
+    "labs": {
+      "total_changes": 2677,
+      "total_same": 14107,
+      "topic_to_noise": 15,
+      "all_to_noise": 1960,
+      "topic_change": 15,
+      "topic_same": 38
+    },
+    "results": {
+      "total_changes": 2691,
+      "total_same": 14093,
+      "topic_to_noise": 19,
+      "all_to_noise": 1968,
+      "topic_change": 19,
+      "topic_same": 34
+    }
+  },
+  "Topic_53": {
+    "camp": {
+      "total_changes": 2621,
+      "total_same": 14163,
+      "topic_to_noise": 5,
+      "all_to_noise": 1917,
+      "topic_change": 5,
+      "topic_same": 47
+    },
+    "holocaust": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 52
+    },
+    "allied": {
+      "total_changes": 2686,
+      "total_same": 14098,
+      "topic_to_noise": 5,
+      "all_to_noise": 1945,
+      "topic_change": 5,
+      "topic_same": 47
+    },
+    "war": {
+      "total_changes": 2605,
+      "total_same": 14179,
+      "topic_to_noise": 6,
+      "all_to_noise": 1892,
+      "topic_change": 6,
+      "topic_same": 46
+    },
+    "father": {
+      "total_changes": 2658,
+      "total_same": 14126,
+      "topic_to_noise": 6,
+      "all_to_noise": 1945,
+      "topic_change": 6,
+      "topic_same": 46
+    },
+    "ii": {
+      "total_changes": 2644,
+      "total_same": 14140,
+      "topic_to_noise": 7,
+      "all_to_noise": 1945,
+      "topic_change": 7,
+      "topic_same": 45
+    },
+    "military": {
+      "total_changes": 2639,
+      "total_same": 14145,
+      "topic_to_noise": 6,
+      "all_to_noise": 1919,
+      "topic_change": 6,
+      "topic_same": 46
+    },
+    "auschwitz": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 52
+    },
+    "liberation": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 4,
+      "all_to_noise": 1916,
+      "topic_change": 4,
+      "topic_same": 48
+    },
+    "world": {
+      "total_changes": 2608,
+      "total_same": 14176,
+      "topic_to_noise": 7,
+      "all_to_noise": 1900,
+      "topic_change": 7,
+      "topic_same": 45
+    }
+  },
+  "Topic_54": {
+    "barr": {
+      "total_changes": 2752,
+      "total_same": 14032,
+      "topic_to_noise": 3,
+      "all_to_noise": 2000,
+      "topic_change": 3,
+      "topic_same": 49
+    },
+    "attorney": {
+      "total_changes": 2680,
+      "total_same": 14104,
+      "topic_to_noise": 3,
+      "all_to_noise": 1962,
+      "topic_change": 3,
+      "topic_same": 49
+    },
+    "stone": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 3,
+      "all_to_noise": 1928,
+      "topic_change": 3,
+      "topic_same": 49
+    },
+    "general": {
+      "total_changes": 2686,
+      "total_same": 14098,
+      "topic_to_noise": 3,
+      "all_to_noise": 1935,
+      "topic_change": 3,
+      "topic_same": 49
+    },
+    "barrs": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 52
+    },
+    "prosecutor": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 3,
+      "all_to_noise": 1911,
+      "topic_change": 3,
+      "topic_same": 49
+    },
+    "justice": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 2,
+      "all_to_noise": 1934,
+      "topic_change": 2,
+      "topic_same": 50
+    },
+    "department": {
+      "total_changes": 2636,
+      "total_same": 14148,
+      "topic_to_noise": 3,
+      "all_to_noise": 1943,
+      "topic_change": 4,
+      "topic_same": 48
+    },
+    "prosecutors": {
+      "total_changes": 2719,
+      "total_same": 14065,
+      "topic_to_noise": 4,
+      "all_to_noise": 2003,
+      "topic_change": 4,
+      "topic_same": 48
+    },
+    "roger": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 52
+    }
+  },
+  "Topic_55": {
+    "columnists": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 6,
+      "all_to_noise": 1962,
+      "topic_change": 6,
+      "topic_same": 46
+    },
+    "conventions": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 5,
+      "all_to_noise": 1889,
+      "topic_change": 5,
+      "topic_same": 47
+    },
+    "convention": {
+      "total_changes": 2690,
+      "total_same": 14094,
+      "topic_to_noise": 9,
+      "all_to_noise": 1951,
+      "topic_change": 9,
+      "topic_same": 43
+    },
+    "contributors": {
+      "total_changes": 2687,
+      "total_same": 14097,
+      "topic_to_noise": 8,
+      "all_to_noise": 1975,
+      "topic_change": 8,
+      "topic_same": 44
+    },
+    "republicans": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 52
+    },
+    "moments": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 5,
+      "all_to_noise": 1900,
+      "topic_change": 5,
+      "topic_same": 47
+    },
+    "rankings": {
+      "total_changes": 2718,
+      "total_same": 14066,
+      "topic_to_noise": 6,
+      "all_to_noise": 1974,
+      "topic_change": 6,
+      "topic_same": 46
+    },
+    "obama": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 52
+    },
+    "night": {
+      "total_changes": 2716,
+      "total_same": 14068,
+      "topic_to_noise": 3,
+      "all_to_noise": 1968,
+      "topic_change": 3,
+      "topic_same": 49
+    },
+    "republican": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 52
+    }
+  },
+  "Topic_56": {
+    "rowhouse": {
+      "total_changes": 2683,
+      "total_same": 14101,
+      "topic_to_noise": 3,
+      "all_to_noise": 1927,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "revival": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 2,
+      "all_to_noise": 1933,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "cottage": {
+      "total_changes": 2641,
+      "total_same": 14143,
+      "topic_to_noise": 4,
+      "all_to_noise": 1897,
+      "topic_change": 9,
+      "topic_same": 41
+    },
+    "house": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 3,
+      "all_to_noise": 1899,
+      "topic_change": 7,
+      "topic_same": 43
+    },
+    "million": {
+      "total_changes": 2683,
+      "total_same": 14101,
+      "topic_to_noise": 2,
+      "all_to_noise": 1937,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "home": {
+      "total_changes": 2706,
+      "total_same": 14078,
+      "topic_to_noise": 6,
+      "all_to_noise": 1993,
+      "topic_change": 9,
+      "topic_same": 41
+    },
+    "homes": {
+      "total_changes": 2652,
+      "total_same": 14132,
+      "topic_to_noise": 4,
+      "all_to_noise": 1915,
+      "topic_change": 6,
+      "topic_same": 44
+    },
+    "farmhouse": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 3,
+      "all_to_noise": 1937,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "tudor": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 50
+    },
+    "condo": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 4,
+      "all_to_noise": 1919,
+      "topic_change": 6,
+      "topic_same": 44
+    }
+  },
+  "Topic_57": {
+    "park": {
+      "total_changes": 2629,
+      "total_same": 14155,
+      "topic_to_noise": 1,
+      "all_to_noise": 1919,
+      "topic_change": 1,
+      "topic_same": 49
+    },
+    "properties": {
+      "total_changes": 2669,
+      "total_same": 14115,
+      "topic_to_noise": 4,
+      "all_to_noise": 1937,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "queens": {
+      "total_changes": 2702,
+      "total_same": 14082,
+      "topic_to_noise": 2,
+      "all_to_noise": 1942,
+      "topic_change": 3,
+      "topic_same": 47
+    },
+    "hill": {
+      "total_changes": 2552,
+      "total_same": 14232,
+      "topic_to_noise": 2,
+      "all_to_noise": 1866,
+      "topic_change": 2,
+      "topic_same": 48
+    },
+    "heights": {
+      "total_changes": 2672,
+      "total_same": 14112,
+      "topic_to_noise": 0,
+      "all_to_noise": 1913,
+      "topic_change": 0,
+      "topic_same": 50
+    },
+    "sale": {
+      "total_changes": 2718,
+      "total_same": 14066,
+      "topic_to_noise": 3,
+      "all_to_noise": 1998,
+      "topic_change": 3,
+      "topic_same": 47
+    },
+    "homes": {
+      "total_changes": 2601,
+      "total_same": 14183,
+      "topic_to_noise": 3,
+      "all_to_noise": 1873,
+      "topic_change": 3,
+      "topic_same": 47
+    },
+    "brooklyn": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 50
+    },
+    "weeks": {
+      "total_changes": 2758,
+      "total_same": 14026,
+      "topic_to_noise": 5,
+      "all_to_noise": 2016,
+      "topic_change": 6,
+      "topic_same": 44
+    },
+    "manhattan": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 50
+    }
+  },
+  "Topic_58": {
+    "aid": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 8,
+      "all_to_noise": 1945,
+      "topic_change": 8,
+      "topic_same": 42
+    },
+    "deal": {
+      "total_changes": 2600,
+      "total_same": 14184,
+      "topic_to_noise": 6,
+      "all_to_noise": 1864,
+      "topic_change": 6,
+      "topic_same": 44
+    },
+    "stimulus": {
+      "total_changes": 2707,
+      "total_same": 14077,
+      "topic_to_noise": 14,
+      "all_to_noise": 1966,
+      "topic_change": 16,
+      "topic_same": 34
+    },
+    "payments": {
+      "total_changes": 2711,
+      "total_same": 14073,
+      "topic_to_noise": 5,
+      "all_to_noise": 1985,
+      "topic_change": 5,
+      "topic_same": 45
+    },
+    "relief": {
+      "total_changes": 2671,
+      "total_same": 14113,
+      "topic_to_noise": 6,
+      "all_to_noise": 1954,
+      "topic_change": 6,
+      "topic_same": 44
+    },
+    "checks": {
+      "total_changes": 2631,
+      "total_same": 14153,
+      "topic_to_noise": 4,
+      "all_to_noise": 1926,
+      "topic_change": 4,
+      "topic_same": 46
+    },
+    "billion": {
+      "total_changes": 2759,
+      "total_same": 14025,
+      "topic_to_noise": 7,
+      "all_to_noise": 2002,
+      "topic_change": 7,
+      "topic_same": 43
+    },
+    "trillion": {
+      "total_changes": 2686,
+      "total_same": 14098,
+      "topic_to_noise": 6,
+      "all_to_noise": 1965,
+      "topic_change": 6,
+      "topic_same": 44
+    },
+    "package": {
+      "total_changes": 2735,
+      "total_same": 14049,
+      "topic_to_noise": 10,
+      "all_to_noise": 1996,
+      "topic_change": 10,
+      "topic_same": 40
+    },
+    "money": {
+      "total_changes": 2681,
+      "total_same": 14103,
+      "topic_to_noise": 7,
+      "all_to_noise": 1976,
+      "topic_change": 7,
+      "topic_same": 43
+    }
+  },
+  "Topic_59": {
+    "mandalorian": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 49
+    },
+    "trek": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 49
+    },
+    "recap": {
+      "total_changes": 2651,
+      "total_same": 14133,
+      "topic_to_noise": 0,
+      "all_to_noise": 1944,
+      "topic_change": 0,
+      "topic_same": 49
+    },
+    "season": {
+      "total_changes": 2725,
+      "total_same": 14059,
+      "topic_to_noise": 0,
+      "all_to_noise": 1997,
+      "topic_change": 0,
+      "topic_same": 49
+    },
+    "star": {
+      "total_changes": 2671,
+      "total_same": 14113,
+      "topic_to_noise": 0,
+      "all_to_noise": 1929,
+      "topic_change": 0,
+      "topic_same": 49
+    },
+    "picard": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 49
+    },
+    "fargo": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 49
+    },
+    "saul": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 0,
+      "all_to_noise": 1941,
+      "topic_change": 0,
+      "topic_same": 49
+    },
+    "episode": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 0,
+      "all_to_noise": 1950,
+      "topic_change": 0,
+      "topic_same": 49
+    },
+    "finale": {
+      "total_changes": 2617,
+      "total_same": 14167,
+      "topic_to_noise": 0,
+      "all_to_noise": 1915,
+      "topic_change": 0,
+      "topic_same": 49
+    }
+  },
+  "Topic_60": {
+    "plant": {
+      "total_changes": 2609,
+      "total_same": 14175,
+      "topic_to_noise": 4,
+      "all_to_noise": 1894,
+      "topic_change": 5,
+      "topic_same": 44
+    },
+    "fresh": {
+      "total_changes": 2677,
+      "total_same": 14107,
+      "topic_to_noise": 1,
+      "all_to_noise": 1920,
+      "topic_change": 1,
+      "topic_same": 48
+    },
+    "vegetables": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 3,
+      "all_to_noise": 1927,
+      "topic_change": 3,
+      "topic_same": 46
+    },
+    "flowers": {
+      "total_changes": 2673,
+      "total_same": 14111,
+      "topic_to_noise": 1,
+      "all_to_noise": 1934,
+      "topic_change": 1,
+      "topic_same": 48
+    },
+    "garden": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 6,
+      "all_to_noise": 1954,
+      "topic_change": 7,
+      "topic_same": 42
+    },
+    "you": {
+      "total_changes": 2690,
+      "total_same": 14094,
+      "topic_to_noise": 2,
+      "all_to_noise": 1959,
+      "topic_change": 2,
+      "topic_same": 47
+    },
+    "gardening": {
+      "total_changes": 2656,
+      "total_same": 14128,
+      "topic_to_noise": 1,
+      "all_to_noise": 1911,
+      "topic_change": 1,
+      "topic_same": 48
+    },
+    "gardens": {
+      "total_changes": 2694,
+      "total_same": 14090,
+      "topic_to_noise": 2,
+      "all_to_noise": 1952,
+      "topic_change": 2,
+      "topic_same": 47
+    },
+    "gardeners": {
+      "total_changes": 2700,
+      "total_same": 14084,
+      "topic_to_noise": 2,
+      "all_to_noise": 1956,
+      "topic_change": 3,
+      "topic_same": 46
+    },
+    "plants": {
+      "total_changes": 2635,
+      "total_same": 14149,
+      "topic_to_noise": 5,
+      "all_to_noise": 1916,
+      "topic_change": 6,
+      "topic_same": 43
+    }
+  },
+  "Topic_61": {
+    "100": {
+      "total_changes": 2692,
+      "total_same": 14092,
+      "topic_to_noise": 15,
+      "all_to_noise": 1977,
+      "topic_change": 16,
+      "topic_same": 32
+    },
+    "gymnasts": {
+      "total_changes": 2640,
+      "total_same": 14144,
+      "topic_to_noise": 15,
+      "all_to_noise": 1923,
+      "topic_change": 16,
+      "topic_same": 32
+    },
+    "she": {
+      "total_changes": 2730,
+      "total_same": 14054,
+      "topic_to_noise": 15,
+      "all_to_noise": 1969,
+      "topic_change": 16,
+      "topic_same": 32
+    },
+    "fastest": {
+      "total_changes": 2723,
+      "total_same": 14061,
+      "topic_to_noise": 13,
+      "all_to_noise": 1975,
+      "topic_change": 14,
+      "topic_same": 34
+    },
+    "coaching": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 12,
+      "all_to_noise": 1940,
+      "topic_change": 13,
+      "topic_same": 35
+    },
+    "olympics": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 48
+    },
+    "her": {
+      "total_changes": 2736,
+      "total_same": 14048,
+      "topic_to_noise": 14,
+      "all_to_noise": 1965,
+      "topic_change": 15,
+      "topic_same": 33
+    },
+    "marathon": {
+      "total_changes": 2611,
+      "total_same": 14173,
+      "topic_to_noise": 19,
+      "all_to_noise": 1900,
+      "topic_change": 20,
+      "topic_same": 28
+    },
+    "abuse": {
+      "total_changes": 2630,
+      "total_same": 14154,
+      "topic_to_noise": 14,
+      "all_to_noise": 1905,
+      "topic_change": 15,
+      "topic_same": 33
+    },
+    "olympic": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 48
+    }
+  },
+  "Topic_62": {
+    "defunding": {
+      "total_changes": 2755,
+      "total_same": 14029,
+      "topic_to_noise": 23,
+      "all_to_noise": 1994,
+      "topic_change": 23,
+      "topic_same": 25
+    },
+    "reform": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 19,
+      "all_to_noise": 1935,
+      "topic_change": 19,
+      "topic_same": 29
+    },
+    "police": {
+      "total_changes": 2703,
+      "total_same": 14081,
+      "topic_to_noise": 22,
+      "all_to_noise": 1970,
+      "topic_change": 23,
+      "topic_same": 25
+    },
+    "officers": {
+      "total_changes": 2737,
+      "total_same": 14047,
+      "topic_to_noise": 22,
+      "all_to_noise": 1986,
+      "topic_change": 22,
+      "topic_same": 26
+    },
+    "nypd": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 48
+    },
+    "departments": {
+      "total_changes": 2614,
+      "total_same": 14170,
+      "topic_to_noise": 18,
+      "all_to_noise": 1873,
+      "topic_change": 18,
+      "topic_same": 30
+    },
+    "cops": {
+      "total_changes": 2718,
+      "total_same": 14066,
+      "topic_to_noise": 17,
+      "all_to_noise": 2001,
+      "topic_change": 17,
+      "topic_same": 31
+    },
+    "defund": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 18,
+      "all_to_noise": 1954,
+      "topic_change": 18,
+      "topic_same": 30
+    },
+    "discipline": {
+      "total_changes": 2703,
+      "total_same": 14081,
+      "topic_to_noise": 25,
+      "all_to_noise": 1994,
+      "topic_change": 26,
+      "topic_same": 22
+    },
+    "misconduct": {
+      "total_changes": 2681,
+      "total_same": 14103,
+      "topic_to_noise": 17,
+      "all_to_noise": 1961,
+      "topic_change": 18,
+      "topic_same": 30
+    }
+  },
+  "Topic_63": {
+    "affordable": {
+      "total_changes": 2591,
+      "total_same": 14193,
+      "topic_to_noise": 5,
+      "all_to_noise": 1906,
+      "topic_change": 5,
+      "topic_same": 43
+    },
+    "supreme": {
+      "total_changes": 2692,
+      "total_same": 14092,
+      "topic_to_noise": 4,
+      "all_to_noise": 1950,
+      "topic_change": 4,
+      "topic_same": 44
+    },
+    "health": {
+      "total_changes": 2717,
+      "total_same": 14067,
+      "topic_to_noise": 6,
+      "all_to_noise": 1992,
+      "topic_change": 7,
+      "topic_same": 41
+    },
+    "care": {
+      "total_changes": 2648,
+      "total_same": 14136,
+      "topic_to_noise": 12,
+      "all_to_noise": 1926,
+      "topic_change": 14,
+      "topic_same": 34
+    },
+    "insurance": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 6,
+      "all_to_noise": 1952,
+      "topic_change": 7,
+      "topic_same": 41
+    },
+    "medicare": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 48
+    },
+    "coverage": {
+      "total_changes": 2562,
+      "total_same": 14222,
+      "topic_to_noise": 3,
+      "all_to_noise": 1871,
+      "topic_change": 3,
+      "topic_same": 45
+    },
+    "medicaid": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 48
+    },
+    "obamacare": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 48
+    },
+    "act": {
+      "total_changes": 2672,
+      "total_same": 14112,
+      "topic_to_noise": 3,
+      "all_to_noise": 1923,
+      "topic_change": 3,
+      "topic_same": 45
+    }
+  },
+  "Topic_64": {
+    "rohingya": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "turkey": {
+      "total_changes": 2696,
+      "total_same": 14088,
+      "topic_to_noise": 9,
+      "all_to_noise": 1969,
+      "topic_change": 9,
+      "topic_same": 37
+    },
+    "conflict": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 13,
+      "all_to_noise": 1868,
+      "topic_change": 13,
+      "topic_same": 33
+    },
+    "syria": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "turkish": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "syrian": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "war": {
+      "total_changes": 2720,
+      "total_same": 14064,
+      "topic_to_noise": 13,
+      "all_to_noise": 1957,
+      "topic_change": 13,
+      "topic_same": 33
+    },
+    "myanmar": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "soldiers": {
+      "total_changes": 2570,
+      "total_same": 14214,
+      "topic_to_noise": 10,
+      "all_to_noise": 1879,
+      "topic_change": 10,
+      "topic_same": 36
+    },
+    "alassad": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    }
+  },
+  "Topic_65": {
+    "chinese": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "ban": {
+      "total_changes": 2692,
+      "total_same": 14092,
+      "topic_to_noise": 0,
+      "all_to_noise": 1941,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "app": {
+      "total_changes": 2702,
+      "total_same": 14082,
+      "topic_to_noise": 1,
+      "all_to_noise": 1969,
+      "topic_change": 1,
+      "topic_same": 45
+    },
+    "media": {
+      "total_changes": 2684,
+      "total_same": 14100,
+      "topic_to_noise": 0,
+      "all_to_noise": 1973,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "microsoft": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "wechat": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "tiktok": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "apps": {
+      "total_changes": 2692,
+      "total_same": 14092,
+      "topic_to_noise": 0,
+      "all_to_noise": 1967,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "chineseowned": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    },
+    "tiktoks": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 46
+    }
+  },
+  "Topic_66": {
+    "vote": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 13,
+      "all_to_noise": 1933,
+      "topic_change": 14,
+      "topic_same": 29
+    },
+    "absentee": {
+      "total_changes": 2638,
+      "total_same": 14146,
+      "topic_to_noise": 19,
+      "all_to_noise": 1917,
+      "topic_change": 20,
+      "topic_same": 23
+    },
+    "mailin": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 43
+    },
+    "ballots": {
+      "total_changes": 2630,
+      "total_same": 14154,
+      "topic_to_noise": 18,
+      "all_to_noise": 1915,
+      "topic_change": 19,
+      "topic_same": 24
+    },
+    "counting": {
+      "total_changes": 2650,
+      "total_same": 14134,
+      "topic_to_noise": 17,
+      "all_to_noise": 1923,
+      "topic_change": 19,
+      "topic_same": 24
+    },
+    "mail": {
+      "total_changes": 2638,
+      "total_same": 14146,
+      "topic_to_noise": 15,
+      "all_to_noise": 1908,
+      "topic_change": 15,
+      "topic_same": 28
+    },
+    "voting": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 14,
+      "all_to_noise": 1925,
+      "topic_change": 15,
+      "topic_same": 28
+    },
+    "election": {
+      "total_changes": 2684,
+      "total_same": 14100,
+      "topic_to_noise": 14,
+      "all_to_noise": 1941,
+      "topic_change": 15,
+      "topic_same": 28
+    },
+    "early": {
+      "total_changes": 2689,
+      "total_same": 14095,
+      "topic_to_noise": 22,
+      "all_to_noise": 1968,
+      "topic_change": 23,
+      "topic_same": 20
+    },
+    "elections": {
+      "total_changes": 2638,
+      "total_same": 14146,
+      "topic_to_noise": 14,
+      "all_to_noise": 1941,
+      "topic_change": 15,
+      "topic_same": 28
+    }
+  },
+  "Topic_67": {
+    "we": {
+      "total_changes": 2814,
+      "total_same": 13970,
+      "topic_to_noise": 25,
+      "all_to_noise": 2027,
+      "topic_change": 25,
+      "topic_same": 18
+    },
+    "jr": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 43
+    },
+    "experts": {
+      "total_changes": 2756,
+      "total_same": 14028,
+      "topic_to_noise": 21,
+      "all_to_noise": 2029,
+      "topic_change": 21,
+      "topic_same": 22
+    },
+    "pandemic": {
+      "total_changes": 2730,
+      "total_same": 14054,
+      "topic_to_noise": 15,
+      "all_to_noise": 1987,
+      "topic_change": 15,
+      "topic_same": 28
+    },
+    "what": {
+      "total_changes": 2686,
+      "total_same": 14098,
+      "topic_to_noise": 16,
+      "all_to_noise": 1967,
+      "topic_change": 16,
+      "topic_same": 27
+    },
+    "coronavirus": {
+      "total_changes": 2712,
+      "total_same": 14072,
+      "topic_to_noise": 20,
+      "all_to_noise": 1979,
+      "topic_change": 20,
+      "topic_same": 23
+    },
+    "understand": {
+      "total_changes": 2643,
+      "total_same": 14141,
+      "topic_to_noise": 17,
+      "all_to_noise": 1919,
+      "topic_change": 17,
+      "topic_same": 26
+    },
+    "mcneil": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 43
+    },
+    "panic": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 12,
+      "all_to_noise": 1901,
+      "topic_change": 13,
+      "topic_same": 30
+    },
+    "about": {
+      "total_changes": 2691,
+      "total_same": 14093,
+      "topic_to_noise": 22,
+      "all_to_noise": 1961,
+      "topic_change": 23,
+      "topic_same": 20
+    }
+  },
+  "Topic_68": {
+    "school": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 21,
+      "all_to_noise": 1910,
+      "topic_change": 22,
+      "topic_same": 19
+    },
+    "children": {
+      "total_changes": 2618,
+      "total_same": 14166,
+      "topic_to_noise": 21,
+      "all_to_noise": 1902,
+      "topic_change": 23,
+      "topic_same": 18
+    },
+    "kids": {
+      "total_changes": 2655,
+      "total_same": 14129,
+      "topic_to_noise": 22,
+      "all_to_noise": 1913,
+      "topic_change": 24,
+      "topic_same": 17
+    },
+    "classroom": {
+      "total_changes": 2610,
+      "total_same": 14174,
+      "topic_to_noise": 18,
+      "all_to_noise": 1882,
+      "topic_change": 20,
+      "topic_same": 21
+    },
+    "parents": {
+      "total_changes": 2673,
+      "total_same": 14111,
+      "topic_to_noise": 25,
+      "all_to_noise": 1970,
+      "topic_change": 27,
+      "topic_same": 14
+    },
+    "learning": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 21,
+      "all_to_noise": 1908,
+      "topic_change": 25,
+      "topic_same": 16
+    },
+    "snow": {
+      "total_changes": 2656,
+      "total_same": 14128,
+      "topic_to_noise": 23,
+      "all_to_noise": 1917,
+      "topic_change": 24,
+      "topic_same": 17
+    },
+    "remote": {
+      "total_changes": 2671,
+      "total_same": 14113,
+      "topic_to_noise": 23,
+      "all_to_noise": 1951,
+      "topic_change": 25,
+      "topic_same": 16
+    },
+    "education": {
+      "total_changes": 2639,
+      "total_same": 14145,
+      "topic_to_noise": 21,
+      "all_to_noise": 1953,
+      "topic_change": 22,
+      "topic_same": 19
+    },
+    "schools": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 22,
+      "all_to_noise": 1908,
+      "topic_change": 23,
+      "topic_same": 18
+    }
+  },
+  "Topic_69": {
+    "arab": {
+      "total_changes": 2721,
+      "total_same": 14063,
+      "topic_to_noise": 0,
+      "all_to_noise": 1972,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "minister": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 0,
+      "all_to_noise": 1924,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "israeli": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "palestinian": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "netanyahu": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "prime": {
+      "total_changes": 2682,
+      "total_same": 14102,
+      "topic_to_noise": 0,
+      "all_to_noise": 1933,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "israel": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "emirates": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "benjamin": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 41
+    },
+    "palestinians": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 41
+    }
+  },
+  "Topic_70": {
+    "nj": {
+      "total_changes": 2648,
+      "total_same": 14136,
+      "topic_to_noise": 4,
+      "all_to_noise": 1907,
+      "topic_change": 4,
+      "topic_same": 36
+    },
+    "properties": {
+      "total_changes": 2754,
+      "total_same": 14030,
+      "topic_to_noise": 3,
+      "all_to_noise": 2018,
+      "topic_change": 3,
+      "topic_same": 37
+    },
+    "fourbedroom": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 40
+    },
+    "jersey": {
+      "total_changes": 2668,
+      "total_same": 14116,
+      "topic_to_noise": 2,
+      "all_to_noise": 1944,
+      "topic_change": 3,
+      "topic_same": 37
+    },
+    "township": {
+      "total_changes": 2643,
+      "total_same": 14141,
+      "topic_to_noise": 2,
+      "all_to_noise": 1936,
+      "topic_change": 3,
+      "topic_same": 37
+    },
+    "fivebedroom": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 40
+    },
+    "sale": {
+      "total_changes": 2599,
+      "total_same": 14185,
+      "topic_to_noise": 2,
+      "all_to_noise": 1885,
+      "topic_change": 3,
+      "topic_same": 37
+    },
+    "homes": {
+      "total_changes": 2639,
+      "total_same": 14145,
+      "topic_to_noise": 2,
+      "all_to_noise": 1940,
+      "topic_change": 3,
+      "topic_same": 37
+    },
+    "county": {
+      "total_changes": 2627,
+      "total_same": 14157,
+      "topic_to_noise": 5,
+      "all_to_noise": 1896,
+      "topic_change": 6,
+      "topic_same": 34
+    },
+    "ny": {
+      "total_changes": 2699,
+      "total_same": 14085,
+      "topic_to_noise": 2,
+      "all_to_noise": 1968,
+      "topic_change": 4,
+      "topic_same": 36
+    }
+  },
+  "Topic_71": {
+    "silicon": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "techs": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "big": {
+      "total_changes": 2706,
+      "total_same": 14078,
+      "topic_to_noise": 13,
+      "all_to_noise": 1955,
+      "topic_change": 13,
+      "topic_same": 26
+    },
+    "facebook": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "apple": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 12,
+      "all_to_noise": 1935,
+      "topic_change": 13,
+      "topic_same": 26
+    },
+    "tech": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 16,
+      "all_to_noise": 1949,
+      "topic_change": 17,
+      "topic_same": 22
+    },
+    "companies": {
+      "total_changes": 2612,
+      "total_same": 14172,
+      "topic_to_noise": 15,
+      "all_to_noise": 1877,
+      "topic_change": 16,
+      "topic_same": 23
+    },
+    "hearing": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 10,
+      "all_to_noise": 1923,
+      "topic_change": 10,
+      "topic_same": 29
+    },
+    "amazon": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    },
+    "google": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 39
+    }
+  },
+  "Topic_72": {
+    "de": {
+      "total_changes": 2977,
+      "total_same": 13807,
+      "topic_to_noise": 2,
+      "all_to_noise": 2147,
+      "topic_change": 2,
+      "topic_same": 36
+    },
+    "yang": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 1,
+      "all_to_noise": 1949,
+      "topic_change": 1,
+      "topic_same": 37
+    },
+    "dinkins": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "mayor": {
+      "total_changes": 2622,
+      "total_same": 14162,
+      "topic_to_noise": 7,
+      "all_to_noise": 1902,
+      "topic_change": 7,
+      "topic_same": 31
+    },
+    "blasio": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "mayoral": {
+      "total_changes": 2606,
+      "total_same": 14178,
+      "topic_to_noise": 0,
+      "all_to_noise": 1883,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "mayors": {
+      "total_changes": 2651,
+      "total_same": 14133,
+      "topic_to_noise": 0,
+      "all_to_noise": 1914,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "stopandfrisk": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "race": {
+      "total_changes": 2599,
+      "total_same": 14185,
+      "topic_to_noise": 0,
+      "all_to_noise": 1897,
+      "topic_change": 0,
+      "topic_same": 38
+    },
+    "bill": {
+      "total_changes": 2657,
+      "total_same": 14127,
+      "topic_to_noise": 1,
+      "all_to_noise": 1946,
+      "topic_change": 1,
+      "topic_same": 37
+    }
+  },
+  "Topic_73": {
+    "coins": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 1,
+      "all_to_noise": 1949,
+      "topic_change": 1,
+      "topic_same": 37
+    },
+    "tell": {
+      "total_changes": 2721,
+      "total_same": 14063,
+      "topic_to_noise": 3,
+      "all_to_noise": 1988,
+      "topic_change": 3,
+      "topic_same": 35
+    },
+    "this": {
+      "total_changes": 2670,
+      "total_same": 14114,
+      "topic_to_noise": 3,
+      "all_to_noise": 1936,
+      "topic_change": 3,
+      "topic_same": 35
+    },
+    "you": {
+      "total_changes": 2709,
+      "total_same": 14075,
+      "topic_to_noise": 2,
+      "all_to_noise": 1963,
+      "topic_change": 2,
+      "topic_same": 36
+    },
+    "inspire": {
+      "total_changes": 2715,
+      "total_same": 14069,
+      "topic_to_noise": 2,
+      "all_to_noise": 1974,
+      "topic_change": 2,
+      "topic_same": 36
+    },
+    "what": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 3,
+      "all_to_noise": 1941,
+      "topic_change": 3,
+      "topic_same": 35
+    },
+    "could": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 4,
+      "all_to_noise": 1957,
+      "topic_change": 4,
+      "topic_same": 34
+    },
+    "story": {
+      "total_changes": 2701,
+      "total_same": 14083,
+      "topic_to_noise": 7,
+      "all_to_noise": 1983,
+      "topic_change": 12,
+      "topic_same": 26
+    },
+    "image": {
+      "total_changes": 2758,
+      "total_same": 14026,
+      "topic_to_noise": 5,
+      "all_to_noise": 2019,
+      "topic_change": 7,
+      "topic_same": 31
+    },
+    "does": {
+      "total_changes": 2688,
+      "total_same": 14096,
+      "topic_to_noise": 1,
+      "all_to_noise": 1953,
+      "topic_change": 1,
+      "topic_same": 37
+    }
+  },
+  "Topic_74": {
+    "his": {
+      "total_changes": 2717,
+      "total_same": 14067,
+      "topic_to_noise": 0,
+      "all_to_noise": 1967,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "debate": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 1,
+      "all_to_noise": 1929,
+      "topic_change": 1,
+      "topic_same": 36
+    },
+    "presidential": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 0,
+      "all_to_noise": 1926,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "rivals": {
+      "total_changes": 2655,
+      "total_same": 14129,
+      "topic_to_noise": 2,
+      "all_to_noise": 1941,
+      "topic_change": 2,
+      "topic_same": 35
+    },
+    "democrats": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "bloomberg": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "democratic": {
+      "total_changes": 2696,
+      "total_same": 14088,
+      "topic_to_noise": 0,
+      "all_to_noise": 1976,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "billionaires": {
+      "total_changes": 2625,
+      "total_same": 14159,
+      "topic_to_noise": 0,
+      "all_to_noise": 1932,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "michael": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "bloombergs": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    }
+  },
+  "Topic_75": {
+    "lessons": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 6,
+      "all_to_noise": 1924,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "me": {
+      "total_changes": 2984,
+      "total_same": 13800,
+      "topic_to_noise": 8,
+      "all_to_noise": 2188,
+      "topic_change": 9,
+      "topic_same": 28
+    },
+    "scars": {
+      "total_changes": 2738,
+      "total_same": 14046,
+      "topic_to_noise": 6,
+      "all_to_noise": 2000,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "felt": {
+      "total_changes": 2711,
+      "total_same": 14073,
+      "topic_to_noise": 6,
+      "all_to_noise": 1986,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "son": {
+      "total_changes": 2696,
+      "total_same": 14088,
+      "topic_to_noise": 14,
+      "all_to_noise": 1913,
+      "topic_change": 14,
+      "topic_same": 23
+    },
+    "reflect": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 8,
+      "all_to_noise": 1941,
+      "topic_change": 8,
+      "topic_same": 29
+    },
+    "fathers": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 11,
+      "all_to_noise": 1912,
+      "topic_change": 11,
+      "topic_same": 26
+    },
+    "father": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 9,
+      "all_to_noise": 1939,
+      "topic_change": 9,
+      "topic_same": 28
+    },
+    "my": {
+      "total_changes": 2698,
+      "total_same": 14086,
+      "topic_to_noise": 8,
+      "all_to_noise": 1962,
+      "topic_change": 8,
+      "topic_same": 29
+    },
+    "dad": {
+      "total_changes": 2744,
+      "total_same": 14040,
+      "topic_to_noise": 10,
+      "all_to_noise": 2010,
+      "topic_change": 10,
+      "topic_same": 27
+    }
+  },
+  "Topic_76": {
+    "amy": {
+      "total_changes": 2645,
+      "total_same": 14139,
+      "topic_to_noise": 6,
+      "all_to_noise": 1939,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "court": {
+      "total_changes": 2657,
+      "total_same": 14127,
+      "topic_to_noise": 3,
+      "all_to_noise": 1925,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "supreme": {
+      "total_changes": 2718,
+      "total_same": 14066,
+      "topic_to_noise": 4,
+      "all_to_noise": 1946,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "judge": {
+      "total_changes": 2748,
+      "total_same": 14036,
+      "topic_to_noise": 4,
+      "all_to_noise": 1988,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "hearings": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 3,
+      "all_to_noise": 1954,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "confirmation": {
+      "total_changes": 2619,
+      "total_same": 14165,
+      "topic_to_noise": 3,
+      "all_to_noise": 1911,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "coney": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "barrett": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "barretts": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "nominee": {
+      "total_changes": 2701,
+      "total_same": 14083,
+      "topic_to_noise": 8,
+      "all_to_noise": 1987,
+      "topic_change": 8,
+      "topic_same": 29
+    }
+  },
+  "Topic_77": {
+    "ban": {
+      "total_changes": 2685,
+      "total_same": 14099,
+      "topic_to_noise": 4,
+      "all_to_noise": 1940,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "countries": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 3,
+      "all_to_noise": 1947,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "block": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 2,
+      "all_to_noise": 1927,
+      "topic_change": 2,
+      "topic_same": 35
+    },
+    "travel": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 6,
+      "all_to_noise": 1893,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "immigrants": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 3,
+      "all_to_noise": 1949,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "daca": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "administration": {
+      "total_changes": 2656,
+      "total_same": 14128,
+      "topic_to_noise": 2,
+      "all_to_noise": 1914,
+      "topic_change": 2,
+      "topic_same": 35
+    },
+    "entry": {
+      "total_changes": 2643,
+      "total_same": 14141,
+      "topic_to_noise": 4,
+      "all_to_noise": 1902,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "visas": {
+      "total_changes": 2699,
+      "total_same": 14085,
+      "topic_to_noise": 2,
+      "all_to_noise": 1952,
+      "topic_change": 2,
+      "topic_same": 35
+    },
+    "immigration": {
+      "total_changes": 2628,
+      "total_same": 14156,
+      "topic_to_noise": 4,
+      "all_to_noise": 1885,
+      "topic_change": 4,
+      "topic_same": 33
+    }
+  },
+  "Topic_78": {
+    "debate": {
+      "total_changes": 2711,
+      "total_same": 14073,
+      "topic_to_noise": 5,
+      "all_to_noise": 1969,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "presidential": {
+      "total_changes": 2627,
+      "total_same": 14157,
+      "topic_to_noise": 3,
+      "all_to_noise": 1921,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "final": {
+      "total_changes": 2635,
+      "total_same": 14149,
+      "topic_to_noise": 3,
+      "all_to_noise": 1889,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "voters": {
+      "total_changes": 2554,
+      "total_same": 14230,
+      "topic_to_noise": 3,
+      "all_to_noise": 1850,
+      "topic_change": 4,
+      "topic_same": 33
+    },
+    "nbc": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "joe": {
+      "total_changes": 2676,
+      "total_same": 14108,
+      "topic_to_noise": 5,
+      "all_to_noise": 1947,
+      "topic_change": 5,
+      "topic_same": 32
+    },
+    "matchup": {
+      "total_changes": 2656,
+      "total_same": 14128,
+      "topic_to_noise": 2,
+      "all_to_noise": 1924,
+      "topic_change": 2,
+      "topic_same": 35
+    },
+    "trump": {
+      "total_changes": 2627,
+      "total_same": 14157,
+      "topic_to_noise": 2,
+      "all_to_noise": 1942,
+      "topic_change": 2,
+      "topic_same": 35
+    },
+    "debates": {
+      "total_changes": 2673,
+      "total_same": 14111,
+      "topic_to_noise": 6,
+      "all_to_noise": 1940,
+      "topic_change": 6,
+      "topic_same": 31
+    },
+    "biden": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    }
+  },
+  "Topic_79": {
+    "judge": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 0,
+      "all_to_noise": 1896,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "adviser": {
+      "total_changes": 2628,
+      "total_same": 14156,
+      "topic_to_noise": 0,
+      "all_to_noise": 1891,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "flynn": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "pardon": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 3,
+      "all_to_noise": 1907,
+      "topic_change": 3,
+      "topic_same": 34
+    },
+    "dept": {
+      "total_changes": 2636,
+      "total_same": 14148,
+      "topic_to_noise": 1,
+      "all_to_noise": 1912,
+      "topic_change": 1,
+      "topic_same": 36
+    },
+    "guilty": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 0,
+      "all_to_noise": 1902,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "michael": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 37
+    },
+    "pardons": {
+      "total_changes": 2638,
+      "total_same": 14146,
+      "topic_to_noise": 1,
+      "all_to_noise": 1916,
+      "topic_change": 1,
+      "topic_same": 36
+    },
+    "case": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 2,
+      "all_to_noise": 1926,
+      "topic_change": 2,
+      "topic_same": 35
+    },
+    "clemency": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 1,
+      "all_to_noise": 1942,
+      "topic_change": 1,
+      "topic_same": 36
+    }
+  },
+  "Topic_80": {
+    "women": {
+      "total_changes": 2618,
+      "total_same": 14166,
+      "topic_to_noise": 5,
+      "all_to_noise": 1920,
+      "topic_change": 5,
+      "topic_same": 31
+    },
+    "higher": {
+      "total_changes": 2634,
+      "total_same": 14150,
+      "topic_to_noise": 5,
+      "all_to_noise": 1914,
+      "topic_change": 5,
+      "topic_same": 31
+    },
+    "risk": {
+      "total_changes": 2593,
+      "total_same": 14191,
+      "topic_to_noise": 6,
+      "all_to_noise": 1894,
+      "topic_change": 6,
+      "topic_same": 30
+    },
+    "birth": {
+      "total_changes": 2707,
+      "total_same": 14077,
+      "topic_to_noise": 6,
+      "all_to_noise": 1989,
+      "topic_change": 7,
+      "topic_same": 29
+    },
+    "babies": {
+      "total_changes": 2719,
+      "total_same": 14065,
+      "topic_to_noise": 6,
+      "all_to_noise": 1974,
+      "topic_change": 6,
+      "topic_same": 30
+    },
+    "premature": {
+      "total_changes": 2619,
+      "total_same": 14165,
+      "topic_to_noise": 8,
+      "all_to_noise": 1892,
+      "topic_change": 8,
+      "topic_same": 28
+    },
+    "increased": {
+      "total_changes": 2644,
+      "total_same": 14140,
+      "topic_to_noise": 4,
+      "all_to_noise": 1878,
+      "topic_change": 4,
+      "topic_same": 32
+    },
+    "tied": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 6,
+      "all_to_noise": 1929,
+      "topic_change": 6,
+      "topic_same": 30
+    },
+    "pregnancy": {
+      "total_changes": 2694,
+      "total_same": 14090,
+      "topic_to_noise": 7,
+      "all_to_noise": 1961,
+      "topic_change": 7,
+      "topic_same": 29
+    },
+    "diabetes": {
+      "total_changes": 2656,
+      "total_same": 14128,
+      "topic_to_noise": 2,
+      "all_to_noise": 1933,
+      "topic_change": 2,
+      "topic_same": 34
+    }
+  },
+  "Topic_81": {
+    "73": {
+      "total_changes": 2683,
+      "total_same": 14101,
+      "topic_to_noise": 14,
+      "all_to_noise": 1946,
+      "topic_change": 14,
+      "topic_same": 22
+    },
+    "died": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 11,
+      "all_to_noise": 1990,
+      "topic_change": 11,
+      "topic_same": 25
+    },
+    "petrocelli": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 36
+    },
+    "at": {
+      "total_changes": 3153,
+      "total_same": 13631,
+      "topic_to_noise": 8,
+      "all_to_noise": 2233,
+      "topic_change": 8,
+      "topic_same": 28
+    },
+    "mr": {
+      "total_changes": 2657,
+      "total_same": 14127,
+      "topic_to_noise": 8,
+      "all_to_noise": 1928,
+      "topic_change": 8,
+      "topic_same": 28
+    },
+    "dies": {
+      "total_changes": 2682,
+      "total_same": 14102,
+      "topic_to_noise": 6,
+      "all_to_noise": 1956,
+      "topic_change": 6,
+      "topic_same": 30
+    },
+    "ireland": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 36
+    },
+    "peace": {
+      "total_changes": 2720,
+      "total_same": 14064,
+      "topic_to_noise": 9,
+      "all_to_noise": 1948,
+      "topic_change": 9,
+      "topic_same": 27
+    },
+    "moi": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 10,
+      "all_to_noise": 1933,
+      "topic_change": 10,
+      "topic_same": 26
+    },
+    "he": {
+      "total_changes": 3170,
+      "total_same": 13614,
+      "topic_to_noise": 6,
+      "all_to_noise": 2247,
+      "topic_change": 7,
+      "topic_same": 29
+    }
+  },
+  "Topic_82": {
+    "gaming": {
+      "total_changes": 2691,
+      "total_same": 14093,
+      "topic_to_noise": 1,
+      "all_to_noise": 1936,
+      "topic_change": 3,
+      "topic_same": 33
+    },
+    "games": {
+      "total_changes": 2669,
+      "total_same": 14115,
+      "topic_to_noise": 0,
+      "all_to_noise": 1932,
+      "topic_change": 2,
+      "topic_same": 34
+    },
+    "playstation": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 36
+    },
+    "video": {
+      "total_changes": 2711,
+      "total_same": 14073,
+      "topic_to_noise": 0,
+      "all_to_noise": 1971,
+      "topic_change": 1,
+      "topic_same": 35
+    },
+    "play": {
+      "total_changes": 2684,
+      "total_same": 14100,
+      "topic_to_noise": 0,
+      "all_to_noise": 1946,
+      "topic_change": 1,
+      "topic_same": 35
+    },
+    "esports": {
+      "total_changes": 2630,
+      "total_same": 14154,
+      "topic_to_noise": 2,
+      "all_to_noise": 1923,
+      "topic_change": 2,
+      "topic_same": 34
+    },
+    "game": {
+      "total_changes": 2686,
+      "total_same": 14098,
+      "topic_to_noise": 1,
+      "all_to_noise": 1946,
+      "topic_change": 2,
+      "topic_same": 34
+    },
+    "virtual": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 1,
+      "all_to_noise": 1938,
+      "topic_change": 1,
+      "topic_same": 35
+    },
+    "xbox": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 36
+    },
+    "microsofts": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 36
+    }
+  },
+  "Topic_83": {
+    "hospitals": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 13,
+      "all_to_noise": 1915,
+      "topic_change": 14,
+      "topic_same": 21
+    },
+    "care": {
+      "total_changes": 2728,
+      "total_same": 14056,
+      "topic_to_noise": 11,
+      "all_to_noise": 1978,
+      "topic_change": 11,
+      "topic_same": 24
+    },
+    "medical": {
+      "total_changes": 2602,
+      "total_same": 14182,
+      "topic_to_noise": 13,
+      "all_to_noise": 1859,
+      "topic_change": 13,
+      "topic_same": 22
+    },
+    "patients": {
+      "total_changes": 2718,
+      "total_same": 14066,
+      "topic_to_noise": 14,
+      "all_to_noise": 1968,
+      "topic_change": 14,
+      "topic_same": 21
+    },
+    "nurse": {
+      "total_changes": 2701,
+      "total_same": 14083,
+      "topic_to_noise": 11,
+      "all_to_noise": 1954,
+      "topic_change": 11,
+      "topic_same": 24
+    },
+    "nurses": {
+      "total_changes": 2634,
+      "total_same": 14150,
+      "topic_to_noise": 16,
+      "all_to_noise": 1928,
+      "topic_change": 16,
+      "topic_same": 19
+    },
+    "im": {
+      "total_changes": 2894,
+      "total_same": 13890,
+      "topic_to_noise": 16,
+      "all_to_noise": 2116,
+      "topic_change": 16,
+      "topic_same": 19
+    },
+    "nursing": {
+      "total_changes": 2655,
+      "total_same": 14129,
+      "topic_to_noise": 18,
+      "all_to_noise": 1917,
+      "topic_change": 18,
+      "topic_same": 17
+    },
+    "doctors": {
+      "total_changes": 2681,
+      "total_same": 14103,
+      "topic_to_noise": 17,
+      "all_to_noise": 1943,
+      "topic_change": 17,
+      "topic_same": 18
+    },
+    "doctor": {
+      "total_changes": 2695,
+      "total_same": 14089,
+      "topic_to_noise": 18,
+      "all_to_noise": 1959,
+      "topic_change": 19,
+      "topic_same": 16
+    }
+  },
+  "Topic_84": {
+    "trumps": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "tilting": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 5,
+      "all_to_noise": 1918,
+      "topic_change": 5,
+      "topic_same": 30
+    },
+    "black": {
+      "total_changes": 2710,
+      "total_same": 14074,
+      "topic_to_noise": 8,
+      "all_to_noise": 1954,
+      "topic_change": 8,
+      "topic_same": 27
+    },
+    "suburbs": {
+      "total_changes": 2648,
+      "total_same": 14136,
+      "topic_to_noise": 6,
+      "all_to_noise": 1935,
+      "topic_change": 6,
+      "topic_same": 29
+    },
+    "suburban": {
+      "total_changes": 2673,
+      "total_same": 14111,
+      "topic_to_noise": 8,
+      "all_to_noise": 1967,
+      "topic_change": 8,
+      "topic_same": 27
+    },
+    "voters": {
+      "total_changes": 2678,
+      "total_same": 14106,
+      "topic_to_noise": 5,
+      "all_to_noise": 1938,
+      "topic_change": 5,
+      "topic_same": 30
+    },
+    "white": {
+      "total_changes": 2658,
+      "total_same": 14126,
+      "topic_to_noise": 6,
+      "all_to_noise": 1929,
+      "topic_change": 6,
+      "topic_same": 29
+    },
+    "presidents": {
+      "total_changes": 2665,
+      "total_same": 14119,
+      "topic_to_noise": 7,
+      "all_to_noise": 1928,
+      "topic_change": 7,
+      "topic_same": 28
+    },
+    "trump": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 5,
+      "all_to_noise": 1909,
+      "topic_change": 5,
+      "topic_same": 30
+    },
+    "racial": {
+      "total_changes": 2693,
+      "total_same": 14091,
+      "topic_to_noise": 8,
+      "all_to_noise": 1937,
+      "topic_change": 8,
+      "topic_same": 27
+    }
+  },
+  "Topic_85": {
+    "isolation": {
+      "total_changes": 2659,
+      "total_same": 14125,
+      "topic_to_noise": 7,
+      "all_to_noise": 1955,
+      "topic_change": 7,
+      "topic_same": 28
+    },
+    "men": {
+      "total_changes": 2751,
+      "total_same": 14033,
+      "topic_to_noise": 7,
+      "all_to_noise": 1971,
+      "topic_change": 7,
+      "topic_same": 28
+    },
+    "connected": {
+      "total_changes": 2535,
+      "total_same": 14249,
+      "topic_to_noise": 8,
+      "all_to_noise": 1867,
+      "topic_change": 8,
+      "topic_same": 27
+    },
+    "living": {
+      "total_changes": 2625,
+      "total_same": 14159,
+      "topic_to_noise": 9,
+      "all_to_noise": 1903,
+      "topic_change": 9,
+      "topic_same": 26
+    },
+    "quarantine": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 10,
+      "all_to_noise": 1928,
+      "topic_change": 11,
+      "topic_same": 24
+    },
+    "alone": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 9,
+      "all_to_noise": 1943,
+      "topic_change": 9,
+      "topic_same": 26
+    },
+    "loneliness": {
+      "total_changes": 2676,
+      "total_same": 14108,
+      "topic_to_noise": 10,
+      "all_to_noise": 1966,
+      "topic_change": 10,
+      "topic_same": 25
+    },
+    "dating": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 8,
+      "all_to_noise": 1922,
+      "topic_change": 8,
+      "topic_same": 27
+    },
+    "emotional": {
+      "total_changes": 2692,
+      "total_same": 14092,
+      "topic_to_noise": 12,
+      "all_to_noise": 1960,
+      "topic_change": 12,
+      "topic_same": 23
+    },
+    "together": {
+      "total_changes": 2745,
+      "total_same": 14039,
+      "topic_to_noise": 12,
+      "all_to_noise": 1988,
+      "topic_change": 12,
+      "topic_same": 23
+    }
+  },
+  "Topic_86": {
+    "narendra": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "delhi": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "germany": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "hindu": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "police": {
+      "total_changes": 2621,
+      "total_same": 14163,
+      "topic_to_noise": 5,
+      "all_to_noise": 1902,
+      "topic_change": 5,
+      "topic_same": 30
+    },
+    "indias": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "india": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "muslims": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    },
+    "modi": {
+      "total_changes": 2672,
+      "total_same": 14112,
+      "topic_to_noise": 4,
+      "all_to_noise": 1948,
+      "topic_change": 4,
+      "topic_same": 31
+    },
+    "farright": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 35
+    }
+  },
+  "Topic_87": {
+    "737": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 0,
+      "all_to_noise": 1926,
+      "topic_change": 0,
+      "topic_same": 34
+    },
+    "boeings": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 34
+    },
+    "max": {
+      "total_changes": 2644,
+      "total_same": 14140,
+      "topic_to_noise": 3,
+      "all_to_noise": 1932,
+      "topic_change": 3,
+      "topic_same": 31
+    },
+    "flight": {
+      "total_changes": 2610,
+      "total_same": 14174,
+      "topic_to_noise": 2,
+      "all_to_noise": 1908,
+      "topic_change": 2,
+      "topic_same": 32
+    },
+    "crashes": {
+      "total_changes": 2660,
+      "total_same": 14124,
+      "topic_to_noise": 3,
+      "all_to_noise": 1905,
+      "topic_change": 3,
+      "topic_same": 31
+    },
+    "airline": {
+      "total_changes": 2670,
+      "total_same": 14114,
+      "topic_to_noise": 2,
+      "all_to_noise": 1944,
+      "topic_change": 2,
+      "topic_same": 32
+    },
+    "boeing": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 34
+    },
+    "airlines": {
+      "total_changes": 2673,
+      "total_same": 14111,
+      "topic_to_noise": 3,
+      "all_to_noise": 1933,
+      "topic_change": 3,
+      "topic_same": 31
+    },
+    "passengers": {
+      "total_changes": 2644,
+      "total_same": 14140,
+      "topic_to_noise": 2,
+      "all_to_noise": 1921,
+      "topic_change": 2,
+      "topic_same": 32
+    },
+    "plane": {
+      "total_changes": 2656,
+      "total_same": 14128,
+      "topic_to_noise": 0,
+      "all_to_noise": 1903,
+      "topic_change": 0,
+      "topic_same": 34
+    }
+  },
+  "Topic_88": {
+    "workplace": {
+      "total_changes": 2683,
+      "total_same": 14101,
+      "topic_to_noise": 5,
+      "all_to_noise": 1930,
+      "topic_change": 5,
+      "topic_same": 29
+    },
+    "working": {
+      "total_changes": 2714,
+      "total_same": 14070,
+      "topic_to_noise": 5,
+      "all_to_noise": 1956,
+      "topic_change": 5,
+      "topic_same": 29
+    },
+    "productive": {
+      "total_changes": 2724,
+      "total_same": 14060,
+      "topic_to_noise": 3,
+      "all_to_noise": 1993,
+      "topic_change": 3,
+      "topic_same": 31
+    },
+    "home": {
+      "total_changes": 2652,
+      "total_same": 14132,
+      "topic_to_noise": 5,
+      "all_to_noise": 1953,
+      "topic_change": 5,
+      "topic_same": 29
+    },
+    "employees": {
+      "total_changes": 2624,
+      "total_same": 14160,
+      "topic_to_noise": 5,
+      "all_to_noise": 1876,
+      "topic_change": 5,
+      "topic_same": 29
+    },
+    "remote": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 5,
+      "all_to_noise": 1944,
+      "topic_change": 5,
+      "topic_same": 29
+    },
+    "remotely": {
+      "total_changes": 2640,
+      "total_same": 14144,
+      "topic_to_noise": 7,
+      "all_to_noise": 1946,
+      "topic_change": 7,
+      "topic_same": 27
+    },
+    "office": {
+      "total_changes": 2624,
+      "total_same": 14160,
+      "topic_to_noise": 2,
+      "all_to_noise": 1917,
+      "topic_change": 2,
+      "topic_same": 32
+    },
+    "unhappy": {
+      "total_changes": 2695,
+      "total_same": 14089,
+      "topic_to_noise": 3,
+      "all_to_noise": 1934,
+      "topic_change": 3,
+      "topic_same": 31
+    },
+    "work": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 8,
+      "all_to_noise": 1930,
+      "topic_change": 8,
+      "topic_same": 26
+    }
+  },
+  "Topic_89": {
+    "vote": {
+      "total_changes": 2690,
+      "total_same": 14094,
+      "topic_to_noise": 5,
+      "all_to_noise": 1957,
+      "topic_change": 5,
+      "topic_same": 29
+    },
+    "equal": {
+      "total_changes": 2609,
+      "total_same": 14175,
+      "topic_to_noise": 3,
+      "all_to_noise": 1905,
+      "topic_change": 3,
+      "topic_same": 31
+    },
+    "women": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 5,
+      "all_to_noise": 1915,
+      "topic_change": 5,
+      "topic_same": 29
+    },
+    "womens": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 34
+    },
+    "19th": {
+      "total_changes": 2616,
+      "total_same": 14168,
+      "topic_to_noise": 4,
+      "all_to_noise": 1893,
+      "topic_change": 4,
+      "topic_same": 30
+    },
+    "eleanor": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 34
+    },
+    "suffrage": {
+      "total_changes": 2697,
+      "total_same": 14087,
+      "topic_to_noise": 5,
+      "all_to_noise": 1972,
+      "topic_change": 5,
+      "topic_same": 29
+    },
+    "overlooked": {
+      "total_changes": 2667,
+      "total_same": 14117,
+      "topic_to_noise": 4,
+      "all_to_noise": 1940,
+      "topic_change": 4,
+      "topic_same": 30
+    },
+    "suffragist": {
+      "total_changes": 2632,
+      "total_same": 14152,
+      "topic_to_noise": 1,
+      "all_to_noise": 1960,
+      "topic_change": 2,
+      "topic_same": 32
+    },
+    "amendment": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 34
+    }
+  },
+  "Topic_90": {
+    "see": {
+      "total_changes": 2629,
+      "total_same": 14155,
+      "topic_to_noise": 0,
+      "all_to_noise": 1902,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "whats": {
+      "total_changes": 2682,
+      "total_same": 14102,
+      "topic_to_noise": 0,
+      "all_to_noise": 1923,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "picture": {
+      "total_changes": 2651,
+      "total_same": 14133,
+      "topic_to_noise": 0,
+      "all_to_noise": 1935,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "closely": {
+      "total_changes": 2646,
+      "total_same": 14138,
+      "topic_to_noise": 0,
+      "all_to_noise": 1907,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "conversation": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 0,
+      "all_to_noise": 1949,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "stripped": {
+      "total_changes": 2662,
+      "total_same": 14122,
+      "topic_to_noise": 0,
+      "all_to_noise": 1936,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "moderated": {
+      "total_changes": 2659,
+      "total_same": 14125,
+      "topic_to_noise": 0,
+      "all_to_noise": 1919,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "join": {
+      "total_changes": 2615,
+      "total_same": 14169,
+      "topic_to_noise": 0,
+      "all_to_noise": 1909,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "caption": {
+      "total_changes": 2620,
+      "total_same": 14164,
+      "topic_to_noise": 0,
+      "all_to_noise": 1905,
+      "topic_change": 0,
+      "topic_same": 33
+    },
+    "image": {
+      "total_changes": 2690,
+      "total_same": 14094,
+      "topic_to_noise": 0,
+      "all_to_noise": 1962,
+      "topic_change": 0,
+      "topic_same": 33
+    }
+  },
+  "Topic_91": {
+    "chronic": {
+      "total_changes": 2723,
+      "total_same": 14061,
+      "topic_to_noise": 11,
+      "all_to_noise": 1997,
+      "topic_change": 11,
+      "topic_same": 21
+    },
+    "covid": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 32
+    },
+    "covid19": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 32
+    },
+    "signs": {
+      "total_changes": 2682,
+      "total_same": 14102,
+      "topic_to_noise": 15,
+      "all_to_noise": 1932,
+      "topic_change": 15,
+      "topic_same": 17
+    },
+    "patients": {
+      "total_changes": 2589,
+      "total_same": 14195,
+      "topic_to_noise": 12,
+      "all_to_noise": 1910,
+      "topic_change": 12,
+      "topic_same": 20
+    },
+    "symptoms": {
+      "total_changes": 2643,
+      "total_same": 14141,
+      "topic_to_noise": 12,
+      "all_to_noise": 1902,
+      "topic_change": 12,
+      "topic_same": 20
+    },
+    "urgent": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 13,
+      "all_to_noise": 1959,
+      "topic_change": 13,
+      "topic_same": 19
+    },
+    "immune": {
+      "total_changes": 2581,
+      "total_same": 14203,
+      "topic_to_noise": 12,
+      "all_to_noise": 1892,
+      "topic_change": 12,
+      "topic_same": 20
+    },
+    "my": {
+      "total_changes": 2694,
+      "total_same": 14090,
+      "topic_to_noise": 20,
+      "all_to_noise": 1968,
+      "topic_change": 20,
+      "topic_same": 12
+    },
+    "delirium": {
+      "total_changes": 2689,
+      "total_same": 14095,
+      "topic_to_noise": 12,
+      "all_to_noise": 1968,
+      "topic_change": 12,
+      "topic_same": 20
+    }
+  },
+  "Topic_92": {
+    "monument": {
+      "total_changes": 2625,
+      "total_same": 14159,
+      "topic_to_noise": 3,
+      "all_to_noise": 1908,
+      "topic_change": 4,
+      "topic_same": 28
+    },
+    "memorial": {
+      "total_changes": 2629,
+      "total_same": 14155,
+      "topic_to_noise": 4,
+      "all_to_noise": 1908,
+      "topic_change": 4,
+      "topic_same": 28
+    },
+    "monuments": {
+      "total_changes": 2684,
+      "total_same": 14100,
+      "topic_to_noise": 3,
+      "all_to_noise": 1930,
+      "topic_change": 3,
+      "topic_same": 29
+    },
+    "statue": {
+      "total_changes": 2685,
+      "total_same": 14099,
+      "topic_to_noise": 6,
+      "all_to_noise": 1958,
+      "topic_change": 6,
+      "topic_same": 26
+    },
+    "protester": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 4,
+      "all_to_noise": 1891,
+      "topic_change": 4,
+      "topic_same": 28
+    },
+    "statues": {
+      "total_changes": 2649,
+      "total_same": 14135,
+      "topic_to_noise": 5,
+      "all_to_noise": 1942,
+      "topic_change": 5,
+      "topic_same": 27
+    },
+    "toppled": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 3,
+      "all_to_noise": 1961,
+      "topic_change": 3,
+      "topic_same": 29
+    },
+    "roosevelt": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 32
+    },
+    "confederate": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 32
+    },
+    "history": {
+      "total_changes": 2661,
+      "total_same": 14123,
+      "topic_to_noise": 3,
+      "all_to_noise": 1946,
+      "topic_change": 3,
+      "topic_same": 29
+    }
+  },
+  "Topic_93": {
+    "intelligence": {
+      "total_changes": 2665,
+      "total_same": 14119,
+      "topic_to_noise": 0,
+      "all_to_noise": 1947,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "artificial": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 1,
+      "all_to_noise": 1938,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "automation": {
+      "total_changes": 2674,
+      "total_same": 14110,
+      "topic_to_noise": 0,
+      "all_to_noise": 1932,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "computers": {
+      "total_changes": 2648,
+      "total_same": 14136,
+      "topic_to_noise": 1,
+      "all_to_noise": 1931,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "education": {
+      "total_changes": 2642,
+      "total_same": 14142,
+      "topic_to_noise": 0,
+      "all_to_noise": 1917,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "machines": {
+      "total_changes": 2638,
+      "total_same": 14146,
+      "topic_to_noise": 1,
+      "all_to_noise": 1928,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "lesson": {
+      "total_changes": 2724,
+      "total_same": 14060,
+      "topic_to_noise": 0,
+      "all_to_noise": 2001,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "robots": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 1,
+      "all_to_noise": 1938,
+      "topic_change": 1,
+      "topic_same": 30
+    },
+    "computer": {
+      "total_changes": 2690,
+      "total_same": 14094,
+      "topic_to_noise": 0,
+      "all_to_noise": 1947,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "robot": {
+      "total_changes": 2665,
+      "total_same": 14119,
+      "topic_to_noise": 1,
+      "all_to_noise": 1907,
+      "topic_change": 1,
+      "topic_same": 30
+    }
+  },
+  "Topic_94": {
+    "northern": {
+      "total_changes": 2671,
+      "total_same": 14113,
+      "topic_to_noise": 10,
+      "all_to_noise": 1931,
+      "topic_change": 10,
+      "topic_same": 21
+    },
+    "italian": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "italys": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "roma": {
+      "total_changes": 2690,
+      "total_same": 14094,
+      "topic_to_noise": 10,
+      "all_to_noise": 1978,
+      "topic_change": 10,
+      "topic_same": 21
+    },
+    "bergamo": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "italy": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "coronavirus": {
+      "total_changes": 2666,
+      "total_same": 14118,
+      "topic_to_noise": 16,
+      "all_to_noise": 1919,
+      "topic_change": 16,
+      "topic_same": 15
+    },
+    "europes": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "milan": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "rome": {
+      "total_changes": 2673,
+      "total_same": 14111,
+      "topic_to_noise": 9,
+      "all_to_noise": 1949,
+      "topic_change": 9,
+      "topic_same": 22
+    }
+  },
+  "Topic_95": {
+    "security": {
+      "total_changes": 2691,
+      "total_same": 14093,
+      "topic_to_noise": 9,
+      "all_to_noise": 1971,
+      "topic_change": 9,
+      "topic_same": 22
+    },
+    "impeachment": {
+      "total_changes": 2676,
+      "total_same": 14108,
+      "topic_to_noise": 4,
+      "all_to_noise": 1940,
+      "topic_change": 4,
+      "topic_same": 27
+    },
+    "adviser": {
+      "total_changes": 2726,
+      "total_same": 14058,
+      "topic_to_noise": 3,
+      "all_to_noise": 1963,
+      "topic_change": 3,
+      "topic_same": 28
+    },
+    "book": {
+      "total_changes": 2679,
+      "total_same": 14105,
+      "topic_to_noise": 8,
+      "all_to_noise": 1967,
+      "topic_change": 8,
+      "topic_same": 23
+    },
+    "ukraine": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "trial": {
+      "total_changes": 2612,
+      "total_same": 14172,
+      "topic_to_noise": 6,
+      "all_to_noise": 1930,
+      "topic_change": 6,
+      "topic_same": 25
+    },
+    "boltons": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "bolton": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    },
+    "testify": {
+      "total_changes": 2661,
+      "total_same": 14123,
+      "topic_to_noise": 11,
+      "all_to_noise": 1937,
+      "topic_change": 11,
+      "topic_same": 20
+    },
+    "john": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 31
+    }
+  },
+  "Topic_96": {
+    "power": {
+      "total_changes": 2638,
+      "total_same": 14146,
+      "topic_to_noise": 8,
+      "all_to_noise": 1928,
+      "topic_change": 8,
+      "topic_same": 22
+    },
+    "hurricane": {
+      "total_changes": 2627,
+      "total_same": 14157,
+      "topic_to_noise": 5,
+      "all_to_noise": 1911,
+      "topic_change": 6,
+      "topic_same": 24
+    },
+    "hurricanes": {
+      "total_changes": 2670,
+      "total_same": 14114,
+      "topic_to_noise": 6,
+      "all_to_noise": 1958,
+      "topic_change": 7,
+      "topic_same": 23
+    },
+    "tropical": {
+      "total_changes": 2651,
+      "total_same": 14133,
+      "topic_to_noise": 5,
+      "all_to_noise": 1915,
+      "topic_change": 6,
+      "topic_same": 24
+    },
+    "isaias": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "storms": {
+      "total_changes": 2610,
+      "total_same": 14174,
+      "topic_to_noise": 7,
+      "all_to_noise": 1906,
+      "topic_change": 8,
+      "topic_same": 22
+    },
+    "landfall": {
+      "total_changes": 2664,
+      "total_same": 14120,
+      "topic_to_noise": 8,
+      "all_to_noise": 1959,
+      "topic_change": 8,
+      "topic_same": 22
+    },
+    "storm": {
+      "total_changes": 2608,
+      "total_same": 14176,
+      "topic_to_noise": 5,
+      "all_to_noise": 1902,
+      "topic_change": 5,
+      "topic_same": 25
+    },
+    "category": {
+      "total_changes": 2653,
+      "total_same": 14131,
+      "topic_to_noise": 7,
+      "all_to_noise": 1944,
+      "topic_change": 7,
+      "topic_same": 23
+    },
+    "winds": {
+      "total_changes": 2689,
+      "total_same": 14095,
+      "topic_to_noise": 6,
+      "all_to_noise": 1949,
+      "topic_change": 7,
+      "topic_same": 23
+    }
+  },
+  "Topic_97": {
+    "cruise": {
+      "total_changes": 2629,
+      "total_same": 14155,
+      "topic_to_noise": 1,
+      "all_to_noise": 1897,
+      "topic_change": 2,
+      "topic_same": 28
+    },
+    "ships": {
+      "total_changes": 2718,
+      "total_same": 14066,
+      "topic_to_noise": 0,
+      "all_to_noise": 1963,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "sail": {
+      "total_changes": 2663,
+      "total_same": 14121,
+      "topic_to_noise": 0,
+      "all_to_noise": 1932,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "carnival": {
+      "total_changes": 2726,
+      "total_same": 14058,
+      "topic_to_noise": 0,
+      "all_to_noise": 1957,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "ship": {
+      "total_changes": 2695,
+      "total_same": 14089,
+      "topic_to_noise": 1,
+      "all_to_noise": 1951,
+      "topic_change": 1,
+      "topic_same": 29
+    },
+    "princess": {
+      "total_changes": 2623,
+      "total_same": 14161,
+      "topic_to_noise": 1,
+      "all_to_noise": 1926,
+      "topic_change": 1,
+      "topic_same": 29
+    },
+    "passengers": {
+      "total_changes": 2721,
+      "total_same": 14063,
+      "topic_to_noise": 0,
+      "all_to_noise": 1982,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "diamond": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "docked": {
+      "total_changes": 2637,
+      "total_same": 14147,
+      "topic_to_noise": 0,
+      "all_to_noise": 1942,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "vegas": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 30
+    }
+  },
+  "Topic_98": {
+    "players": {
+      "total_changes": 2688,
+      "total_same": 14096,
+      "topic_to_noise": 4,
+      "all_to_noise": 1951,
+      "topic_change": 4,
+      "topic_same": 26
+    },
+    "novak": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "federer": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "open": {
+      "total_changes": 2723,
+      "total_same": 14061,
+      "topic_to_noise": 8,
+      "all_to_noise": 1970,
+      "topic_change": 9,
+      "topic_same": 21
+    },
+    "thiem": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "matches": {
+      "total_changes": 2620,
+      "total_same": 14164,
+      "topic_to_noise": 4,
+      "all_to_noise": 1905,
+      "topic_change": 4,
+      "topic_same": 26
+    },
+    "slam": {
+      "total_changes": 2675,
+      "total_same": 14109,
+      "topic_to_noise": 3,
+      "all_to_noise": 1950,
+      "topic_change": 3,
+      "topic_same": 27
+    },
+    "djokovic": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 30
+    },
+    "mens": {
+      "total_changes": 2626,
+      "total_same": 14158,
+      "topic_to_noise": 5,
+      "all_to_noise": 1905,
+      "topic_change": 5,
+      "topic_same": 25
+    },
+    "tennis": {
+      "total_changes": 2748,
+      "total_same": 14036,
+      "topic_to_noise": 6,
+      "all_to_noise": 1978,
+      "topic_change": 6,
+      "topic_same": 24
+    }
+  },
+  "Topic_99": {
+    "security": {
+      "total_changes": 2694,
+      "total_same": 14090,
+      "topic_to_noise": 7,
+      "all_to_noise": 1949,
+      "topic_change": 7,
+      "topic_same": 22
+    },
+    "movement": {
+      "total_changes": 2652,
+      "total_same": 14132,
+      "topic_to_noise": 10,
+      "all_to_noise": 1923,
+      "topic_change": 10,
+      "topic_same": 19
+    },
+    "hong": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 29
+    },
+    "kong": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 29
+    },
+    "prodemocracy": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 29
+    },
+    "beijing": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 29
+    },
+    "chinas": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 29
+    },
+    "law": {
+      "total_changes": 2693,
+      "total_same": 14091,
+      "topic_to_noise": 10,
+      "all_to_noise": 1964,
+      "topic_change": 10,
+      "topic_same": 19
+    },
+    "kongs": {
+      "total_changes": 0,
+      "total_same": 16784,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 29
+    },
+    "china": {
+      "total_changes": 2686,
+      "total_same": 14098,
+      "topic_to_noise": 10,
+      "all_to_noise": 1951,
+      "topic_change": 10,
+      "topic_same": 19
+    }
+  }
+}

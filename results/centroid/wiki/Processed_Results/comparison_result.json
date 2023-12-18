@@ -1,0 +1,1842 @@
+{
+  "Topic_0": {
+    "album": {
+      "total_changes": 1329,
+      "total_same": 8671,
+      "topic_to_noise": 141,
+      "all_to_noise": 1037,
+      "topic_change": 141,
+      "topic_same": 336,
+      "Centroid_Movement": 0.05968690663576126
+    },
+    "songs": {
+      "total_changes": 1336,
+      "total_same": 8664,
+      "topic_to_noise": 146,
+      "all_to_noise": 1050,
+      "topic_change": 146,
+      "topic_same": 331,
+      "Centroid_Movement": 0.06040884181857109
+    },
+    "vocals": {
+      "total_changes": 1346,
+      "total_same": 8654,
+      "topic_to_noise": 139,
+      "all_to_noise": 1052,
+      "topic_change": 141,
+      "topic_same": 336,
+      "Centroid_Movement": 0.07487457990646362
+    },
+    "band": {
+      "total_changes": 1319,
+      "total_same": 8681,
+      "topic_to_noise": 146,
+      "all_to_noise": 1034,
+      "topic_change": 146,
+      "topic_same": 331,
+      "Centroid_Movement": 0.07126292586326599
+    },
+    "albums": {
+      "total_changes": 1253,
+      "total_same": 8747,
+      "topic_to_noise": 127,
+      "all_to_noise": 976,
+      "topic_change": 129,
+      "topic_same": 348,
+      "Centroid_Movement": 0.06425163894891739
+    },
+    "released": {
+      "total_changes": 1344,
+      "total_same": 8656,
+      "topic_to_noise": 152,
+      "all_to_noise": 1054,
+      "topic_change": 153,
+      "topic_same": 324,
+      "Centroid_Movement": 0.0909837931394577
+    },
+    "song": {
+      "total_changes": 1313,
+      "total_same": 8687,
+      "topic_to_noise": 144,
+      "all_to_noise": 1042,
+      "topic_change": 145,
+      "topic_same": 332,
+      "Centroid_Movement": 0.06967927515506744
+    },
+    "guitar": {
+      "total_changes": 1330,
+      "total_same": 8670,
+      "topic_to_noise": 136,
+      "all_to_noise": 1029,
+      "topic_change": 139,
+      "topic_same": 338,
+      "Centroid_Movement": 0.08534590899944305
+    },
+    "records": {
+      "total_changes": 1364,
+      "total_same": 8636,
+      "topic_to_noise": 153,
+      "all_to_noise": 1053,
+      "topic_change": 156,
+      "topic_same": 321,
+      "Centroid_Movement": 0.08433571457862854
+    },
+    "music": {
+      "total_changes": 1353,
+      "total_same": 8647,
+      "topic_to_noise": 152,
+      "all_to_noise": 1061,
+      "topic_change": 152,
+      "topic_same": 325,
+      "Centroid_Movement": 0.0645989254117012
+    }
+  },
+  "Topic_1": {
+    "district": {
+      "total_changes": 1315,
+      "total_same": 8685,
+      "topic_to_noise": 2,
+      "all_to_noise": 1033,
+      "topic_change": 2,
+      "topic_same": 225,
+      "Centroid_Movement": 0.08281362801790237
+    },
+    "turkey": {
+      "total_changes": 1293,
+      "total_same": 8707,
+      "topic_to_noise": 3,
+      "all_to_noise": 1011,
+      "topic_change": 3,
+      "topic_same": 224,
+      "Centroid_Movement": 0.08227687329053879
+    },
+    "populated": {
+      "total_changes": 1289,
+      "total_same": 8711,
+      "topic_to_noise": 1,
+      "all_to_noise": 1008,
+      "topic_change": 1,
+      "topic_same": 226,
+      "Centroid_Movement": 0.0873163491487503
+    },
+    "ankara": {
+      "total_changes": 1340,
+      "total_same": 8660,
+      "topic_to_noise": 3,
+      "all_to_noise": 1053,
+      "topic_change": 3,
+      "topic_same": 224,
+      "Centroid_Movement": 0.07723782956600189
+    },
+    "population": {
+      "total_changes": 1307,
+      "total_same": 8693,
+      "topic_to_noise": 2,
+      "all_to_noise": 1030,
+      "topic_change": 2,
+      "topic_same": 225,
+      "Centroid_Movement": 0.09414045512676239
+    },
+    "places": {
+      "total_changes": 1342,
+      "total_same": 8658,
+      "topic_to_noise": 2,
+      "all_to_noise": 1061,
+      "topic_change": 2,
+      "topic_same": 225,
+      "Centroid_Movement": 0.08499111235141754
+    },
+    "turkish": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 227,
+      "Centroid_Movement": 0.09110496193170547
+    },
+    "town": {
+      "total_changes": 1343,
+      "total_same": 8657,
+      "topic_to_noise": 2,
+      "all_to_noise": 1035,
+      "topic_change": 2,
+      "topic_same": 225,
+      "Centroid_Movement": 0.07516437023878098
+    },
+    "province": {
+      "total_changes": 1298,
+      "total_same": 8702,
+      "topic_to_noise": 2,
+      "all_to_noise": 1034,
+      "topic_change": 2,
+      "topic_same": 225,
+      "Centroid_Movement": 0.0841124951839447
+    },
+    "municipalities": {
+      "total_changes": 1321,
+      "total_same": 8679,
+      "topic_to_noise": 1,
+      "all_to_noise": 1040,
+      "topic_change": 1,
+      "topic_same": 226,
+      "Centroid_Movement": 0.08252518624067307
+    }
+  },
+  "Topic_2": {
+    "parish": {
+      "total_changes": 1362,
+      "total_same": 8638,
+      "topic_to_noise": 6,
+      "all_to_noise": 1057,
+      "topic_change": 6,
+      "topic_same": 202,
+      "Centroid_Movement": 0.08803484588861465
+    },
+    "area": {
+      "total_changes": 1282,
+      "total_same": 8718,
+      "topic_to_noise": 10,
+      "all_to_noise": 1010,
+      "topic_change": 10,
+      "topic_same": 198,
+      "Centroid_Movement": 0.08143996447324753
+    },
+    "house": {
+      "total_changes": 1346,
+      "total_same": 8654,
+      "topic_to_noise": 3,
+      "all_to_noise": 1072,
+      "topic_change": 3,
+      "topic_same": 205,
+      "Centroid_Movement": 0.0852791965007782
+    },
+    "cardiff": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 208,
+      "Centroid_Movement": 0.08264962583780289
+    },
+    "belfast": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 208,
+      "Centroid_Movement": 0.08238541334867477
+    },
+    "of": {
+      "total_changes": 1378,
+      "total_same": 8622,
+      "topic_to_noise": 5,
+      "all_to_noise": 1067,
+      "topic_change": 5,
+      "topic_same": 203,
+      "Centroid_Movement": 0.09659621119499207
+    },
+    "aberdeen": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 208,
+      "Centroid_Movement": 0.08243603259325027
+    },
+    "the": {
+      "total_changes": 1340,
+      "total_same": 8660,
+      "topic_to_noise": 4,
+      "all_to_noise": 1047,
+      "topic_change": 4,
+      "topic_same": 204,
+      "Centroid_Movement": 0.09040311723947525
+    },
+    "village": {
+      "total_changes": 1310,
+      "total_same": 8690,
+      "topic_to_noise": 2,
+      "all_to_noise": 1035,
+      "topic_change": 2,
+      "topic_same": 206,
+      "Centroid_Movement": 0.07845389097929001
+    },
+    "county": {
+      "total_changes": 1325,
+      "total_same": 8675,
+      "topic_to_noise": 5,
+      "all_to_noise": 1042,
+      "topic_change": 5,
+      "topic_same": 203,
+      "Centroid_Movement": 0.08335842192173004
+    }
+  },
+  "Topic_3": {
+    "court": {
+      "total_changes": 1329,
+      "total_same": 8671,
+      "topic_to_noise": 15,
+      "all_to_noise": 1042,
+      "topic_change": 15,
+      "topic_same": 155,
+      "Centroid_Movement": 0.09038552641868591
+    },
+    "that": {
+      "total_changes": 1331,
+      "total_same": 8669,
+      "topic_to_noise": 14,
+      "all_to_noise": 1035,
+      "topic_change": 14,
+      "topic_same": 156,
+      "Centroid_Movement": 0.0865216851234436
+    },
+    "not": {
+      "total_changes": 1314,
+      "total_same": 8686,
+      "topic_to_noise": 16,
+      "all_to_noise": 1038,
+      "topic_change": 16,
+      "topic_same": 154,
+      "Centroid_Movement": 0.08402948826551437
+    },
+    "is": {
+      "total_changes": 1489,
+      "total_same": 8511,
+      "topic_to_noise": 21,
+      "all_to_noise": 1158,
+      "topic_change": 21,
+      "topic_same": 149,
+      "Centroid_Movement": 0.0805736854672432
+    },
+    "of": {
+      "total_changes": 1356,
+      "total_same": 8644,
+      "topic_to_noise": 13,
+      "all_to_noise": 1068,
+      "topic_change": 14,
+      "topic_same": 156,
+      "Centroid_Movement": 0.0781177431344986
+    },
+    "law": {
+      "total_changes": 1361,
+      "total_same": 8639,
+      "topic_to_noise": 19,
+      "all_to_noise": 1066,
+      "topic_change": 19,
+      "topic_same": 151,
+      "Centroid_Movement": 0.08856577426195145
+    },
+    "or": {
+      "total_changes": 1543,
+      "total_same": 8457,
+      "topic_to_noise": 18,
+      "all_to_noise": 1193,
+      "topic_change": 19,
+      "topic_same": 151,
+      "Centroid_Movement": 0.08621684461832047
+    },
+    "act": {
+      "total_changes": 1329,
+      "total_same": 8671,
+      "topic_to_noise": 14,
+      "all_to_noise": 1042,
+      "topic_change": 14,
+      "topic_same": 156,
+      "Centroid_Movement": 0.08316776901483536
+    },
+    "to": {
+      "total_changes": 1419,
+      "total_same": 8581,
+      "topic_to_noise": 17,
+      "all_to_noise": 1097,
+      "topic_change": 18,
+      "topic_same": 152,
+      "Centroid_Movement": 0.08106237649917603
+    },
+    "be": {
+      "total_changes": 1392,
+      "total_same": 8608,
+      "topic_to_noise": 17,
+      "all_to_noise": 1086,
+      "topic_change": 17,
+      "topic_same": 153,
+      "Centroid_Movement": 0.09121216088533401
+    }
+  },
+  "Topic_4": {
+    "hawke": {
+      "total_changes": 1336,
+      "total_same": 8664,
+      "topic_to_noise": 2,
+      "all_to_noise": 1041,
+      "topic_change": 2,
+      "topic_same": 126,
+      "Centroid_Movement": 0.09380507469177246
+    },
+    "ballarat": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 128,
+      "Centroid_Movement": 0.09463529288768768
+    },
+    "australia": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 128,
+      "Centroid_Movement": 0.06977774202823639
+    },
+    "party": {
+      "total_changes": 1349,
+      "total_same": 8651,
+      "topic_to_noise": 1,
+      "all_to_noise": 1037,
+      "topic_change": 1,
+      "topic_same": 127,
+      "Centroid_Movement": 0.09026747941970825
+    },
+    "labor": {
+      "total_changes": 1341,
+      "total_same": 8659,
+      "topic_to_noise": 4,
+      "all_to_noise": 1049,
+      "topic_change": 4,
+      "topic_same": 124,
+      "Centroid_Movement": 0.0959121435880661
+    },
+    "south": {
+      "total_changes": 1361,
+      "total_same": 8639,
+      "topic_to_noise": 3,
+      "all_to_noise": 1066,
+      "topic_change": 3,
+      "topic_same": 125,
+      "Centroid_Movement": 0.08608224242925644
+    },
+    "australian": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 128,
+      "Centroid_Movement": 0.0741189643740654
+    },
+    "adelaide": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 128,
+      "Centroid_Movement": 0.07846218347549438
+    },
+    "election": {
+      "total_changes": 1310,
+      "total_same": 8690,
+      "topic_to_noise": 2,
+      "all_to_noise": 1044,
+      "topic_change": 2,
+      "topic_same": 126,
+      "Centroid_Movement": 0.08537665754556656
+    },
+    "wales": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 128,
+      "Centroid_Movement": 0.08276701718568802
+    }
+  },
+  "Topic_5": {
+    "salieri": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 113,
+      "Centroid_Movement": 0.09942713379859924
+    },
+    "composers": {
+      "total_changes": 1350,
+      "total_same": 8650,
+      "topic_to_noise": 4,
+      "all_to_noise": 1072,
+      "topic_change": 4,
+      "topic_same": 109,
+      "Centroid_Movement": 0.06868284195661545
+    },
+    "orchestra": {
+      "total_changes": 1291,
+      "total_same": 8709,
+      "topic_to_noise": 5,
+      "all_to_noise": 1023,
+      "topic_change": 5,
+      "topic_same": 108,
+      "Centroid_Movement": 0.06286127120256424
+    },
+    "opera": {
+      "total_changes": 1333,
+      "total_same": 8667,
+      "topic_to_noise": 5,
+      "all_to_noise": 1049,
+      "topic_change": 5,
+      "topic_same": 108,
+      "Centroid_Movement": 0.08379658311605453
+    },
+    "op": {
+      "total_changes": 1363,
+      "total_same": 8637,
+      "topic_to_noise": 4,
+      "all_to_noise": 1075,
+      "topic_change": 4,
+      "topic_same": 109,
+      "Centroid_Movement": 0.1061100959777832
+    },
+    "violin": {
+      "total_changes": 1355,
+      "total_same": 8645,
+      "topic_to_noise": 3,
+      "all_to_noise": 1060,
+      "topic_change": 3,
+      "topic_same": 110,
+      "Centroid_Movement": 0.078364297747612
+    },
+    "symphony": {
+      "total_changes": 1346,
+      "total_same": 8654,
+      "topic_to_noise": 5,
+      "all_to_noise": 1066,
+      "topic_change": 5,
+      "topic_same": 108,
+      "Centroid_Movement": 0.07085667550563812
+    },
+    "music": {
+      "total_changes": 1276,
+      "total_same": 8724,
+      "topic_to_noise": 5,
+      "all_to_noise": 996,
+      "topic_change": 5,
+      "topic_same": 108,
+      "Centroid_Movement": 0.07248853892087936
+    },
+    "philharmonic": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 113,
+      "Centroid_Movement": 0.08194942027330399
+    },
+    "piano": {
+      "total_changes": 1298,
+      "total_same": 8702,
+      "topic_to_noise": 3,
+      "all_to_noise": 1020,
+      "topic_change": 3,
+      "topic_same": 110,
+      "Centroid_Movement": 0.0760723426938057
+    }
+  },
+  "Topic_6": {
+    "skaters": {
+      "total_changes": 1353,
+      "total_same": 8647,
+      "topic_to_noise": 24,
+      "all_to_noise": 1066,
+      "topic_change": 25,
+      "topic_same": 87,
+      "Centroid_Movement": 0.07497629523277283
+    },
+    "medalists": {
+      "total_changes": 1280,
+      "total_same": 8720,
+      "topic_to_noise": 25,
+      "all_to_noise": 997,
+      "topic_change": 26,
+      "topic_same": 86,
+      "Centroid_Movement": 0.07293956726789474
+    },
+    "winter": {
+      "total_changes": 1344,
+      "total_same": 8656,
+      "topic_to_noise": 17,
+      "all_to_noise": 1072,
+      "topic_change": 17,
+      "topic_same": 95,
+      "Centroid_Movement": 0.09187348186969757
+    },
+    "olympics": {
+      "total_changes": 1346,
+      "total_same": 8654,
+      "topic_to_noise": 35,
+      "all_to_noise": 1048,
+      "topic_change": 35,
+      "topic_same": 77,
+      "Centroid_Movement": 0.06107475981116295
+    },
+    "speed": {
+      "total_changes": 1347,
+      "total_same": 8653,
+      "topic_to_noise": 27,
+      "all_to_noise": 1062,
+      "topic_change": 27,
+      "topic_same": 85,
+      "Centroid_Movement": 0.09410366415977478
+    },
+    "medal": {
+      "total_changes": 1340,
+      "total_same": 8660,
+      "topic_to_noise": 41,
+      "all_to_noise": 1059,
+      "topic_change": 42,
+      "topic_same": 70,
+      "Centroid_Movement": 0.0762908011674881
+    },
+    "skating": {
+      "total_changes": 1316,
+      "total_same": 8684,
+      "topic_to_noise": 19,
+      "all_to_noise": 1021,
+      "topic_change": 19,
+      "topic_same": 93,
+      "Centroid_Movement": 0.0775417760014534
+    },
+    "olympic": {
+      "total_changes": 1342,
+      "total_same": 8658,
+      "topic_to_noise": 29,
+      "all_to_noise": 1048,
+      "topic_change": 30,
+      "topic_same": 82,
+      "Centroid_Movement": 0.06134776026010513
+    },
+    "world": {
+      "total_changes": 1321,
+      "total_same": 8679,
+      "topic_to_noise": 19,
+      "all_to_noise": 1015,
+      "topic_change": 19,
+      "topic_same": 93,
+      "Centroid_Movement": 0.09357847273349762
+    },
+    "championships": {
+      "total_changes": 1290,
+      "total_same": 8710,
+      "topic_to_noise": 31,
+      "all_to_noise": 994,
+      "topic_change": 31,
+      "topic_same": 81,
+      "Centroid_Movement": 0.0823649987578392
+    }
+  },
+  "Topic_7": {
+    "bronx": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 108,
+      "Centroid_Movement": 0.09444236755371094
+    },
+    "road": {
+      "total_changes": 1323,
+      "total_same": 8677,
+      "topic_to_noise": 5,
+      "all_to_noise": 1059,
+      "topic_change": 5,
+      "topic_same": 103,
+      "Centroid_Movement": 0.06626302003860474
+    },
+    "line": {
+      "total_changes": 1326,
+      "total_same": 8674,
+      "topic_to_noise": 5,
+      "all_to_noise": 1041,
+      "topic_change": 5,
+      "topic_same": 103,
+      "Centroid_Movement": 0.08293610066175461
+    },
+    "route": {
+      "total_changes": 1334,
+      "total_same": 8666,
+      "topic_to_noise": 6,
+      "all_to_noise": 1059,
+      "topic_change": 6,
+      "topic_same": 102,
+      "Centroid_Movement": 0.08142483979463577
+    },
+    "station": {
+      "total_changes": 1336,
+      "total_same": 8664,
+      "topic_to_noise": 6,
+      "all_to_noise": 1050,
+      "topic_change": 6,
+      "topic_same": 102,
+      "Centroid_Movement": 0.0825754702091217
+    },
+    "railway": {
+      "total_changes": 1329,
+      "total_same": 8671,
+      "topic_to_noise": 5,
+      "all_to_noise": 1043,
+      "topic_change": 5,
+      "topic_same": 103,
+      "Centroid_Movement": 0.07784999161958694
+    },
+    "west": {
+      "total_changes": 1320,
+      "total_same": 8680,
+      "topic_to_noise": 4,
+      "all_to_noise": 1043,
+      "topic_change": 4,
+      "topic_same": 104,
+      "Centroid_Movement": 0.09065993130207062
+    },
+    "cr": {
+      "total_changes": 1352,
+      "total_same": 8648,
+      "topic_to_noise": 8,
+      "all_to_noise": 1043,
+      "topic_change": 8,
+      "topic_same": 100,
+      "Centroid_Movement": 0.09092342108488083
+    },
+    "rail": {
+      "total_changes": 1307,
+      "total_same": 8693,
+      "topic_to_noise": 6,
+      "all_to_noise": 1021,
+      "topic_change": 6,
+      "topic_same": 102,
+      "Centroid_Movement": 0.08453574031591415
+    },
+    "street": {
+      "total_changes": 1312,
+      "total_same": 8688,
+      "topic_to_noise": 7,
+      "all_to_noise": 1023,
+      "topic_change": 7,
+      "topic_same": 101,
+      "Centroid_Movement": 0.07361793518066406
+    }
+  },
+  "Topic_8": {
+    "district": {
+      "total_changes": 1335,
+      "total_same": 8665,
+      "topic_to_noise": 36,
+      "all_to_noise": 1047,
+      "topic_change": 36,
+      "topic_same": 66,
+      "Centroid_Movement": 0.08261465281248093
+    },
+    "germany": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 102,
+      "Centroid_Movement": 0.08064235746860504
+    },
+    "born": {
+      "total_changes": 1304,
+      "total_same": 8696,
+      "topic_to_noise": 39,
+      "all_to_noise": 1028,
+      "topic_change": 39,
+      "topic_same": 63,
+      "Centroid_Movement": 0.09604516625404358
+    },
+    "basel": {
+      "total_changes": 1330,
+      "total_same": 8670,
+      "topic_to_noise": 31,
+      "all_to_noise": 1037,
+      "topic_change": 31,
+      "topic_same": 71,
+      "Centroid_Movement": 0.08903992921113968
+    },
+    "bamberg": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 102,
+      "Centroid_Movement": 0.09845734387636185
+    },
+    "city": {
+      "total_changes": 1336,
+      "total_same": 8664,
+      "topic_to_noise": 27,
+      "all_to_noise": 1037,
+      "topic_change": 27,
+      "topic_same": 75,
+      "Centroid_Movement": 0.0700146034359932
+    },
+    "bonn": {
+      "total_changes": 1326,
+      "total_same": 8674,
+      "topic_to_noise": 33,
+      "all_to_noise": 1036,
+      "topic_change": 33,
+      "topic_same": 69,
+      "Centroid_Movement": 0.08779014647006989
+    },
+    "rhinewestphalia": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 102,
+      "Centroid_Movement": 0.09338311851024628
+    },
+    "town": {
+      "total_changes": 1348,
+      "total_same": 8652,
+      "topic_to_noise": 28,
+      "all_to_noise": 1084,
+      "topic_change": 28,
+      "topic_same": 74,
+      "Centroid_Movement": 0.07397235929965973
+    },
+    "municipality": {
+      "total_changes": 1328,
+      "total_same": 8672,
+      "topic_to_noise": 35,
+      "all_to_noise": 1034,
+      "topic_change": 35,
+      "topic_same": 67,
+      "Centroid_Movement": 0.08087252080440521
+    }
+  },
+  "Topic_9": {
+    "anime": {
+      "total_changes": 1335,
+      "total_same": 8665,
+      "topic_to_noise": 10,
+      "all_to_noise": 1048,
+      "topic_change": 10,
+      "topic_same": 90,
+      "Centroid_Movement": 0.07421780377626419
+    },
+    "dorothy": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100,
+      "Centroid_Movement": 0.08792072534561157
+    },
+    "film": {
+      "total_changes": 1349,
+      "total_same": 8651,
+      "topic_to_noise": 12,
+      "all_to_noise": 1041,
+      "topic_change": 13,
+      "topic_same": 87,
+      "Centroid_Movement": 0.088263601064682
+    },
+    "dragon": {
+      "total_changes": 1360,
+      "total_same": 8640,
+      "topic_to_noise": 11,
+      "all_to_noise": 1075,
+      "topic_change": 11,
+      "topic_same": 89,
+      "Centroid_Movement": 0.08933831751346588
+    },
+    "japanese": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100,
+      "Centroid_Movement": 0.07564280182123184
+    },
+    "she": {
+      "total_changes": 1286,
+      "total_same": 8714,
+      "topic_to_noise": 12,
+      "all_to_noise": 995,
+      "topic_change": 12,
+      "topic_same": 88,
+      "Centroid_Movement": 0.08320163935422897
+    },
+    "her": {
+      "total_changes": 1335,
+      "total_same": 8665,
+      "topic_to_noise": 12,
+      "all_to_noise": 1033,
+      "topic_change": 12,
+      "topic_same": 88,
+      "Centroid_Movement": 0.08070123940706253
+    },
+    "manga": {
+      "total_changes": 1353,
+      "total_same": 8647,
+      "topic_to_noise": 13,
+      "all_to_noise": 1063,
+      "topic_change": 13,
+      "topic_same": 87,
+      "Centroid_Movement": 0.07964254915714264
+    },
+    "japan": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 100,
+      "Centroid_Movement": 0.08262661844491959
+    },
+    "ainu": {
+      "total_changes": 1319,
+      "total_same": 8681,
+      "topic_to_noise": 9,
+      "all_to_noise": 1043,
+      "topic_change": 9,
+      "topic_same": 91,
+      "Centroid_Movement": 0.09185012429952621
+    }
+  },
+  "Topic_10": {
+    "his": {
+      "total_changes": 1334,
+      "total_same": 8666,
+      "topic_to_noise": 17,
+      "all_to_noise": 1026,
+      "topic_change": 17,
+      "topic_same": 77,
+      "Centroid_Movement": 0.0878991186618805
+    },
+    "book": {
+      "total_changes": 1371,
+      "total_same": 8629,
+      "topic_to_noise": 31,
+      "all_to_noise": 1089,
+      "topic_change": 31,
+      "topic_same": 63,
+      "Centroid_Movement": 0.06268545240163803
+    },
+    "published": {
+      "total_changes": 1320,
+      "total_same": 8680,
+      "topic_to_noise": 27,
+      "all_to_noise": 1033,
+      "topic_change": 27,
+      "topic_same": 67,
+      "Centroid_Movement": 0.08103284239768982
+    },
+    "books": {
+      "total_changes": 1340,
+      "total_same": 8660,
+      "topic_to_noise": 26,
+      "all_to_noise": 1068,
+      "topic_change": 26,
+      "topic_same": 68,
+      "Centroid_Movement": 0.07380516082048416
+    },
+    "her": {
+      "total_changes": 1357,
+      "total_same": 8643,
+      "topic_to_noise": 23,
+      "all_to_noise": 1058,
+      "topic_change": 23,
+      "topic_same": 71,
+      "Centroid_Movement": 0.08707834035158157
+    },
+    "novel": {
+      "total_changes": 1317,
+      "total_same": 8683,
+      "topic_to_noise": 29,
+      "all_to_noise": 998,
+      "topic_change": 29,
+      "topic_same": 65,
+      "Centroid_Movement": 0.0717540979385376
+    },
+    "novels": {
+      "total_changes": 1332,
+      "total_same": 8668,
+      "topic_to_noise": 22,
+      "all_to_noise": 1045,
+      "topic_change": 22,
+      "topic_same": 72,
+      "Centroid_Movement": 0.07315065711736679
+    },
+    "he": {
+      "total_changes": 1516,
+      "total_same": 8484,
+      "topic_to_noise": 23,
+      "all_to_noise": 1161,
+      "topic_change": 23,
+      "topic_same": 71,
+      "Centroid_Movement": 0.09136621654033661
+    },
+    "story": {
+      "total_changes": 1305,
+      "total_same": 8695,
+      "topic_to_noise": 18,
+      "all_to_noise": 1008,
+      "topic_change": 18,
+      "topic_same": 76,
+      "Centroid_Movement": 0.0892527624964714
+    },
+    "dickens": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 94,
+      "Centroid_Movement": 0.09309349209070206
+    }
+  },
+  "Topic_11": {
+    "games": {
+      "total_changes": 1360,
+      "total_same": 8640,
+      "topic_to_noise": 11,
+      "all_to_noise": 1087,
+      "topic_change": 11,
+      "topic_same": 81,
+      "Centroid_Movement": 0.061870019882917404
+    },
+    "gameplay": {
+      "total_changes": 1324,
+      "total_same": 8676,
+      "topic_to_noise": 8,
+      "all_to_noise": 1038,
+      "topic_change": 8,
+      "topic_same": 84,
+      "Centroid_Movement": 0.06383053213357925
+    },
+    "playstation": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 92,
+      "Centroid_Movement": 0.08529213070869446
+    },
+    "video": {
+      "total_changes": 1316,
+      "total_same": 8684,
+      "topic_to_noise": 12,
+      "all_to_noise": 1028,
+      "topic_change": 12,
+      "topic_same": 80,
+      "Centroid_Movement": 0.09268266707658768
+    },
+    "arcade": {
+      "total_changes": 1342,
+      "total_same": 8658,
+      "topic_to_noise": 12,
+      "all_to_noise": 1046,
+      "topic_change": 12,
+      "topic_same": 80,
+      "Centroid_Movement": 0.08103545010089874
+    },
+    "blizzard": {
+      "total_changes": 1293,
+      "total_same": 8707,
+      "topic_to_noise": 9,
+      "all_to_noise": 1021,
+      "topic_change": 10,
+      "topic_same": 82,
+      "Centroid_Movement": 0.08963856101036072
+    },
+    "characters": {
+      "total_changes": 1297,
+      "total_same": 8703,
+      "topic_to_noise": 13,
+      "all_to_noise": 1023,
+      "topic_change": 13,
+      "topic_same": 79,
+      "Centroid_Movement": 0.08865786343812943
+    },
+    "game": {
+      "total_changes": 1319,
+      "total_same": 8681,
+      "topic_to_noise": 16,
+      "all_to_noise": 1014,
+      "topic_change": 16,
+      "topic_same": 76,
+      "Centroid_Movement": 0.060105882585048676
+    },
+    "player": {
+      "total_changes": 1388,
+      "total_same": 8612,
+      "topic_to_noise": 17,
+      "all_to_noise": 1101,
+      "topic_change": 18,
+      "topic_same": 74,
+      "Centroid_Movement": 0.07784868031740189
+    },
+    "fighters": {
+      "total_changes": 1305,
+      "total_same": 8695,
+      "topic_to_noise": 11,
+      "all_to_noise": 1028,
+      "topic_change": 11,
+      "topic_same": 81,
+      "Centroid_Movement": 0.09116857498884201
+    }
+  },
+  "Topic_12": {
+    "climbing": {
+      "total_changes": 1359,
+      "total_same": 8641,
+      "topic_to_noise": 11,
+      "all_to_noise": 1068,
+      "topic_change": 11,
+      "topic_same": 76,
+      "Centroid_Movement": 0.09259908646345139
+    },
+    "bitumen": {
+      "total_changes": 1353,
+      "total_same": 8647,
+      "topic_to_noise": 10,
+      "all_to_noise": 1055,
+      "topic_change": 10,
+      "topic_same": 77,
+      "Centroid_Movement": 0.09065496921539307
+    },
+    "is": {
+      "total_changes": 1487,
+      "total_same": 8513,
+      "topic_to_noise": 13,
+      "all_to_noise": 1133,
+      "topic_change": 13,
+      "topic_same": 74,
+      "Centroid_Movement": 0.08304589986801147
+    },
+    "are": {
+      "total_changes": 1279,
+      "total_same": 8721,
+      "topic_to_noise": 12,
+      "all_to_noise": 986,
+      "topic_change": 12,
+      "topic_same": 75,
+      "Centroid_Movement": 0.08421123772859573
+    },
+    "bikini": {
+      "total_changes": 1336,
+      "total_same": 8664,
+      "topic_to_noise": 8,
+      "all_to_noise": 1033,
+      "topic_change": 8,
+      "topic_same": 79,
+      "Centroid_Movement": 0.09122559428215027
+    },
+    "materials": {
+      "total_changes": 1336,
+      "total_same": 8664,
+      "topic_to_noise": 8,
+      "all_to_noise": 1059,
+      "topic_change": 8,
+      "topic_same": 79,
+      "Centroid_Movement": 0.08408400416374207
+    },
+    "used": {
+      "total_changes": 1328,
+      "total_same": 8672,
+      "topic_to_noise": 11,
+      "all_to_noise": 1042,
+      "topic_change": 11,
+      "topic_same": 76,
+      "Centroid_Movement": 0.09864918142557144
+    },
+    "concrete": {
+      "total_changes": 1317,
+      "total_same": 8683,
+      "topic_to_noise": 11,
+      "all_to_noise": 1046,
+      "topic_change": 11,
+      "topic_same": 76,
+      "Centroid_Movement": 0.08196718990802765
+    },
+    "bricks": {
+      "total_changes": 1337,
+      "total_same": 8663,
+      "topic_to_noise": 8,
+      "all_to_noise": 1040,
+      "topic_change": 8,
+      "topic_same": 79,
+      "Centroid_Movement": 0.08088283985853195
+    },
+    "or": {
+      "total_changes": 1541,
+      "total_same": 8459,
+      "topic_to_noise": 11,
+      "all_to_noise": 1184,
+      "topic_change": 11,
+      "topic_same": 76,
+      "Centroid_Movement": 0.09627876430749893
+    }
+  },
+  "Topic_13": {
+    "chad": {
+      "total_changes": 1285,
+      "total_same": 8715,
+      "topic_to_noise": 9,
+      "all_to_noise": 1023,
+      "topic_change": 9,
+      "topic_same": 76,
+      "Centroid_Movement": 0.08275900781154633
+    },
+    "faso": {
+      "total_changes": 1302,
+      "total_same": 8698,
+      "topic_to_noise": 7,
+      "all_to_noise": 1016,
+      "topic_change": 8,
+      "topic_same": 77,
+      "Centroid_Movement": 0.07648701965808868
+    },
+    "burkina": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 85,
+      "Centroid_Movement": 0.06580570340156555
+    },
+    "cameroon": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 85,
+      "Centroid_Movement": 0.06412078440189362
+    },
+    "country": {
+      "total_changes": 1342,
+      "total_same": 8658,
+      "topic_to_noise": 12,
+      "all_to_noise": 1058,
+      "topic_change": 13,
+      "topic_same": 72,
+      "Centroid_Movement": 0.07080483436584473
+    },
+    "africa": {
+      "total_changes": 1294,
+      "total_same": 8706,
+      "topic_to_noise": 8,
+      "all_to_noise": 1016,
+      "topic_change": 8,
+      "topic_same": 77,
+      "Centroid_Movement": 0.055870119482278824
+    },
+    "african": {
+      "total_changes": 1370,
+      "total_same": 8630,
+      "topic_to_noise": 10,
+      "all_to_noise": 1078,
+      "topic_change": 10,
+      "topic_same": 75,
+      "Centroid_Movement": 0.0707070529460907
+    },
+    "botswana": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 85,
+      "Centroid_Movement": 0.07237283885478973
+    },
+    "government": {
+      "total_changes": 1294,
+      "total_same": 8706,
+      "topic_to_noise": 13,
+      "all_to_noise": 1015,
+      "topic_change": 13,
+      "topic_same": 72,
+      "Centroid_Movement": 0.08836086839437485
+    },
+    "president": {
+      "total_changes": 1360,
+      "total_same": 8640,
+      "topic_to_noise": 10,
+      "all_to_noise": 1076,
+      "topic_change": 10,
+      "topic_same": 75,
+      "Centroid_Movement": 0.0917450338602066
+    }
+  },
+  "Topic_14": {
+    "english": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 82,
+      "Centroid_Movement": 0.08249398320913315
+    },
+    "politician": {
+      "total_changes": 1337,
+      "total_same": 8663,
+      "topic_to_noise": 2,
+      "all_to_noise": 1058,
+      "topic_change": 2,
+      "topic_same": 80,
+      "Centroid_Movement": 0.077866330742836
+    },
+    "american": {
+      "total_changes": 1293,
+      "total_same": 8707,
+      "topic_to_noise": 2,
+      "all_to_noise": 1019,
+      "topic_change": 2,
+      "topic_same": 80,
+      "Centroid_Movement": 0.08601395040750504
+    },
+    "actor": {
+      "total_changes": 1347,
+      "total_same": 8653,
+      "topic_to_noise": 4,
+      "all_to_noise": 1065,
+      "topic_change": 4,
+      "topic_same": 78,
+      "Centroid_Movement": 0.0758957639336586
+    },
+    "singersongwriter": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 82,
+      "Centroid_Movement": 0.09888098388910294
+    },
+    "player": {
+      "total_changes": 1350,
+      "total_same": 8650,
+      "topic_to_noise": 8,
+      "all_to_noise": 1044,
+      "topic_change": 8,
+      "topic_same": 74,
+      "Centroid_Movement": 0.07824937999248505
+    },
+    "french": {
+      "total_changes": 1371,
+      "total_same": 8629,
+      "topic_to_noise": 4,
+      "all_to_noise": 1071,
+      "topic_change": 4,
+      "topic_same": 78,
+      "Centroid_Movement": 0.08664935827255249
+    },
+    "author": {
+      "total_changes": 1334,
+      "total_same": 8666,
+      "topic_to_noise": 3,
+      "all_to_noise": 1044,
+      "topic_change": 3,
+      "topic_same": 79,
+      "Centroid_Movement": 0.08516955375671387
+    },
+    "footballer": {
+      "total_changes": 1365,
+      "total_same": 8635,
+      "topic_to_noise": 2,
+      "all_to_noise": 1067,
+      "topic_change": 2,
+      "topic_same": 80,
+      "Centroid_Movement": 0.07784572243690491
+    },
+    "actress": {
+      "total_changes": 1272,
+      "total_same": 8728,
+      "topic_to_noise": 4,
+      "all_to_noise": 1002,
+      "topic_change": 4,
+      "topic_same": 78,
+      "Centroid_Movement": 0.08017648756504059
+    }
+  },
+  "Topic_15": {
+    "theory": {
+      "total_changes": 1323,
+      "total_same": 8677,
+      "topic_to_noise": 17,
+      "all_to_noise": 1031,
+      "topic_change": 17,
+      "topic_same": 63,
+      "Centroid_Movement": 0.08990772813558578
+    },
+    "algebra": {
+      "total_changes": 1355,
+      "total_same": 8645,
+      "topic_to_noise": 20,
+      "all_to_noise": 1053,
+      "topic_change": 20,
+      "topic_same": 60,
+      "Centroid_Movement": 0.0792415514588356
+    },
+    "is": {
+      "total_changes": 1474,
+      "total_same": 8526,
+      "topic_to_noise": 14,
+      "all_to_noise": 1120,
+      "topic_change": 14,
+      "topic_same": 66,
+      "Centroid_Movement": 0.09321878105401993
+    },
+    "if": {
+      "total_changes": 1355,
+      "total_same": 8645,
+      "topic_to_noise": 10,
+      "all_to_noise": 1060,
+      "topic_change": 11,
+      "topic_same": 69,
+      "Centroid_Movement": 0.10089825093746185
+    },
+    "functions": {
+      "total_changes": 1352,
+      "total_same": 8648,
+      "topic_to_noise": 12,
+      "all_to_noise": 1062,
+      "topic_change": 12,
+      "topic_same": 68,
+      "Centroid_Movement": 0.08001182228326797
+    },
+    "set": {
+      "total_changes": 1381,
+      "total_same": 8619,
+      "topic_to_noise": 17,
+      "all_to_noise": 1091,
+      "topic_change": 17,
+      "topic_same": 63,
+      "Centroid_Movement": 0.092563696205616
+    },
+    "algebraic": {
+      "total_changes": 1301,
+      "total_same": 8699,
+      "topic_to_noise": 17,
+      "all_to_noise": 1016,
+      "topic_change": 17,
+      "topic_same": 63,
+      "Centroid_Movement": 0.0849994570016861
+    },
+    "function": {
+      "total_changes": 1356,
+      "total_same": 8644,
+      "topic_to_noise": 17,
+      "all_to_noise": 1068,
+      "topic_change": 17,
+      "topic_same": 63,
+      "Centroid_Movement": 0.08152379840612411
+    },
+    "theorem": {
+      "total_changes": 1310,
+      "total_same": 8690,
+      "topic_to_noise": 10,
+      "all_to_noise": 1035,
+      "topic_change": 10,
+      "topic_same": 70,
+      "Centroid_Movement": 0.09246370941400528
+    },
+    "numbers": {
+      "total_changes": 1330,
+      "total_same": 8670,
+      "topic_to_noise": 14,
+      "all_to_noise": 1045,
+      "topic_change": 14,
+      "topic_same": 66,
+      "Centroid_Movement": 0.08946088701486588
+    }
+  },
+  "Topic_16": {
+    "chinese": {
+      "total_changes": 1328,
+      "total_same": 8672,
+      "topic_to_noise": 0,
+      "all_to_noise": 1044,
+      "topic_change": 0,
+      "topic_same": 77,
+      "Centroid_Movement": 0.0719214603304863
+    },
+    "dynasty": {
+      "total_changes": 1350,
+      "total_same": 8650,
+      "topic_to_noise": 1,
+      "all_to_noise": 1054,
+      "topic_change": 1,
+      "topic_same": 76,
+      "Centroid_Movement": 0.08983362466096878
+    },
+    "hong": {
+      "total_changes": 1359,
+      "total_same": 8641,
+      "topic_to_noise": 1,
+      "all_to_noise": 1063,
+      "topic_change": 1,
+      "topic_same": 76,
+      "Centroid_Movement": 0.07732309401035309
+    },
+    "kong": {
+      "total_changes": 1307,
+      "total_same": 8693,
+      "topic_to_noise": 0,
+      "all_to_noise": 1018,
+      "topic_change": 0,
+      "topic_same": 77,
+      "Centroid_Movement": 0.08924490213394165
+    },
+    "confucian": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 77,
+      "Centroid_Movement": 0.08070527762174606
+    },
+    "han": {
+      "total_changes": 1365,
+      "total_same": 8635,
+      "topic_to_noise": 3,
+      "all_to_noise": 1073,
+      "topic_change": 3,
+      "topic_same": 74,
+      "Centroid_Movement": 0.09137123823165894
+    },
+    "confucius": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 77,
+      "Centroid_Movement": 0.08109412342309952
+    },
+    "taiwan": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 77,
+      "Centroid_Movement": 0.07665982842445374
+    },
+    "confucianism": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 77,
+      "Centroid_Movement": 0.0849372074007988
+    },
+    "china": {
+      "total_changes": 1325,
+      "total_same": 8675,
+      "topic_to_noise": 1,
+      "all_to_noise": 1035,
+      "topic_change": 1,
+      "topic_same": 76,
+      "Centroid_Movement": 0.07312894612550735
+    }
+  },
+  "Topic_17": {
+    "cars": {
+      "total_changes": 1366,
+      "total_same": 8634,
+      "topic_to_noise": 2,
+      "all_to_noise": 1060,
+      "topic_change": 2,
+      "topic_same": 70,
+      "Centroid_Movement": 0.06361214816570282
+    },
+    "company": {
+      "total_changes": 1336,
+      "total_same": 8664,
+      "topic_to_noise": 1,
+      "all_to_noise": 1048,
+      "topic_change": 1,
+      "topic_same": 71,
+      "Centroid_Movement": 0.0898723378777504
+    },
+    "engine": {
+      "total_changes": 1326,
+      "total_same": 8674,
+      "topic_to_noise": 2,
+      "all_to_noise": 1017,
+      "topic_change": 2,
+      "topic_same": 70,
+      "Centroid_Movement": 0.0662677213549614
+    },
+    "ford": {
+      "total_changes": 1362,
+      "total_same": 8638,
+      "topic_to_noise": 1,
+      "all_to_noise": 1085,
+      "topic_change": 1,
+      "topic_same": 71,
+      "Centroid_Movement": 0.0695994645357132
+    },
+    "audi": {
+      "total_changes": 1292,
+      "total_same": 8708,
+      "topic_to_noise": 1,
+      "all_to_noise": 1002,
+      "topic_change": 1,
+      "topic_same": 71,
+      "Centroid_Movement": 0.07539722323417664
+    },
+    "engines": {
+      "total_changes": 1334,
+      "total_same": 8666,
+      "topic_to_noise": 1,
+      "all_to_noise": 1067,
+      "topic_change": 1,
+      "topic_same": 71,
+      "Centroid_Movement": 0.0712520033121109
+    },
+    "car": {
+      "total_changes": 1298,
+      "total_same": 8702,
+      "topic_to_noise": 1,
+      "all_to_noise": 1020,
+      "topic_change": 1,
+      "topic_same": 71,
+      "Centroid_Movement": 0.061109334230422974
+    },
+    "martin": {
+      "total_changes": 1300,
+      "total_same": 8700,
+      "topic_to_noise": 0,
+      "all_to_noise": 1016,
+      "topic_change": 0,
+      "topic_same": 72,
+      "Centroid_Movement": 0.10484521836042404
+    },
+    "aston": {
+      "total_changes": 1361,
+      "total_same": 8639,
+      "topic_to_noise": 1,
+      "all_to_noise": 1091,
+      "topic_change": 1,
+      "topic_same": 71,
+      "Centroid_Movement": 0.07565091550350189
+    },
+    "bmw": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 72,
+      "Centroid_Movement": 0.06873054802417755
+    }
+  },
+  "Topic_18": {
+    "plant": {
+      "total_changes": 1366,
+      "total_same": 8634,
+      "topic_to_noise": 0,
+      "all_to_noise": 1083,
+      "topic_change": 0,
+      "topic_same": 71,
+      "Centroid_Movement": 0.07188025116920471
+    },
+    "flowers": {
+      "total_changes": 1271,
+      "total_same": 8729,
+      "topic_to_noise": 1,
+      "all_to_noise": 1004,
+      "topic_change": 1,
+      "topic_same": 70,
+      "Centroid_Movement": 0.08310443162918091
+    },
+    "superorder": {
+      "total_changes": 1290,
+      "total_same": 8710,
+      "topic_to_noise": 2,
+      "all_to_noise": 1006,
+      "topic_change": 2,
+      "topic_same": 69,
+      "Centroid_Movement": 0.09697511047124863
+    },
+    "order": {
+      "total_changes": 1296,
+      "total_same": 8704,
+      "topic_to_noise": 0,
+      "all_to_noise": 1013,
+      "topic_change": 0,
+      "topic_same": 71,
+      "Centroid_Movement": 0.08514146506786346
+    },
+    "family": {
+      "total_changes": 1326,
+      "total_same": 8674,
+      "topic_to_noise": 0,
+      "all_to_noise": 1031,
+      "topic_change": 0,
+      "topic_same": 71,
+      "Centroid_Movement": 0.0921056941151619
+    },
+    "benth": {
+      "total_changes": 1308,
+      "total_same": 8692,
+      "topic_to_noise": 1,
+      "all_to_noise": 1027,
+      "topic_change": 1,
+      "topic_same": 70,
+      "Centroid_Movement": 0.09725049883127213
+    },
+    "nepeta": {
+      "total_changes": 1299,
+      "total_same": 8701,
+      "topic_to_noise": 1,
+      "all_to_noise": 1007,
+      "topic_change": 1,
+      "topic_same": 70,
+      "Centroid_Movement": 0.09237614274024963
+    },
+    "plants": {
+      "total_changes": 1348,
+      "total_same": 8652,
+      "topic_to_noise": 0,
+      "all_to_noise": 1059,
+      "topic_change": 0,
+      "topic_same": 71,
+      "Centroid_Movement": 0.07876942306756973
+    },
+    "olearia": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 71,
+      "Centroid_Movement": 0.09429508447647095
+    },
+    "species": {
+      "total_changes": 1321,
+      "total_same": 8679,
+      "topic_to_noise": 0,
+      "all_to_noise": 1039,
+      "topic_change": 0,
+      "topic_same": 71,
+      "Centroid_Movement": 0.08429019153118134
+    }
+  },
+  "Topic_19": {
+    "missile": {
+      "total_changes": 1325,
+      "total_same": 8675,
+      "topic_to_noise": 4,
+      "all_to_noise": 1032,
+      "topic_change": 4,
+      "topic_same": 67,
+      "Centroid_Movement": 0.06997372210025787
+    },
+    "air": {
+      "total_changes": 1374,
+      "total_same": 8626,
+      "topic_to_noise": 5,
+      "all_to_noise": 1083,
+      "topic_change": 5,
+      "topic_same": 66,
+      "Centroid_Movement": 0.08353166282176971
+    },
+    "aircraft": {
+      "total_changes": 1342,
+      "total_same": 8658,
+      "topic_to_noise": 3,
+      "all_to_noise": 1073,
+      "topic_change": 4,
+      "topic_same": 67,
+      "Centroid_Movement": 0.07695797085762024
+    },
+    "force": {
+      "total_changes": 1324,
+      "total_same": 8676,
+      "topic_to_noise": 2,
+      "all_to_noise": 1043,
+      "topic_change": 3,
+      "topic_same": 68,
+      "Centroid_Movement": 0.08951260149478912
+    },
+    "missiles": {
+      "total_changes": 1383,
+      "total_same": 8617,
+      "topic_to_noise": 4,
+      "all_to_noise": 1093,
+      "topic_change": 4,
+      "topic_same": 67,
+      "Centroid_Movement": 0.07105725258588791
+    },
+    "boeing": {
+      "total_changes": 0,
+      "total_same": 10000,
+      "topic_to_noise": 0,
+      "all_to_noise": 0,
+      "topic_change": 0,
+      "topic_same": 71,
+      "Centroid_Movement": 0.09266391396522522
+    },
+    "guns": {
+      "total_changes": 1355,
+      "total_same": 8645,
+      "topic_to_noise": 5,
+      "all_to_noise": 1055,
+      "topic_change": 5,
+      "topic_same": 66,
+      "Centroid_Movement": 0.07340969145298004
+    },
+    "gun": {
+      "total_changes": 1345,
+      "total_same": 8655,
+      "topic_to_noise": 4,
+      "all_to_noise": 1045,
+      "topic_change": 5,
+      "topic_same": 66,
+      "Centroid_Movement": 0.0711965560913086
+    },
+    "tank": {
+      "total_changes": 1346,
+      "total_same": 8654,
+      "topic_to_noise": 6,
+      "all_to_noise": 1070,
+      "topic_change": 6,
+      "topic_same": 65,
+      "Centroid_Movement": 0.0865921676158905
+    },
+    "artillery": {
+      "total_changes": 1325,
+      "total_same": 8675,
+      "topic_to_noise": 5,
+      "all_to_noise": 1062,
+      "topic_change": 5,
+      "topic_same": 66,
+      "Centroid_Movement": 0.0767429918050766
+    }
+  }
+}
