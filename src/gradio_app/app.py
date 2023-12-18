@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from src.gradio_app.create_graphs import create_graph_comprehensiveness
 
 def plot(dataset, topic, plot_type):
-    base = f"results/keybert/{dataset}"
+    base = f"results/centroid/{dataset}"
     plot_map = {
         "Total_Changes":1, "Topic_Changes":2, "Topic_To_Noise":3, "All_To_Noise":4, "Centroid_Movement" : 5
     } 
