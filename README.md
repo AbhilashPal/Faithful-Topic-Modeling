@@ -16,3 +16,4 @@ where
 Just run `python -m src.gradio_app.app`
 After that, based on your choice, you can load and see the difference in rankings for different topics.
 
+3. To get overall statistics, one should follow `Results.ipynb` and run the respective code blocks after replacing them with the path the initial results are saved in. 
