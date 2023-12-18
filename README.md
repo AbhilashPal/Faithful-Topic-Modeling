@@ -16,3 +16,5 @@ where
 
 2. Secondly it is easy to run the Gradio interface to interact with the representative graphs per topic. 
 Just run `python -m src.gradio_app.app`
+After that, based on your choice, you can load and see the difference in rankings for different topics.
+
