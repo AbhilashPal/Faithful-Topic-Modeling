@@ -5,7 +5,7 @@ from tqdm import tqdm
 import os 
 import json
 from os.path import join
-from src.utils import clean_dataset,list_to_dict,convert_ctfidf
+from src.utils import clean_dataset,list_to_dict,convert_ctfidf,NpEncoder
 from bertopic.representation import KeyBERTInspired
 
 def remove_word_from_list(word_to_remove: str, string_list: List[str]) -> List[str]:
@@ -205,7 +205,7 @@ def save_base(c_tf_idf_mappings,df_basic_mapping,topic_list,path) -> None:
     # save c_tf_idf_mappings
     path = path + "Temporary_Results/Base_Results/"
     with open(path + "/ctf_idf_mappings.json", 'w') as json_file:
-        json.dump(c_tf_idf_mappings, json_file)
+        json.dump(c_tf_idf_mappings, json_file,cls=NpEncoder)
     df_basic_mapping.to_csv(path+"/df_basic_mapping.csv")
     topic_list.to_csv(path+"/base.csv",columns=["Representation","Count"])
 
