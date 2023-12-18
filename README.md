@@ -1,6 +1,8 @@
-# Faithful-Topic-Modeling
+<div style="float: left; margin-right: 10px;">
+    <img src="logo.jpeg" alt="Faithful and Interpretable Topic Modeling" width="200"/>
+</div>
 
-<img src="logo.jpeg" alt="Faithful and Interpretable Topic Modeling" width="200"/>
+# Faithful-Topic-Modeling
 
 Files for the repo on Faithful Neural Topic Modeling. The main objective of the thesis is to understand how the inbuilt
 metric of cTF-IDF of BERTopic matches up against other intrinsic metrics borrowed from XAI into Topic Modeling, namely 
