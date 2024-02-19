@@ -1,7 +1,7 @@
 import argparse
 
 from src.utils import create_folders_if_not_exist, read_csv_column
-from src.calculate_comprehensiveness import dump_comprehensiveness_results
+from src.calculate_sufficiency import dump_sufficiency_results
 
 def main():
     # Create an ArgumentParser object
@@ -10,7 +10,7 @@ def main():
     parser.add_argument("--dataset", type=str, help="CSV dataset with the data in one column.")
     parser.add_argument("--column", type=str, help="CSV dataset column.")
     parser.add_argument("--k", type=int, help="Top k topics to run the ablation for.")
-    parser.add_argument("--keybert", action="store_true", help="Use KeybertInspired or Not.")
+    parser.add_argument("--model", type=int, help="Which model to use.")
     # Parse the command-line arguments
     args = parser.parse_args()
     # Call the function to create the folder
@@ -21,8 +21,8 @@ def main():
 
     docs = read_csv_column(csv_file=args.dataset,column_name=args.column)
 
-    #call comprehensiveness run
-    dump_comprehensiveness_results(docs,args.k,args.path,use_keybert=args.keybert)
+    #call sufficiency run
+    dump_sufficiency_results(docs,args.k,args.path,model=args.model)
 
 if __name__ == "__main__":
     main()

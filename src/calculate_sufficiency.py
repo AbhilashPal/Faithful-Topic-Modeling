@@ -1,24 +1,25 @@
 import pandas as pd
 from bertopic import BERTopic
-from bertopic.representation import PartOfSpeech,MaximalMarginalRelevance,KeyBERTInspired
+from bertopic.representation import PartOfSpeech, MaximalMarginalRelevance
 from typing import List, Dict
 from tqdm import tqdm
 import os 
 import json
 from os.path import join
 from src.utils import clean_dataset,list_to_dict,convert_ctfidf,NpEncoder
+from bertopic.representation import KeyBERTInspired
 
-def remove_word_from_list(word_to_remove: str, string_list: List[str]) -> List[str]:
-    """Removes a given word from the a List of Strings.
+def filter_documents(documents, allowed_words):
+    filtered_documents = []
 
-    Args:
-        word_to_remove (str): The given word
-        string_list (List[str]): The list of strings from which to remove the word.
+    for document in documents:
+        filtered_document = []
+        for word in document.split():
+            if word in allowed_words:
+                filtered_document.append(word)
+        filtered_documents.append(" ".join(filtered_document))
 
-    Returns:
-        List[str]: The resulting list of strings.
-    """
-    return [string.replace(word_to_remove, "") for string in string_list]
+    return filtered_documents
 
 def compare_topics(df1: pd.DataFrame, df2: pd.DataFrame, topic_num: int) -> Dict[str,int]:
     """Compare the Topic Columns in two Dataframes and return a results dict.
@@ -82,15 +83,15 @@ def compare_topics(df1: pd.DataFrame, df2: pd.DataFrame, topic_num: int) -> Dict
 
     return results
 
-def comprehensiveness_checks( docs: List[str], k: int) -> Dict[str, Dict[str,int]]:
-    """Main Function to check for Comprehensiveness.
+def sufficiency_checks( docs: List[str], k: int) -> Dict[str, Dict[str,int]]:
+    """Main Function to check for sufficiency.
     
     Take as input a list of topics and the initial documents, perturbs the documents
     by removing one topic word after another and repeats the modeling to find if the
     topic changes.
     Args:
         docs (List[str]): Initial List of Documents.
-        k (int): The k'th topic for which to run the comprehensiveness check.
+        k (int): The k'th topic for which to run the sufficiency check.
 
     Returns:
         Dict[str, Dict[str,int]]: Dict mapping words in k'th topic to the comparison results.
@@ -105,7 +106,7 @@ def comprehensiveness_checks( docs: List[str], k: int) -> Dict[str, Dict[str,int
 
 
     for word in tqdm(topic_list[k+1]):
-        new_docs = remove_word_from_list(word, docs)
+        new_docs = filter_documents(word, docs)
         new_topics, probs = anchor_topic_model.transform(new_docs)
         df_new_mapping = pd.DataFrame({"Document": docs, "Topic": new_topics})
 
@@ -113,7 +114,26 @@ def comprehensiveness_checks( docs: List[str], k: int) -> Dict[str, Dict[str,int
 
     return ablation_mappings
 
-def raw_comprehensiveness_checks( docs: List[str], k: int, model: int) -> pd.DataFrame:
+def load_model(model:int) :
+    """Load the corresponding model based on the model number
+
+    Args:
+        model (int): ranging from 1 - 4 
+    """
+    if model == 1 :
+        return BERTopic()
+    elif model == 2 :
+        representation_model = KeyBERTInspired()
+        return BERTopic(representation_model=representation_model)
+    elif model == 3 :
+        representation_model = PartOfSpeech("en_core_web_sm")
+        return BERTopic(representation_model=representation_model)
+    else : 
+        representation_model = MaximalMarginalRelevance(diversity=0.3)
+        return BERTopic(representation_model=representation_model)
+
+
+def raw_sufficiency_checks( docs: List[str], k: int, model: int) -> pd.DataFrame:
     """
     Take as input a list of topics and the initial documents, perturbs the documents
     by removing one topic word after another and repeats the modeling to find if the
@@ -128,11 +148,11 @@ def raw_comprehensiveness_checks( docs: List[str], k: int, model: int) -> pd.Dat
 
     # forming doc -> topic pairing
     df_basic_mapping = pd.DataFrame({"Document": docs, "Topic": topics})
-    
+
     for topic_i in tqdm(range(k)):
         ablation_mappings = {}
         for word in c_tf_idf_mappings[topic_i].keys():
-            new_docs = remove_word_from_list(word, docs)
+            new_docs = filter_documents(docs, [word])
             new_topics, probs = anchor_topic_model.transform(new_docs)
             df_new_mapping = pd.DataFrame({"Document": docs, "Topic": new_topics})
             ablation_mappings[word] =  df_new_mapping
@@ -140,32 +160,37 @@ def raw_comprehensiveness_checks( docs: List[str], k: int, model: int) -> pd.Dat
 
     return final_ablation_mappings,c_tf_idf_mappings,df_basic_mapping,topic_list
 
-def raw_comprehensiveness_checks_cumulative(docs: List[str], k: int, model : int) -> pd.DataFrame:
+def raw_sufficiency_checks_cumulative(docs: List[str], k: int, use_keybert : bool,model:int):
     """
     Take as input a list of topics and the initial documents, perturbs the documents
     by removing one topic word after another and repeats the modeling to find if the
     topic changes.
     """
-    ablation_mappings = {}
+    final_ablation_mappings = {}
     anchor_topic_model = load_model(model)
     topics, probs = anchor_topic_model.fit_transform(docs)
-    topic_list = anchor_topic_model.get_topic_info()["Representation"]
+    topic_list = anchor_topic_model.get_topic_info()
     c_tf_idf_mappings = anchor_topic_model.topic_representations_
+    c_tf_idf_mappings = convert_ctfidf(c_tf_idf_mappings)
 
     # forming doc -> topic pairing
     df_basic_mapping = pd.DataFrame({"Document": docs, "Topic": topics})
 
     new_docs = docs # Initialize new_docs with the original documents
 
-    for  word in topic_list[k+1]: 
-        new_docs = remove_word_from_list(word, new_docs)
+    cumulative_topic_words = []
+    for topic_i in tqdm(range(k)):
+        ablation_mappings = {}
+        for word in c_tf_idf_mappings[topic_i].keys():
+            # print(word)
+            cumulative_topic_words.extend(word)
+            new_docs = filter_documents(docs, cumulative_topic_words)
+            new_topics, probs = anchor_topic_model.transform(new_docs)
+            df_new_mapping = pd.DataFrame({"Document": docs, "Topic": new_topics})
+            ablation_mappings[word] =  df_new_mapping
+        final_ablation_mappings[f"Topic_{topic_i}"] = ablation_mappings
 
-        new_topics, probs = anchor_topic_model.transform(new_docs)
-        df_new_mapping = pd.DataFrame({"Document": new_docs, "Topic": new_topics})
-
-        ablation_mappings[word] = df_new_mapping
-
-    return ablation_mappings, c_tf_idf_mappings, df_basic_mapping, topic_list
+    return final_ablation_mappings, c_tf_idf_mappings, df_basic_mapping, topic_list
 
 def save_raw(data,path) -> None:
     path = path+"/Temporary_Results/Topic_Results/"
@@ -205,26 +230,8 @@ def save_base(c_tf_idf_mappings,df_basic_mapping,topic_list,path) -> None:
     df_basic_mapping.to_csv(path+"/df_basic_mapping.csv")
     topic_list.to_csv(path+"/base.csv",columns=["Representation","Count"])
 
-def load_model(model:int) :
-    """Load the corresponding model based on the model number
-
-    Args:
-        model (int): ranging from 1 - 4 
-    """
-    if model == 1 :
-        return BERTopic()
-    elif model == 2 :
-        representation_model = KeyBERTInspired()
-        return BERTopic(representation_model=representation_model)
-    elif model == 3 :
-        representation_model = PartOfSpeech("en_core_web_sm")
-        return BERTopic(representation_model=representation_model)
-    else : 
-        representation_model = MaximalMarginalRelevance(diversity=0.3)
-        return BERTopic(representation_model=representation_model)
-
-def dump_comprehensiveness_results(docs: List[str],k:int,path:str,model:int):
-    """Runs comprehensiveness checks for each of the top k topics formed by Bertopic on the given 
+def dump_sufficiency_results(docs: List[str],k:int,path:str,model:int):
+    """Runs sufficiency checks for each of the top k topics formed by Bertopic on the given 
     docs and saves the results in the given path, creating two folders : 
         - Temporary_Results :
             - Base_Results : Containing the base Bertopic Model Results.
@@ -239,14 +246,14 @@ def dump_comprehensiveness_results(docs: List[str],k:int,path:str,model:int):
     """
     ablation_top_k_topics = {}
 
-    ablation_top_k_topics,c_tf_idf_mappings,df_basic_mapping,topic_list = raw_comprehensiveness_checks(docs,k,model)
-    print("========Comprehensiveness Ablation Tests done========")
+    ablation_top_k_topics,c_tf_idf_mappings,df_basic_mapping,topic_list = raw_sufficiency_checks(docs,k,model)
+    print("========sufficiency Ablation Tests done========")
 
     save_base(c_tf_idf_mappings,df_basic_mapping,topic_list,path) # save base results
     save_raw(ablation_top_k_topics,path) # save raw topic results 
 
-def dump_comprehensiveness_results_cumulative(docs: List[str],k:int,path:str,model:int):
-    """Runs comprehensiveness checks for each of the top k topics formed by Bertopic on the given 
+def dump_sufficiency_results_cumulative(docs: List[str],k:int,path:str,model:int):
+    """Runs sufficiency checks for each of the top k topics formed by Bertopic on the given 
     docs and saves the results in the given path, creating two folders : 
         - Temporary_Results :
             - Base_Results : Containing the base Bertopic Model Results.
@@ -261,9 +268,8 @@ def dump_comprehensiveness_results_cumulative(docs: List[str],k:int,path:str,mod
     """
     ablation_top_k_topics = {}
 
-    for topic_i in tqdm(range(k)):
-        ablation_top_k_topics[f"Topic_{topic_i}"],c_tf_idf_mappings,df_basic_mapping,topic_list = raw_comprehensiveness_checks_cumulative(docs,topic_i,model)
-    print("========Comprehensiveness Ablation Tests done========")
+    ablation_top_k_topics,c_tf_idf_mappings,df_basic_mapping,topic_list = raw_sufficiency_checks_cumulative(docs,k,model)
+    print("========sufficiency Ablation Tests done========")
 
     save_base(c_tf_idf_mappings,df_basic_mapping,topic_list,path) # save base results
     save_raw(ablation_top_k_topics,path) # save raw topic results 
