@@ -123,11 +123,27 @@ def raw_comprehensiveness_checks( docs: List[str], k: int, model: int) -> pd.Dat
     anchor_topic_model = load_model(model)
     topics, probs = anchor_topic_model.fit_transform(docs)
     topic_list = anchor_topic_model.get_topic_info()
+    topic_list['Representation'] = topic_list['Representation'].apply(lambda x: x[-10:])
     c_tf_idf_mappings = anchor_topic_model.topic_representations_
     c_tf_idf_mappings = convert_ctfidf(c_tf_idf_mappings)
 
     # forming doc -> topic pairing
     df_basic_mapping = pd.DataFrame({"Document": docs, "Topic": topics})
+
+    if model == 5 :
+        #randomization loop 
+        for topic_i in tqdm(range(k)):
+            ablation_mappings = {}
+            for word in anchor_topic_model.get_topic(topic_i)[-10:]:
+                # print(word[0])
+                new_docs = remove_word_from_list(word[0], docs)
+                new_topics, probs = anchor_topic_model.transform(new_docs)
+                df_new_mapping = pd.DataFrame({"Document": docs, "Topic": new_topics})
+                ablation_mappings[word[0]] =  df_new_mapping
+            final_ablation_mappings[f"Topic_{topic_i}"] = ablation_mappings
+
+        return final_ablation_mappings,c_tf_idf_mappings,df_basic_mapping,topic_list
+
     
     for topic_i in tqdm(range(k)):
         ablation_mappings = {}
@@ -219,9 +235,11 @@ def load_model(model:int) :
     elif model == 3 :
         representation_model = PartOfSpeech("en_core_web_sm")
         return BERTopic(representation_model=representation_model)
-    else : 
+    elif model == 4 : 
         representation_model = MaximalMarginalRelevance(diversity=0.3)
         return BERTopic(representation_model=representation_model)
+    else : # randomized model
+        return BERTopic(top_n_words=50)
 
 def dump_comprehensiveness_results(docs: List[str],k:int,path:str,model:int):
     """Runs comprehensiveness checks for each of the top k topics formed by Bertopic on the given 

@@ -89,10 +89,10 @@ def get_stats(path_to_base:str,topic_num:int)-> None:
         for words in loaded_data[topic_i].keys():
             results[topic_i][words] = compare_topics(df_basic_mapping,loaded_data[topic_i][words],int(topic_i.split("_")[-1]))
             # print(centroid_results[topic_i])
-            if words == ".csv":
-                results[topic_i][words]["Centroid_Movement"] = centroid_results[topic_i][""]
-            else:
-                results[topic_i][words]["Centroid_Movement"] = centroid_results[topic_i][words]
+            # if words == ".csv":
+            #     results[topic_i][words]["Centroid_Movement"] = centroid_results[topic_i][""]
+            # else:
+            #     results[topic_i][words]["Centroid_Movement"] = centroid_results[topic_i][words]
 
     with open(f"{path_to_base}/Processed_Results/comparison_result.json", 'w') as json_file:
         json.dump(results, json_file,cls=NpEncoder)
@@ -119,28 +119,32 @@ def get_topic_change_statistics(data, topic_numbers,total_docs,total_topic_docs)
         words = list(topic_data.keys())
         total_changes = [word_data['total_changes'] for word_data in topic_data.values()]
         topic_change = [word_data['topic_change'] for word_data in topic_data.values()]
+        topic_same = [word_data['topic_same'] for word_data in topic_data.values()]
         topic_to_noise = [word_data['topic_to_noise'] for word_data in topic_data.values()]
-        Centroid_Movement = [word_data['Centroid_Movement'] for word_data in topic_data.values()]
+        # Centroid_Movement = [word_data['Centroid_Movement'] for word_data in topic_data.values()]
         
 
         # Calculate percentages
         total_changes_percentage = [value / total_docs * 100 for value in total_changes]
         topic_change_percentage = [value / total_topic_docs[topic_number] * 100 for value in topic_change]
         topic_to_noise_percentage = [value / total_topic_docs[topic_number] * 100 for value in topic_to_noise]
-        Centroid_Movement_percentage = [value / total_topic_docs[topic_number] * 100 for value in Centroid_Movement]
+        topic_same_percentage = [value / total_topic_docs[topic_number] * 100 for value in topic_same]
+        # Centroid_Movement_percentage = [value / total_topic_docs[topic_number] * 100 for value in Centroid_Movement]
 
         topic_res = {
             "Topic_Change" : {},
             "Total_Change" : {},
             "Topic_to_Noise_Change" : {},
-            "Centroid_Movement" : {}
+            "Centroid_Movement" : {},
+            "Topic_Same" : {}
         }
 
         for idx,word in enumerate(words):
             topic_res['Topic_Change'][word] = topic_change_percentage[idx]
             topic_res['Total_Change'][word] = total_changes_percentage[idx]
             topic_res['Topic_to_Noise_Change'][word] = topic_to_noise_percentage[idx]
-            topic_res['Centroid_Movement'][word] = Centroid_Movement_percentage[idx]
+            topic_res['Topic_Same'][word] = topic_same_percentage[idx]
+            # topic_res['Centroid_Movement'][word] = Centroid_Movement_percentage[idx]
         
         results[topic_number] = topic_res    
     
@@ -169,6 +173,18 @@ def plot_correlations(correlations_):
     # Show the plot
     plt.show()
 
+def normalize(x):
+    if sum(x) == 0 :
+        return [val + 0.5 for val in x]
+    elif max(x) == min(x):
+        # Handle the case where all elements are the same
+        return [0] * len(x)
+    else:
+        x_ = []
+        for i in x:
+            x_.append((i - min(x)) / (max(x) - min(x)))
+        return x_
+    
 def create_overall_stats(path_to_base:str,k:int,choice,top_k:int = 10):
     # Create subplots
     # fig, axes = plt.subplots(figsize=(8, 6))
@@ -206,9 +222,14 @@ def create_overall_stats(path_to_base:str,k:int,choice,top_k:int = 10):
         # get the ranks based on percentage of topics changed per representative word
         y = list(topic_change_stat[topic_number][choice].values())
         
-        rho, p_value = scipy.stats.spearmanr(x[:top_k], y[:top_k])
-        correlations_.append(rho)
-        p_values.append(p_value)
+        if y == [0]:
+            y = [0.5]*len(x)
+
+        x,y = normalize(x),normalize(y)
+        if len(x[-10:])==len(y[-10:]):
+            rho, p_value = scipy.stats.spearmanr(x[-10:], y[-10:])
+            correlations_.append(rho)
+            p_values.append(p_value)
     return (correlations_,p_values)
 
 def correlation_stats(correlations, p_values):
@@ -220,16 +241,22 @@ def correlation_stats(correlations, p_values):
     filtered_p_val_avg = sum(p_val for _, p_val in filtered_data) / len(filtered_data) if filtered_data else None
 
     return {
-        'overall_corr_avg': overall_corr_avg,
+        'overall_corr_avg': correlations,
         'overall_p_val_avg': overall_p_val_avg,
-        'filtered_corr_avg': filtered_corr_avg,
+        'filtered_corr_avg': [i for i,j in filtered_data],
         'filtered_p_val_avg': filtered_p_val_avg
     }
+
+def save_list_to_text_file(lst, file_path):
+    with open(file_path, 'w') as f:
+        for item in lst:
+            f.write(str(item) + '\n')
 
 def run(ablation_base,k,topk):
     get_stats(ablation_base,k)
     c,p = create_overall_stats(ablation_base,k,"Topic_Change",topk)
     c,p = remove_nan_entries(c,p)
+    save_list_to_text_file(c,ablation_base+"/correlations.txt")
     corr = correlation_stats(c,p)
     print(corr)
     c_tc = corr["overall_corr_avg"]
@@ -257,15 +284,27 @@ def percent_document_unchanged(path,total_topics,intervals):
     f = open(path+"/Processed_Results/comparison_result.json")
     data = json.load(f)
 
+    counts = counts[1:]
+    # print(counts,len(counts))
+
     # for each topic loop over
     for topic_i in range(total_topics):
-        if "" not in ast.literal_eval(representation_word_list[topic_i+1]):
+        top_rep_wl = representation_word_list[topic_i+1]
+        # if "randomization" in path :
+        #     top_rep_wl = top_rep_wl[-10:]
+        if "" not in ast.literal_eval(top_rep_wl):
             topic_data = data[f"Topic_{topic_i}"]
             topic_unchanged = []
+            
             # for each word in the topic
-            for word in ast.literal_eval(representation_word_list[topic_i+1]):
-                topic_unchanged.append(topic_data[word]["topic_same"])
-                
+            for word in ast.literal_eval(top_rep_wl):
+                # print(topic_data.keys())
+                if word in topic_data:
+                    topic_unchanged.append(topic_data[word]["topic_same"])
+                else:
+                    topic_unchanged.append(0)
+            
+            topic_unchanged = topic_unchanged[-10:] # to include randomization model
             for k in intervals: # 
                 result[k].append(sum(topic_unchanged[:k])/counts[topic_i])
 
@@ -282,19 +321,24 @@ def percent_document_change(path,total_topics,intervals):
     # open base to get counts
     base = pd.read_csv(path+"/Temporary_Results/Base_Results/base.csv")
     counts = base["Count"].to_list()
+    counts = counts[1:] # remove the noise class counts i.e -1 
     representation_word_list = base["Representation"].to_list()
-
+    
     # open comparison_result.json to get data about topic change
     f = open(path+"/Processed_Results/comparison_result.json")
     data = json.load(f)
 
     # for each topic loop over
     for topic_i in range(total_topics):
-        if "" not in ast.literal_eval(representation_word_list[topic_i+1]):
+        top_rep_wl = representation_word_list[topic_i+1]
+        # if "randomization" in path :
+        #     top_rep_wl = top_rep_wl[-10:]
+        if "" not in ast.literal_eval(top_rep_wl):
             topic_data = data[f"Topic_{topic_i}"]
             topic_change = []
             # for each word in the topic
-            for word in ast.literal_eval(representation_word_list[topic_i+1]):
+            for word in ast.literal_eval(top_rep_wl):
+                # print(topic_data.keys())
                 topic_change.append(topic_data[word]["topic_change"])
                 
             for k in intervals: # 
@@ -308,6 +352,7 @@ def run_comprehensiveness(ablation_base,total_topics,total_words,intervals,field
     get_stats(ablation_base,total_topics)
     c,p = create_overall_stats(ablation_base,total_topics,field,total_words)
     c,p = remove_nan_entries(c,p)
+    save_list_to_text_file(c,ablation_base+"/correlations.txt")
     corr = correlation_stats(c,p)
     change = percent_document_change(ablation_base,total_topics,intervals)
     print("=====================================================")
@@ -315,10 +360,12 @@ def run_comprehensiveness(ablation_base,total_topics,total_words,intervals,field
     print("=====================================================")
     return(corr,change)
 
-def run_sufficiency(ablation_base,total_topics,total_words,intervals,field="Topic_Change"): # or "Centroid_Movement"
+def run_sufficiency(ablation_base,total_topics,total_words,intervals,field="Topic_Same"): # or "Centroid_Movement"
     get_stats(ablation_base,total_topics)
     c,p = create_overall_stats(ablation_base,total_topics,field,total_words)
     c,p = remove_nan_entries(c,p)
+    # print(c,p)
+    save_list_to_text_file(c,ablation_base+"/correlations.txt")
     corr = correlation_stats(c,p)
     change = percent_document_unchanged(ablation_base,total_topics,intervals)
     print("=====================================================")
@@ -331,11 +378,11 @@ def average_of_n_comprehensiveness(paths,total_topics,total_words,intervals,data
     corr_change = {}
     for path in paths:
         corr_change[path] = run_comprehensiveness(path,total_topics,total_words,intervals,field)
-    print(corr_change)
+    # print(corr_change)
     overall_correlation,filtered_correlation,elements = [],[],{}
     for element in corr_change.keys():
-        overall_correlation.append(corr_change[element][0]["overall_corr_avg"])
-        filtered_correlation.append(corr_change[element][0]["filtered_corr_avg"])
+        overall_correlation.extend(corr_change[element][0]["overall_corr_avg"])
+        filtered_correlation.extend(corr_change[element][0]["filtered_corr_avg"])
         
         for interval in intervals:
             if interval not in elements:
@@ -363,8 +410,8 @@ def average_of_n_sufficiency(paths,total_topics,total_words,intervals,dataset,fi
     
     overall_correlation,filtered_correlation,elements = [],[],{}
     for element in corr_change.keys():
-        overall_correlation.append(corr_change[element][0]["overall_corr_avg"])
-        filtered_correlation.append(corr_change[element][0]["filtered_corr_avg"])
+        overall_correlation.extend(corr_change[element][0]["overall_corr_avg"])
+        filtered_correlation.extend(corr_change[element][0]["filtered_corr_avg"])
         
         for interval in intervals:
             if interval not in elements:
