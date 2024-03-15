@@ -49,6 +49,10 @@ LDA results were generated using the `LDA.ipynb` notebook. They were consumed fo
 
 Centroid Movement Results were obtained using the `centroid_movement.ipynb` notebook. 
 
+## Data
+
+The 20NewsGroups dataset is accessed from scikit-learn. Run `src/save_data.py` as `python -m src.save_data --path /data` to save the dataset and access it later.
+
 ## Acknowledgements : 
 
 - Thanks to the Social Computing Group at TUM for Compute Resources. 
