@@ -75,13 +75,20 @@ def create_graph(path_to_base:str,topic_number:int,choice:int,model:int) -> None
     """
     # Create subplots
     fig, axes = plt.subplots(figsize=(8, 6))
-    f = open(path_to_base+"/Processed_Results/comparison_result.json")
-    data = json.load(f)
-    topic_data = data[f"Topic_{topic_number}"]
-    create_folders_if_not_exist(path_to_base+f"/Processed_Results/graphs/Topic_{topic_number}")
-    f = open(path_to_base+"/Temporary_Results/Base_Results/ctf_idf_mappings.json")
-    ctf_idf_json_topic = json.load(f)[str(topic_number)]
-
+    if model == "LDA":
+        f = open(path_to_base+"/comparison.json")
+        data = json.load(f)
+        topic_data = data[f"{topic_number}"]
+        create_folders_if_not_exist(path_to_base+f"/Processed_Results/graphs/Topic_{topic_number}")
+        f = open(path_to_base+"/base.json")
+        ctf_idf_json_topic = json.load(f)[str(topic_number)]
+    else:
+        f = open(path_to_base+"/Processed_Results/comparison_result.json")
+        data = json.load(f)
+        topic_data = data[f"Topic_{topic_number}"]
+        create_folders_if_not_exist(path_to_base+f"/Processed_Results/graphs/Topic_{topic_number}")
+        f = open(path_to_base+"/Temporary_Results/Base_Results/ctf_idf_mappings.json")
+        ctf_idf_json_topic = json.load(f)[str(topic_number)]
     # Extract word-level statistics
     words = list(ctf_idf_json_topic.keys())
     if model == 'Randomization': words=words[-10:]
